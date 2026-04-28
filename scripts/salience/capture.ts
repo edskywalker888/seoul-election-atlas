@@ -55,26 +55,26 @@ const SNAPSHOT_SCHEMA = {
   required: ["topics"],
   properties: {
     topics: {
+      // Anthropic structured outputs don't support: minItems > 1, maxItems,
+      // minimum/maximum on numbers, minLength/maxLength on strings, format,
+      // multipleOf. Semantic constraints (rank 1–8, prob 0–1, etc.) are
+      // pinned in the system prompt instead.
       type: "array",
-      // Anthropic structured-output constraint: only minItems 0/1 allowed,
-      // and maxItems isn't supported. The system prompt already pins this
-      // to "top 8" — we validate at write time if needed.
-      minItems: 1,
       items: {
         type: "object",
         additionalProperties: false,
         required: ["rank", "topic_en", "topic_ko", "summary", "salience"],
         properties: {
-          rank: { type: "integer", minimum: 1, maximum: 8 },
-          topic_en: { type: "string", minLength: 1 },
-          topic_ko: { type: "string", minLength: 1 },
-          summary: { type: "string", minLength: 1 },
+          rank: { type: "integer" },
+          topic_en: { type: "string" },
+          topic_ko: { type: "string" },
+          summary: { type: "string" },
           sentiment: {
             type: "string",
             enum: ["positive", "negative", "neutral", "mixed"],
           },
-          sentiment_score: { type: "number", minimum: -1, maximum: 1 },
-          salience: { type: "number", minimum: 0, maximum: 1 },
+          sentiment_score: { type: "number" },
+          salience: { type: "number" },
           issue_tag: { type: "string", pattern: "^[a-z][a-z0-9_]*$" },
           evidence_headlines: {
             type: "array",
@@ -83,9 +83,9 @@ const SNAPSHOT_SCHEMA = {
               additionalProperties: false,
               required: ["title"],
               properties: {
-                title: { type: "string", minLength: 1 },
+                title: { type: "string" },
                 outlet: { type: "string" },
-                url: { type: "string", format: "uri" },
+                url: { type: "string" },
               },
             },
           },
