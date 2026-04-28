@@ -2,7 +2,7 @@
 /**
  * NESDC poll scraper for the 2026 Seoul mayoral election.
  *
- * Approach: a Claude agent (Opus 4.7, adaptive thinking) is given web_search
+ * Approach: a Claude agent (Sonnet 4.6, adaptive thinking) is given web_search
  * and web_fetch as server-side tools and instructed to browse NESDC
  * (중앙선거여론조사심의위원회, https://www.nesdc.go.kr) — the public registry
  * where every Korean election poll must be filed — plus pollster summary pages
@@ -11,6 +11,11 @@
  * shape. We then write that JSON with method="nesdc_scrape", which causes the
  * landing-page amber demo-data banner to disappear automatically (the page
  * conditions on `method === "manual_demo"`).
+ *
+ * Cost note: Sonnet 4.6 chosen over Opus 4.7 — the scraping task is
+ * "browse two sites and extract a table," which Sonnet handles cleanly at
+ * roughly one-fifth the per-run cost. Bump to Opus 4.7 if extraction
+ * accuracy regresses.
  *
  * Usage: ANTHROPIC_API_KEY=… npm run polls:scrape
  *
@@ -33,7 +38,7 @@ const OUT = path.join(
   ROOT,
   "data/processed/polls/2026-seoul-mayor/aggregate.json",
 );
-const MODEL = "claude-opus-4-7";
+const MODEL = "claude-sonnet-4-6";
 const MAX_TOOL_ITERATIONS = 6;
 
 const SYSTEM_PROMPT = `You are an agent that extracts Seoul mayoral election polling data from public Korean sources, primarily NESDC (중앙선거여론조사심의위원회, https://www.nesdc.go.kr) — the registry where every Korean election poll must be filed by law.
