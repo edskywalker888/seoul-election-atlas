@@ -56,8 +56,10 @@ const SNAPSHOT_SCHEMA = {
   properties: {
     topics: {
       type: "array",
-      minItems: 8,
-      maxItems: 8,
+      // Anthropic structured-output constraint: only minItems 0/1 allowed,
+      // and maxItems isn't supported. The system prompt already pins this
+      // to "top 8" — we validate at write time if needed.
+      minItems: 1,
       items: {
         type: "object",
         additionalProperties: false,
