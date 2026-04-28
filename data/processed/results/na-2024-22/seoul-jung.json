@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-jung",
+  "winner_party_id": "dpk",
+  "winner_candidate": "전현희",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "전현희",
+      "party_id": "dpk",
+      "votes": 68393,
+      "vote_pct": 52.61
+    },
+    {
+      "name": "윤희숙",
+      "party_id": "ppp",
+      "votes": 61594,
+      "vote_pct": 47.38
+    }
+  ]
+}

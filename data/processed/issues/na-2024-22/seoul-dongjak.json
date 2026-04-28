@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-dongjak",
+  "summary": "Dongjak's most notable feature is 나경원 (Na Kyung-won)'s reclamation of 동작 을 after her 2020 defeat — a roughly 10-point rightward swing (45.04% → 54.01%). Na is a top-tier national PPP figure; her personal profile plus the broader anti-Yoon wave being locally resisted (Dongjak 을 bucked the DPK trend) mark this as a candidate-driven outcome. 동작 갑 stayed DPK (김병기 50.49%). Representative sub-district here: 동작 을.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "Na Kyung-won's profile",
+      "weight": 0.75,
+      "description": "Na is among the highest-profile PPP figures nationally; her 10-point swing back in 2024 is inseparable from her personal political identity."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Counter-wave dynamic",
+      "weight": 0.6,
+      "description": "2024's Seoul pattern was anti-Yoon; 동작 을 going PPP while the national wave went DPK suggests local/candidate factors dominated over mood."
+    },
+    {
+      "tag": "demographics",
+      "label": "Gangnam-adjacent wealth pockets",
+      "weight": 0.5,
+      "description": "Sadang and Heuksuk areas include higher-income apartment clusters adjacent to Seocho/Gangnam; may contribute to structural PPP base distinct from northern Dongjak."
+    }
+  ],
+  "confidence": 0.65,
+  "source_ids": ["wiki-dongjak-eul-na", "wiki-22-ko"]
+}

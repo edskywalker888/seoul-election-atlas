@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-jung",
+  "summary": "Jung-gu's 중구·성동 갑 went DPK (홍익표 54.25 vs 진수희 40.93). Downtown commercial-residential mix; smaller residential population than typical Seoul gu.",
+  "issues": [
+    {
+      "tag": "demographics",
+      "label": "Small residential / commercial base",
+      "weight": 0.55,
+      "description": "Jung-gu has Seoul's smallest population; daytime commercial dominates."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Small-business + commuter mix",
+      "weight": 0.5,
+      "description": "Myeongdong/Euljiro small-business community."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave",
+      "weight": 0.45,
+      "description": "Margin tracks broader Seoul pattern."
+    }
+  ],
+  "confidence": 0.45,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

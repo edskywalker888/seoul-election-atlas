@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-guro",
+  "winner_party_id": "dpk",
+  "winner_candidate": "이인영",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "이인영",
+      "party_id": "dpk",
+      "votes": 72792,
+      "vote_pct": 53.92
+    },
+    {
+      "name": "김재식",
+      "party_id": "ufp",
+      "votes": 53109,
+      "vote_pct": 39.34
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 9099,
+      "vote_pct": 6.74
+    }
+  ]
+}

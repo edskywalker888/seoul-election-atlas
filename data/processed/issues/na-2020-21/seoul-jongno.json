@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-jongno",
+  "summary": "Jongno's 2020 contest was a heavyweight matchup: 이낙연 (DPK, future PM nominee) vs 황교안 (UFP leader, former PM). Lee won 58.38% — a clear DPK margin. Bellwether status drew national attention; Lee resigned the seat in Sept 2021 to pursue the presidential race.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "Heavyweight candidate matchup",
+      "weight": 0.75,
+      "description": "Both candidates were former Prime Ministers; race attracted maximum national media coverage."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon national mood",
+      "weight": 0.7,
+      "description": "COVID-19 handling boosted Moon administration approval; Jongno's bellwether status amplified the wave."
+    },
+    {
+      "tag": "strategic_voting",
+      "label": "Bellwether attention effect",
+      "weight": 0.5,
+      "description": "'정치 1번지' status concentrates national attention and may amplify wave effects."
+    }
+  ],
+  "confidence": 0.65,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

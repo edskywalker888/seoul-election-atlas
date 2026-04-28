@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seocho",
+  "summary": "Seocho is Seoul's second PPP stronghold, driven by class/apartment politics plus the legal-profession cluster (법조 타운) around the Supreme Court/Seocho-dong. 조은희 won 68.44% in 갑 — the largest single-district margin in Seoul in 2024.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Wealth / class composition",
+      "weight": 0.8,
+      "description": "Seocho rivals Gangnam in per-capita income; legal-profession cluster adds professional conservatism."
+    },
+    {
+      "tag": "ideology",
+      "label": "Conservative identity",
+      "weight": 0.75,
+      "description": "Consistent PPP representation for decades."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Real-estate politics",
+      "weight": 0.7,
+      "description": "Banpo/Seocho apartment belts align with Gangnam-style real-estate conservatism."
+    }
+  ],
+  "confidence": 0.65,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

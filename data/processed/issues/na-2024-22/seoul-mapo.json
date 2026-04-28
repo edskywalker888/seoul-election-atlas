@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-mapo",
+  "summary": "Mapo presents a bifurcated picture: 마포구 갑 flipped to PPP (조정훈 48.30% vs 이지은 47.70%, 0.6pp margin), ending a 20-year DPK streak, while 마포구 을 stayed firmly DPK (정청래 52.44%). The narrow flip margin and 조정훈's unusual path (Transition Korea Party → PPP) suggest candidate-specific idiosyncrasy more than structural realignment. This gu-level view uses 마포 을 as representative.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "Candidate idiosyncrasy",
+      "weight": 0.6,
+      "description": "마포 갑's flip is tied to 조정훈's unusual minor-party-to-PPP trajectory and his personal profile, not a broad swing."
+    },
+    {
+      "tag": "demographics",
+      "label": "Young-professional demographic shift",
+      "weight": 0.5,
+      "description": "Mapo's evolving residential/commercial mix (홍대, 상암 media cluster, redevelopment) may be slowly changing the electorate, but direct evidence is thin in current sources."
+    },
+    {
+      "tag": "turnout_shift",
+      "label": "Narrow-margin noise",
+      "weight": 0.45,
+      "description": "0.6pp margin in 마포 갑 is within typical turnout-noise range; caution against over-reading as realignment."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": ["wiki-mapo-gap-na", "wiki-22-ko"]
+}

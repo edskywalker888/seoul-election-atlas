@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-dobong",
+  "summary": "Dobong went DPK in both subs (인재근 갑 54.02, 오기형 을 53.01). 2024 split (PPP took 갑) wasn't foreshadowed by 2020 — both subs were comfortable DPK in 2020.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave (modest)",
+      "weight": 0.55,
+      "description": "Comfortable DPK margins; later gu fluidity not yet visible."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive base",
+      "weight": 0.5,
+      "description": "Consistent DPK representation in 2020."
+    },
+    {
+      "tag": "aging_voters",
+      "label": "Older-age voter share",
+      "weight": 0.4,
+      "description": "Some aging effect but not decisive in 2020."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

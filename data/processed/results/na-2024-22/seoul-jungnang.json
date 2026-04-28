@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-jungnang",
+  "winner_party_id": "dpk",
+  "winner_candidate": "서영교",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "서영교",
+      "party_id": "dpk",
+      "votes": 80496,
+      "vote_pct": 61.92
+    },
+    {
+      "name": "김삼화",
+      "party_id": "ppp",
+      "votes": 49491,
+      "vote_pct": 38.07
+    }
+  ]
+}

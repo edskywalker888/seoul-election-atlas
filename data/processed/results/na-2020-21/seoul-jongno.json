@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-jongno",
+  "winner_party_id": "dpk",
+  "winner_candidate": "이낙연",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "이낙연",
+      "party_id": "dpk",
+      "votes": 78813,
+      "vote_pct": 58.38
+    },
+    {
+      "name": "황교안",
+      "party_id": "ufp",
+      "votes": 53960,
+      "vote_pct": 39.97
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 2228,
+      "vote_pct": 1.65
+    }
+  ]
+}

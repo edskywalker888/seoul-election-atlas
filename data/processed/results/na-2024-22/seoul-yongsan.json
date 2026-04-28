@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-yongsan",
+  "winner_party_id": "ppp",
+  "winner_candidate": "권영세",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "권영세",
+      "party_id": "ppp",
+      "votes": 67301,
+      "vote_pct": 51.77
+    },
+    {
+      "name": "강태웅",
+      "party_id": "dpk",
+      "votes": 61126,
+      "vote_pct": 47.02
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 1573,
+      "vote_pct": 1.21
+    }
+  ]
+}

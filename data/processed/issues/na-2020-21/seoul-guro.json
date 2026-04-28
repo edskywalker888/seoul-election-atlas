@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-guro",
+  "summary": "Guro went DPK in both subs (이인영 갑 53.92, 윤건영 을 57.04). Industrial base + Guro Digital Complex tech cluster + multicultural Daerim neighborhoods.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Industrial / tech-worker base",
+      "weight": 0.6,
+      "description": "Guro Digital Complex anchors progressive young-professional cluster."
+    },
+    {
+      "tag": "demographics",
+      "label": "Multicultural composition",
+      "weight": 0.55,
+      "description": "Daerim Joseon-jok community; distinct demographic profile."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive base",
+      "weight": 0.5,
+      "description": "Consistent DPK representation."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

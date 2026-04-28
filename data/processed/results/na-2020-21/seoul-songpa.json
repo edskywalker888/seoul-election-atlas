@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-songpa",
+  "winner_party_id": "ufp",
+  "winner_candidate": "김웅",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "김웅",
+      "party_id": "ufp",
+      "votes": 69120,
+      "vote_pct": 51.2
+    },
+    {
+      "name": "조재희",
+      "party_id": "dpk",
+      "votes": 64827,
+      "vote_pct": 48.02
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 1053,
+      "vote_pct": 0.78
+    }
+  ]
+}

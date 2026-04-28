@@ -1,0 +1,41 @@
+{
+  "election_id": "na-2024-22",
+  "tag": "opposition_unity",
+  "title": "Opposition consolidation, by design",
+  "subtitle": "DPK + Democratic Alliance + Cho Kuk Innovation Party — coordinated mechanics, not organic unity",
+  "thesis": "The 22nd Democratic-led majority was the product of deliberate pre-election coordination — particularly the satellite-party structure exploiting proportional representation, plus the Cho Kuk Innovation Party's strategic decision to run zero constituency candidates. This was opposition strategy, not a spontaneous wave: the same anti-Yoon mood, organized differently, would have produced a smaller coalition margin.",
+  "sections": [
+    {
+      "heading": "The satellite-party play",
+      "paragraphs": [
+        "Korea's National Assembly mixes 254 single-member constituencies with 46 proportional-representation seats. Since 2020, both major parties have created 'satellite parties' that exist only to capture PR seats: voters cast a constituency vote for the parent party and a PR vote for the satellite, sidestepping the formula's intended check on dominant-party PR concentration.",
+        "In 2024, the Democratic Party operated through the Democratic Alliance of Korea (더불어민주연합) for PR; the People Power Party operated through the People Future Party (국민의미래). Both worked. But the strategic innovation in 2024 came from a third actor."
+      ]
+    },
+    {
+      "heading": "Cho Kuk Innovation: 12 PR seats, zero constituency candidates",
+      "paragraphs": [
+        "The Cho Kuk Innovation Party (조국혁신당, also called Rebuilding Korea Party) was founded on March 3, 2024 — barely five weeks before election day. It made a single strategic decision that defined its run: it fielded no constituency candidates anywhere. None.",
+        "The result: 24.25% of the proportional vote (6,874,278 votes) and 12 PR seats — making it the third-largest party in the 300-seat National Assembly. Its slogan, framed by founder and former Justice Minister Cho Kuk, targeted Yoon directly: 'first a lame duck, then a dead duck.' By abstaining from constituency races, Cho Kuk Innovation captured a quarter of the PR vote without competing with DPK in any single-member contest — extracting maximum opposition seats from the same anti-Yoon mood pool."
+      ]
+    },
+    {
+      "heading": "What 'unity' did vs didn't mean",
+      "paragraphs": [
+        "It's tempting to read the result as opposition unity — but it was closer to coordinated specialization. DPK + Alliance pursued constituency wins; Cho Kuk Innovation pursued PR-only seats; smaller parties (Reform, New Future, Progressive) carved off niche voter blocks. The 'opposition' was a coalition of distinct vehicles, each engineered for a specific tactical role.",
+        "This matters for prediction: a future election where one of those vehicles disappears (e.g., Cho Kuk Innovation collapses after Cho Kuk's December 2024 prison sentence) would not necessarily produce the same combined opposition seat count, even with identical voter sentiment. The 2024 result was the product of *both* mood and machinery; a salience predictor that ignores the machinery side will miss this."
+      ]
+    }
+  ],
+  "key_data_points": [
+    { "label": "Cho Kuk Innovation Party founded", "value": "5 weeks before election", "date": "2024-03-03", "source_id": "wiki-cho-kuk-party-en" },
+    { "label": "Cho Kuk Innovation PR vote", "value": "24.25% (6,874,278 votes)", "date": "2024-04-10", "source_id": "wiki-cho-kuk-party-en" },
+    { "label": "Cho Kuk Innovation seats", "value": "12 PR seats, 0 constituency candidates", "source_id": "wiki-cho-kuk-party-en" },
+    { "label": "DPK + Democratic Alliance combined", "value": "175 seats nationally", "source_id": "wiki-22-en" },
+    { "label": "Final National Assembly composition", "value": "DPK 175 · PPP 108 · Cho Kuk 12 · Reform 3 · others 2", "source_id": "wiki-22-ko" },
+    { "label": "Korean post-election quote", "value": "한동훈 (PPP leader) on resigning: '민심은 언제나 옳다' (the people's will is always right)", "source_id": "wiki-22-ko" }
+  ],
+  "confidence": 0.75,
+  "source_ids": ["wiki-cho-kuk-party-en", "wiki-22-ko", "wiki-22-en"],
+  "last_updated": "2026-04-25"
+}

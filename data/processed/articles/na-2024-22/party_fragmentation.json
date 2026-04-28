@@ -1,0 +1,48 @@
+{
+  "election_id": "na-2024-22",
+  "tag": "party_fragmentation",
+  "title": "Three new parties broke the two-party frame",
+  "subtitle": "Cho Kuk Innovation, Reform, and New Future as evidence the 22nd was a coalition cycle",
+  "thesis": "The 2024 election was not just DPK vs PPP. Three notable third-party breakthroughs — Cho Kuk Innovation (12 PR seats), Reform (3 seats), and New Future (1 seat) — reflect the 22nd as a coalition cycle, not a binary referendum. This complicates simple 'national mood' readings: the same anti-Yoon mood was channeled through multiple distinct vehicles targeting different voter segments.",
+  "sections": [
+    {
+      "heading": "Cho Kuk Innovation: the progressive PR-only play",
+      "paragraphs": [
+        "Founded March 3, 2024 by former Justice Minister Cho Kuk, the Cho Kuk Innovation Party (조국혁신당) ran zero constituency candidates and captured 24.25% of the proportional vote — 12 seats. Its base was former DPK voters who wanted a sharper anti-Yoon, anti-prosecutor stance than the Democratic Party itself was offering. Cho's slogan ('first a lame duck, then a dead duck') was meant for voters who found DPK rhetoric insufficiently combative.",
+        "The party's positioning is best understood as DPK's left flank, not a competitor: it deliberately avoided splitting the constituency vote. Whether it will outlive Cho Kuk's December 2024 prison sentence is a separate question; for the 22nd election, it represented a structural innovation in opposition coalition-building."
+      ]
+    },
+    {
+      "heading": "Reform Party: Lee Jun-seok's center-right break",
+      "paragraphs": [
+        "Lee Jun-seok was elected People Power Party leader in 2021 — the youngest in Korean conservative history — and led PPP to the 2022 presidential win. He was suspended from PPP in July 2022 over ethics allegations, formally departed the party on December 27, 2023, and founded the Reform Party (개혁신당) on January 20, 2024.",
+        "In April 2024, Lee won Hwaseong-eul (Gyeonggi Province, not Seoul) with 42.41% — described as 'unexpected' given he'd moved to the constituency only weeks before. Reform won 3 seats total. Lee's voter base is identified specifically: *idaenam* (이대남, men in their 20s and 30s), drawn by meritocracy rhetoric, opposition to affirmative action, and anti-feminist positioning. This is a distinctly different fragmentation vector than Cho Kuk Innovation's progressive PR push."
+      ]
+    },
+    {
+      "heading": "New Future and the smaller breakthroughs",
+      "paragraphs": [
+        "The New Future Party formed via a February 9, 2024 merger of New Reform components, anchored partly by figures from the Lee Nak-yeon (former Prime Minister, 2020 Jongno winner) faction of the DPK that had defected over leadership disputes. New Future won 1 seat in 2024.",
+        "Combined with the Progressive Party (1 seat) and various independents, the third-party slice of the 22nd election totaled about 17 seats — small in absolute terms but significant for narrative reading: opposition to Yoon was diversified across at least four distinct vehicles by the time votes were counted."
+      ]
+    },
+    {
+      "heading": "Why fragmentation complicates prediction",
+      "paragraphs": [
+        "A simple 'national mood → two-party seat split' model would have predicted a smaller DPK majority and a larger PPP base. The actual result depended on the *coalition architecture* — who ran where, who didn't compete with whom, which third parties existed at all. Mood is necessary; structure is what converts mood into seat counts.",
+        "For a future predictor (and especially the mayoral predictor we discussed), the lesson is: track not only approval and salience signals, but also the formal structure of the opposition vehicles. A 2026 cycle with no Cho Kuk Innovation Party (Cho is barred from office until 2031) will channel anti-administration mood through fewer, blunter instruments — and produce a different seat distribution from 2024 even if mood numbers match."
+      ]
+    }
+  ],
+  "key_data_points": [
+    { "label": "Cho Kuk Innovation Party", "value": "12 PR seats; 24.25% of PR vote (6,874,278 votes); 0 constituency candidates", "source_id": "wiki-cho-kuk-party-en" },
+    { "label": "Reform Party", "value": "3 seats total; Lee Jun-seok won Hwaseong-eul with 42.41% (51,856 votes)", "source_id": "wiki-lee-jun-seok-en" },
+    { "label": "Reform Party founding", "value": "Founded 2024-01-20 after Lee's PPP departure 2023-12-27", "date": "2024-01-20", "source_id": "wiki-lee-jun-seok-en" },
+    { "label": "New Future Party", "value": "1 seat; Feb 2024 merger anchored partly by Lee Nak-yeon faction", "source_id": "wiki-22-en" },
+    { "label": "Lee Jun-seok's voter base", "value": "이대남 (men in 20s-30s), meritocracy rhetoric, anti-affirmative-action", "source_id": "wiki-lee-jun-seok-en" },
+    { "label": "Cho Kuk's post-election fate", "value": "Dec 2024: 2-year prison sentence upheld; barred from office until 2031", "source_id": "wiki-cho-kuk-party-en" }
+  ],
+  "confidence": 0.7,
+  "source_ids": ["wiki-cho-kuk-party-en", "wiki-lee-jun-seok-en", "wiki-22-en", "wiki-22-ko"],
+  "last_updated": "2026-04-25"
+}

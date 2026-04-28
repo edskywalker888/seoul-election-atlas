@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seongdong",
+  "winner_party_id": "dpk",
+  "winner_candidate": "박성준",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "박성준",
+      "party_id": "dpk",
+      "votes": 66053,
+      "vote_pct": 50.81
+    },
+    {
+      "name": "이혜훈",
+      "party_id": "ppp",
+      "votes": 63089,
+      "vote_pct": 48.53
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 858,
+      "vote_pct": 0.66
+    }
+  ]
+}

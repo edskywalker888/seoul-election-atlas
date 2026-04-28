@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seoul-atlas/schemas/party.schema.json",
+  "title": "Party",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["party_id", "display_name_en", "display_name_ko", "family", "colors"],
+  "properties": {
+    "party_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9_-]*$"
+    },
+    "display_name_en": { "type": "string", "minLength": 1 },
+    "display_name_ko": { "type": "string", "minLength": 1 },
+    "family": {
+      "type": "string",
+      "enum": ["liberal", "conservative", "progressive", "centrist", "minor", "independent"]
+    },
+    "colors": {
+      "type": "object",
+      "required": ["default"],
+      "properties": {
+        "default": { "type": "string", "pattern": "^#[0-9a-fA-F]{6}$" }
+      },
+      "additionalProperties": { "type": "string", "pattern": "^#[0-9a-fA-F]{6}$" }
+    }
+  }
+}

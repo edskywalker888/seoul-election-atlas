@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-eunpyeong",
+  "summary": "Eunpyeong went DPK strongly (박주민 갑 64.29 — highest single-district margin in Seoul, 강병원 을 57.41). Residential north-west, mixed-income, low commercial gradient.",
+  "issues": [
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.7,
+      "description": "Multi-cycle DPK dominance; 박주민's near-supermajority margin reflects deep base."
+    },
+    {
+      "tag": "demographics",
+      "label": "Residential middle-class base",
+      "weight": 0.55,
+      "description": "Predominantly residential; no major finance/commercial anchor."
+    },
+    {
+      "tag": "redevelopment",
+      "label": "Eunpyeong New Town effect",
+      "weight": 0.4,
+      "description": "2000s뉴타운 redevelopment shifted demographics; effect direction unclear."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

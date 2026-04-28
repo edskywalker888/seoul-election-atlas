@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-guro",
+  "winner_party_id": "dpk",
+  "winner_candidate": "이인영",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "이인영",
+      "party_id": "dpk",
+      "votes": 72462,
+      "vote_pct": 55.74
+    },
+    {
+      "name": "호준석",
+      "party_id": "ppp",
+      "votes": 57525,
+      "vote_pct": 44.25
+    }
+  ]
+}

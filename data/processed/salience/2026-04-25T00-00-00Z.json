@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-04-25T00:00:00Z",
+  "method": "manual_demo",
+  "method_notes": "Second demo snapshot, 12h after the first, hand-curated to show realistic rank churn (Yoon trial moves up; Cho Kuk Innovation Party enters new; US-Korea trade drops off).",
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Yoon Suk-yeol trial proceedings",
+      "topic_ko": "윤석열 재판 진행 상황",
+      "summary": "Major court session expected today; defense and prosecution exchanging filings on key witness order. Coverage saturating Korean political news.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 0.85,
+      "issue_tag": "scandal"
+    },
+    {
+      "rank": 2,
+      "topic_en": "Lee Jae-myung first-year governance evaluation",
+      "topic_ko": "이재명 정부 1주년 평가",
+      "summary": "One-year mark approaching; Korea Gallup and Realmeter weekly approval polls due tomorrow. Op-eds split on whether the trajectory is sustainable.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.0,
+      "salience": 0.7,
+      "issue_tag": "government_approval"
+    },
+    {
+      "rank": 3,
+      "topic_en": "9th Local Elections candidate primaries",
+      "topic_ko": "제9회 지방선거 후보 경선",
+      "summary": "Seoul mayoral primary debates scheduled; DPK candidate field tightening to two front-runners. PPP primary still wide open.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "salience": 0.65,
+      "issue_tag": "candidate_strength"
+    },
+    {
+      "rank": 4,
+      "topic_en": "Cho Kuk Innovation Party leadership",
+      "topic_ko": "조국혁신당 지도부 동향",
+      "summary": "Acting leadership announces party-direction reset following founder Cho Kuk's December 2024 prison sentence; emergency convention reportedly being discussed.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.15,
+      "salience": 0.55,
+      "issue_tag": "party_fragmentation"
+    },
+    {
+      "rank": 5,
+      "topic_en": "Housing prices and policy",
+      "topic_ko": "주택 가격과 정책",
+      "summary": "Bank of Korea housing-price index update due this week; Seoul apartment listings show modest cooling, opposition continuing critique.",
+      "sentiment": "negative",
+      "sentiment_score": -0.3,
+      "salience": 0.48,
+      "issue_tag": "housing"
+    },
+    {
+      "rank": 6,
+      "topic_en": "Inter-Korean tensions",
+      "topic_ko": "남북관계 긴장",
+      "summary": "Weekend missile-test response cycle continuing; defense ministry briefings have downshifted from emergency to scheduled.",
+      "sentiment": "negative",
+      "sentiment_score": -0.35,
+      "salience": 0.42,
+      "issue_tag": "foreign_policy"
+    },
+    {
+      "rank": 7,
+      "topic_en": "PPP leadership reorganization",
+      "topic_ko": "국민의힘 지도부 개편",
+      "summary": "Interim leadership decisions delayed again; faction meetings scheduled this week. Pre-local-election timeline tightening.",
+      "sentiment": "negative",
+      "sentiment_score": -0.3,
+      "salience": 0.38,
+      "issue_tag": "party_fragmentation"
+    },
+    {
+      "rank": 8,
+      "topic_en": "DPK primary disputes",
+      "topic_ko": "더불어민주당 경선 갈등",
+      "summary": "Two more Seoul gu primaries appealing procedural rulings to the central committee; resolution expected by end of week.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.05,
+      "salience": 0.32,
+      "issue_tag": "party_fragmentation"
+    }
+  ]
+}

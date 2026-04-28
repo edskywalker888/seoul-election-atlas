@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-jongno",
+  "winner_party_id": "dpk",
+  "winner_candidate": "곽상언",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "곽상언",
+      "party_id": "dpk",
+      "votes": 66196,
+      "vote_pct": 50.92
+    },
+    {
+      "name": "최재형",
+      "party_id": "ppp",
+      "votes": 57369,
+      "vote_pct": 44.13
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 6435,
+      "vote_pct": 4.95
+    }
+  ]
+}

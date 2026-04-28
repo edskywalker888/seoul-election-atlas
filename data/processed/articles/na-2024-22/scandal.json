@@ -1,0 +1,48 @@
+{
+  "election_id": "na-2024-22",
+  "tag": "scandal",
+  "title": "A chain of governance failures, not a single scandal",
+  "subtitle": "Five named controversies the opposition framed as 'incompetence and irresponsibility'",
+  "thesis": "The 22nd election framed Yoon's tenure as a sequence of avoidable governance failures, not a single defining scandal. Itaewon disaster response (Oct 2022), the Chae Sang-byeol investigation-pressure case (July 2023), the 2023 World Scout Jamboree mismanagement, the failed Busan Expo 2030 bid, and Kim Keon-hee first-lady controversies each contributed to a cumulative narrative — and the chain was harder to defend against than any single incident would have been.",
+  "sections": [
+    {
+      "heading": "The Itaewon disaster as inflection point",
+      "paragraphs": [
+        "On October 29, 2022, a Halloween crowd crush in a 45-meter alley in Itaewon, Yongsan-gu killed 159 people (133 Korean, 26 foreign nationals) and injured 196 more. The investigation revealed that police had received 11+ emergency calls about crowd danger over the four hours before the incident, and 79+ calls in total before it happened. Only 137 officers had been deployed to Itaewon, while a 25,000-person protest elsewhere in Seoul that evening had 6,500 officers.",
+        "A November 2022 poll found 7 of 10 Koreans believed the government was responsible. 57% considered the official investigation insufficient. 23 officers were eventually charged with manslaughter and negligence; Interior Minister Lee Sang-min was suspended by the National Assembly in February 2023. The disaster was not just a tragedy but a governance pattern: warnings ignored, accountability deflected."
+      ]
+    },
+    {
+      "heading": "The Chae Sang-byeol case (채상병 사건)",
+      "paragraphs": [
+        "On July 19, 2023, Marine Corporal Chae Su-geun (referred to in Korean political discourse as 채상병 / Corporal Chae) died during a flood rescue operation in Yecheon County after being reassigned from ground searches to underwater work without a life jacket. The Marine Corps investigation initially identified eight responsible parties; the Defense Ministry then halted the handover to police and revised the report to name only two. Defense Minister Lee Jong-sup was charged investigation-head with insubordination — a reversal that became the political story.",
+        "The pattern repeated: Lee Jong-sup was appointed ambassador to Australia in March 2024 — three weeks before the election — and resigned the post within weeks under continued pressure. The case crystallized a perception that the administration was prioritizing institutional protection over accountability. wiki-22-ko names this incident specifically as one of the named drivers of the 22nd election outcome."
+      ]
+    },
+    {
+      "heading": "Three more incidents in the chain",
+      "paragraphs": [
+        "Korean Wikipedia's election summary names two further controversies: the 2023 World Scout Jamboree (잼버리 파행), where ~43,000 international scouts were evacuated from a poorly-prepared Saemangeum site as a typhoon approached, becoming a global embarrassment; and the November 2023 failed Busan World Expo 2030 bid, which Yoon had personally championed, losing decisively to Riyadh in the BIE vote. Both were preventable failures of state coordination.",
+        "Adding to the chain, first-lady Kim Keon-hee faced sustained controversy over a 2022 hidden-camera video showing her accepting a Christian Dior handbag, and stock-manipulation and academic-credential allegations. The Cho Kuk Innovation Party explicitly demanded a special prosecutor investigation; PPP defenders argued the issues were politically motivated. Either reading, the controversy did not subside through the 2024 campaign."
+      ]
+    },
+    {
+      "heading": "Why the chain mattered more than any single incident",
+      "paragraphs": [
+        "A single scandal can be defended, deflected, or absorbed. A *chain* of named controversies with similar pattern — warnings ignored, accountability deflected, institutional protection prioritized — produces a narrative that's hard to counter, because each new incident reinforces the prior reading. By March 2024, the opposition could simply name the chain ('Itaewon, Chae, Jamboree, Expo, Kim Keon-hee') and the rhetorical work was largely done.",
+        "The Korean phrase that emerged was '무능력과 무책임' — incompetence and irresponsibility. wiki-22-ko frames this as the opposition's most effective campaign-period synthesis. Whether each individual claim of culpability is fair is a separate question; for *electoral* purposes, the chain functioned as a single structural argument that voters carried into the booth."
+      ]
+    }
+  ],
+  "key_data_points": [
+    { "label": "Itaewon casualties", "value": "159 dead (133 Korean, 26 foreign), 196 injured", "date": "2022-10-29", "source_id": "wiki-itaewon-en" },
+    { "label": "Itaewon government-responsibility poll", "value": "7 of 10 Koreans held government responsible", "date": "2022-11-30", "source_id": "wiki-itaewon-en" },
+    { "label": "Itaewon prosecutions", "value": "23 officers charged with manslaughter / negligence", "source_id": "wiki-itaewon-en" },
+    { "label": "Chae Su-geun (Corporal Chae) death", "value": "Marine death during flood rescue; investigation-pressure controversy followed", "date": "2023-07-19", "source_id": "wiki-chae-en" },
+    { "label": "Defense Minister Lee Jong-sup", "value": "Halted Chae investigation handover; appointed Australia ambassador March 2024; resigned within weeks under pressure", "source_id": "wiki-chae-en" },
+    { "label": "Named controversy chain (per wiki-22-ko)", "value": "Itaewon · Chae · 2023 Jamboree · Busan Expo · Kim Keon-hee", "source_id": "wiki-22-ko" }
+  ],
+  "confidence": 0.75,
+  "source_ids": ["wiki-itaewon-en", "wiki-chae-en", "wiki-22-ko", "wiki-22-en"],
+  "last_updated": "2026-04-25"
+}

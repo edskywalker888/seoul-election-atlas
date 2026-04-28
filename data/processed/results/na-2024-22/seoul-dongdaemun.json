@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-dongdaemun",
+  "winner_party_id": "dpk",
+  "winner_candidate": "안규백",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "안규백",
+      "party_id": "dpk",
+      "votes": 68757,
+      "vote_pct": 52.89
+    },
+    {
+      "name": "김영우",
+      "party_id": "ppp",
+      "votes": 57798,
+      "vote_pct": 44.46
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 3445,
+      "vote_pct": 2.65
+    }
+  ]
+}

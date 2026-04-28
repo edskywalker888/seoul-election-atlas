@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seongdong",
+  "summary": "Seongdong's narrow DPK hold (박성준 50.81 vs 이혜훈 48.53 in 중구·성동 을) reflects rapid gentrification in Seongsu (뚝섬, tech/creative cluster) shifting the electorate toward younger professional demographics while raising real-estate political salience.",
+  "issues": [
+    {
+      "tag": "redevelopment",
+      "label": "Seongsu gentrification",
+      "weight": 0.65,
+      "description": "Seongsu's transformation into a tech-creative cluster reshaped demographics and real-estate politics."
+    },
+    {
+      "tag": "demographics",
+      "label": "Young-professional influx",
+      "weight": 0.55,
+      "description": "Younger, professional, creative-industry residents drive recent political character."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Rising property-value politics",
+      "weight": 0.5,
+      "description": "Rising property values introduce Gangnam-style real-estate concerns to historically progressive gu."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

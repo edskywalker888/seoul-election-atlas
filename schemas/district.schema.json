@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seoul-atlas/schemas/district.schema.json",
+  "title": "District",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["district_id", "name_ko", "name_en", "city", "normalized_slug"],
+  "properties": {
+    "district_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Stable across elections; lowercase-hyphen-ascii"
+    },
+    "name_ko": { "type": "string", "minLength": 1 },
+    "name_en": { "type": "string", "minLength": 1 },
+    "city": { "type": "string", "minLength": 1 },
+    "normalized_slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    }
+  }
+}

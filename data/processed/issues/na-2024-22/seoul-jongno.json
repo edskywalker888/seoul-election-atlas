@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-jongno",
+  "summary": "Jongno's outcome mirrored the national mood more than any district-specific factor — consistent with its '정치 1번지' bellwether reputation. Gwak Sang-eon's Roh Moo-hyun family connection provided candidate-level resonance on top of the broader anti-Yoon wave. The seat returned to DPK after Lee Nak-yeon's 2021 mid-term resignation left it briefly open.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "National mood / mid-term evaluation",
+      "weight": 0.8,
+      "description": "Jongno's historical role as bellwether means the election-wide Yoon approval issue translates almost directly into local outcome."
+    },
+    {
+      "tag": "candidate_strength",
+      "label": "Candidate profile",
+      "weight": 0.6,
+      "description": "Gwak Sang-eon's identification as Roh Moo-hyun's son-in-law added progressive-legacy resonance; opponent 최재형 (former Audit Board chief) carried conservative institutional credentials."
+    },
+    {
+      "tag": "strategic_voting",
+      "label": "Media-attention effect",
+      "weight": 0.5,
+      "description": "National media treat Jongno races as leading indicators, which attracts high-profile candidates and concentrated coverage — may amplify national-mood signal."
+    }
+  ],
+  "confidence": 0.65,
+  "source_ids": ["wiki-jongno-na", "wiki-22-ko"]
+}

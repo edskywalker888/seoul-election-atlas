@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seongdong",
+  "summary": "Seongdong's 중구·성동 을 went DPK narrowly: 박성준 51.96% vs 지상욱 (UFP) 47.27%. Seongsu gentrification was earlier-stage than 2024; the close margin presaged later real-estate-politics tension.",
+  "issues": [
+    {
+      "tag": "redevelopment",
+      "label": "Early Seongsu gentrification",
+      "weight": 0.6,
+      "description": "Seongsu's tech-creative cluster development was nascent in 2020; impact already visible in narrow margin."
+    },
+    {
+      "tag": "demographics",
+      "label": "Residential mix",
+      "weight": 0.5,
+      "description": "Mixed residential character before gentrification accelerated."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave (narrow)",
+      "weight": 0.5,
+      "description": "Narrow margin even with national tailwind suggests structural conservative lean within Seongdong."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

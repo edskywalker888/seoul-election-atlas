@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangseo",
+  "summary": "Gangseo: all 3 subs DPK strong (강선우 갑 55.89, 진성준 을 56.15, 한정애 병 59.92). Pre-2023-Gangseo-을-by-election context; the gu's structural DPK lean was already evident.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave",
+      "weight": 0.6,
+      "description": "Comfortable DPK margins across all subs."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed residential base",
+      "weight": 0.5,
+      "description": "Western Seoul, mid-income residential."
+    },
+    {
+      "tag": "local_development",
+      "label": "Magok redevelopment context",
+      "weight": 0.45,
+      "description": "Newer Magok developments adding commuter-professional base."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

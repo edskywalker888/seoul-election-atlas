@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gangseo",
+  "summary": "Gangseo delivered a DPK sweep across all 3 subdistricts (갑 58.55, 을 54.84, 병 59.13). The 2023 Gangseo 을 by-election — which DPK won by a wide margin — was widely read as mid-term preview; the 2024 general election extended the pattern.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "National mood / 2023 harbinger",
+      "weight": 0.7,
+      "description": "Per wiki-22-ko: 2023 Gangseo 을 by-election was treated as a mid-term preview; 2024 confirmed the pattern."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed residential base",
+      "weight": 0.5,
+      "description": "Balanced residential mix without strong class-profile skew."
+    },
+    {
+      "tag": "local_development",
+      "label": "Magok redevelopment effect",
+      "weight": 0.45,
+      "description": "Newer Magok developments add commuter-professional base; directional impact unclear."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

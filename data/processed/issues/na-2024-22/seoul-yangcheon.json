@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-yangcheon",
+  "summary": "Yangcheon's 2024 DPK margin was razor-thin in 갑 (황희 49.78 vs 구자룡 48.16) — the closest DPK hold in Seoul. Anchored by Mokdong's education-focused upper-middle-class apartment complexes; 황희's incumbency likely preserved the seat.",
+  "issues": [
+    {
+      "tag": "education",
+      "label": "Mokdong education culture",
+      "weight": 0.7,
+      "description": "Mokdong's reputation as a 학군 (school district) anchors preferences around education policy and real estate."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Mokdong apartment cluster",
+      "weight": 0.6,
+      "description": "High-density apartments produce real-estate political gradient, weaker than Gangnam but present."
+    },
+    {
+      "tag": "incumbency",
+      "label": "Incumbent advantage",
+      "weight": 0.55,
+      "description": "황희's long incumbency likely prevented a close race from flipping."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

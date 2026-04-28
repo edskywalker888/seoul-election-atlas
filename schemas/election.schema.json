@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seoul-atlas/schemas/election.schema.json",
+  "title": "Election",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["election_id", "name_en", "name_ko", "date", "scope", "type", "source_ids"],
+  "properties": {
+    "election_id": {
+      "type": "string",
+      "pattern": "^na-\\d{4}-\\d+$",
+      "description": "Canonical id, e.g. na-2024-22"
+    },
+    "name_en": { "type": "string", "minLength": 1 },
+    "name_ko": { "type": "string", "minLength": 1 },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO 8601 date (YYYY-MM-DD)"
+    },
+    "scope": {
+      "type": "string",
+      "enum": ["seoul"],
+      "description": "Region scope; expand enum as other regions are added"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["national_assembly"]
+    },
+    "source_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    }
+  }
+}

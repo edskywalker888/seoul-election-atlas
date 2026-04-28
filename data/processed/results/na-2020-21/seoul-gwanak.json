@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gwanak",
+  "winner_party_id": "dpk",
+  "winner_candidate": "유기홍",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "유기홍",
+      "party_id": "dpk",
+      "votes": 75492,
+      "vote_pct": 55.92
+    },
+    {
+      "name": "김성식",
+      "party_id": "independent",
+      "votes": 45293,
+      "vote_pct": 33.55
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 14216,
+      "vote_pct": 10.53
+    }
+  ]
+}

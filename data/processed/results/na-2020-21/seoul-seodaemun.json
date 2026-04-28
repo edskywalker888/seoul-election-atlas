@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seodaemun",
+  "winner_party_id": "dpk",
+  "winner_candidate": "우상호",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "우상호",
+      "party_id": "dpk",
+      "votes": 71874,
+      "vote_pct": 53.24
+    },
+    {
+      "name": "이성헌",
+      "party_id": "ufp",
+      "votes": 56214,
+      "vote_pct": 41.64
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 6912,
+      "vote_pct": 5.12
+    }
+  ]
+}

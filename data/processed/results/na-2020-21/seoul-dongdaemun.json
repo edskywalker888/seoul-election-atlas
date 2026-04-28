@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-dongdaemun",
+  "winner_party_id": "dpk",
+  "winner_candidate": "안규백",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "안규백",
+      "party_id": "dpk",
+      "votes": 71172,
+      "vote_pct": 52.72
+    },
+    {
+      "name": "허용범",
+      "party_id": "ufp",
+      "votes": 56430,
+      "vote_pct": 41.8
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 7398,
+      "vote_pct": 5.48
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangseo",
+  "winner_party_id": "dpk",
+  "winner_candidate": "강선우",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "강선우",
+      "party_id": "dpk",
+      "votes": 75452,
+      "vote_pct": 55.89
+    },
+    {
+      "name": "구상찬",
+      "party_id": "ufp",
+      "votes": 51800,
+      "vote_pct": 38.37
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 7749,
+      "vote_pct": 5.74
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seoul-atlas/schemas/upcoming-election.schema.json",
+  "title": "UpcomingElection",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "type", "name_en", "name_ko", "date", "scope"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9\\-]*$"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["local", "national_assembly", "presidential", "by_election"]
+    },
+    "name_en": { "type": "string", "minLength": 1 },
+    "name_ko": { "type": "string", "minLength": 1 },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO 8601 date; may be estimated, see `estimated` field"
+    },
+    "scope": { "type": "string", "minLength": 1 },
+    "estimated": {
+      "type": "boolean",
+      "description": "True when the date is a working estimate rather than NEC-published"
+    },
+    "notes": { "type": "string" }
+  }
+}

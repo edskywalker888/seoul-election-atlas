@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-mapo",
+  "winner_party_id": "dpk",
+  "winner_candidate": "정청래",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "정청래",
+      "party_id": "dpk",
+      "votes": 68172,
+      "vote_pct": 52.44
+    },
+    {
+      "name": "함운경",
+      "party_id": "ppp",
+      "votes": 50401,
+      "vote_pct": 38.77
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 11427,
+      "vote_pct": 8.79
+    }
+  ]
+}

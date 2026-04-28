@@ -1,0 +1,9 @@
+{
+  "election_id": "na-2024-22",
+  "name_en": "22nd National Assembly Election",
+  "name_ko": "제22대 국회의원선거",
+  "date": "2024-04-10",
+  "scope": "seoul",
+  "type": "national_assembly",
+  "source_ids": ["official-nec"]
+}

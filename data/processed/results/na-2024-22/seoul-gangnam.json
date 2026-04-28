@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gangnam",
+  "winner_party_id": "ppp",
+  "winner_candidate": "서명옥",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "서명옥",
+      "party_id": "ppp",
+      "votes": 83434,
+      "vote_pct": 64.18
+    },
+    {
+      "name": "김태형",
+      "party_id": "dpk",
+      "votes": 46553,
+      "vote_pct": 35.81
+    }
+  ]
+}

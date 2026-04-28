@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-nowon",
+  "summary": "Nowon is Seoul's largest-population gu and a DPK stronghold. 우원식 and 김성환 won 58.99 and 58.51. Large residential apartment blocks, middle-class families drawn by education (Junggye-dong 학원가) and transit access.",
+  "issues": [
+    {
+      "tag": "apartment_voters",
+      "label": "Middle-class apartment base",
+      "weight": 0.6,
+      "description": "Large residential apartment blocks anchor stable middle-class DPK vote."
+    },
+    {
+      "tag": "education",
+      "label": "Junggye 학원가 family politics",
+      "weight": 0.55,
+      "description": "Junggye 학원가 concentrates education-focused households."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.55,
+      "description": "우원식 is a senior DPK figure; multi-cycle DPK support."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

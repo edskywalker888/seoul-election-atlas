@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-dongjak",
+  "summary": "Dongjak 을: 이수진 (DPK, lawyer-politician) defeated 나경원 (UFP) 52.16 vs 45.04 — a notable Na Kyung-won loss. 동작 갑 stayed DPK (김병기 55.29). The full pattern reverses in 2024.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "Na Kyung-won's 2020 loss",
+      "weight": 0.7,
+      "description": "Na's first loss in this district; signaled DPK-wave reach into competitive territory."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave overcame Na's profile",
+      "weight": 0.65,
+      "description": "Even strong PPP-side candidate fell to the wave."
+    },
+    {
+      "tag": "demographics",
+      "label": "Sadang/Heuksuk apartment pockets",
+      "weight": 0.5,
+      "description": "Gangnam-adjacent wealth pockets within northern DPK base."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

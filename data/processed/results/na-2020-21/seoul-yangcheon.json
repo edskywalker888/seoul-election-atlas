@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-yangcheon",
+  "winner_party_id": "dpk",
+  "winner_candidate": "황희",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "황희",
+      "party_id": "dpk",
+      "votes": 69998,
+      "vote_pct": 51.85
+    },
+    {
+      "name": "송한섭",
+      "party_id": "ufp",
+      "votes": 60696,
+      "vote_pct": 44.96
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 4307,
+      "vote_pct": 3.19
+    }
+  ]
+}

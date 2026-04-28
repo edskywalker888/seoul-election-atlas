@@ -1,0 +1,11 @@
+{
+  "party_id": "dpk",
+  "display_name_en": "Democratic Party of Korea",
+  "display_name_ko": "더불어민주당",
+  "family": "liberal",
+  "colors": {
+    "default": "#005BAC",
+    "2024": "#005BAC",
+    "2020": "#004EA2"
+  }
+}

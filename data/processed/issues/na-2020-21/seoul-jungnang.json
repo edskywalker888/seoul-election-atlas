@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-jungnang",
+  "summary": "Jungnang went DPK comfortably (서영교 갑 57.76, 박홍근 을 59.28). Eastern residential gu with strong incumbents.",
+  "issues": [
+    {
+      "tag": "incumbency",
+      "label": "Strong DPK incumbents",
+      "weight": 0.6,
+      "description": "서영교 + 박홍근 multi-cycle holds; personal-brand advantage."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Middle-income residential",
+      "weight": 0.55,
+      "description": "Consistent middle-class apartment base."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.55,
+      "description": "Multi-cycle DPK dominance."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

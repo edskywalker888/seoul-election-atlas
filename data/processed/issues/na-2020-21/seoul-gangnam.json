@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangnam",
+  "summary": "Gangnam swept UFP across all 3 subs (갑 태구민 58.40, 을 박진 50.94, 병 유경준 65.38), holding the conservative wall even against the strong DPK wave. 을's 4.5pp margin shows some erosion but core class/apartment factors held. 태구민 (formerly North Korean diplomat 태영호) was a high-profile defector candidate.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Wealth / class composition",
+      "weight": 0.85,
+      "description": "Gangnam's income concentration insulates against national waves."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Real-estate politics",
+      "weight": 0.75,
+      "description": "High-rise apartment density anchors conservative real-estate preferences."
+    },
+    {
+      "tag": "ideology",
+      "label": "Conservative identity",
+      "weight": 0.75,
+      "description": "Held conservative even against pro-Moon wave; ideological consistency clear."
+    }
+  ],
+  "confidence": 0.65,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangnam",
+  "winner_party_id": "ufp",
+  "winner_candidate": "태구민",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "태구민",
+      "party_id": "ufp",
+      "votes": 78840,
+      "vote_pct": 58.4
+    },
+    {
+      "name": "김성곤",
+      "party_id": "dpk",
+      "votes": 53501,
+      "vote_pct": 39.63
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 2660,
+      "vote_pct": 1.97
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-dobong",
+  "winner_party_id": "dpk",
+  "winner_candidate": "인재근",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "인재근",
+      "party_id": "dpk",
+      "votes": 72927,
+      "vote_pct": 54.02
+    },
+    {
+      "name": "김재섭",
+      "party_id": "ufp",
+      "votes": 54662,
+      "vote_pct": 40.49
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 7412,
+      "vote_pct": 5.49
+    }
+  ]
+}

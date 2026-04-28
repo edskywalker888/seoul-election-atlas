@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gwanak",
+  "summary": "Gwanak went DPK in both subs (유기홍 갑 55.92, 정태호 을 53.90). 갑's 2020 runner-up was 김성식 (independent, 33.55%) — unusual prominence for an independent in Seoul. SNU + progressive student-cultural base anchored.",
+  "issues": [
+    {
+      "tag": "young_voters",
+      "label": "SNU university base",
+      "weight": 0.7,
+      "description": "SNU presence and Shinrim student culture produce reliably progressive electorate."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.6,
+      "description": "Long-standing left-leaning culture, 1980s movement alumni networks."
+    },
+    {
+      "tag": "party_fragmentation",
+      "label": "Independent runner-up (2020 갑)",
+      "weight": 0.45,
+      "description": "김성식's 33.55% as independent is unusual; signals minor-party fluidity."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

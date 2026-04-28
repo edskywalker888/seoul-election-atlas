@@ -1,0 +1,40 @@
+{
+  "election_id": "na-2024-22",
+  "tag": "inflation",
+  "title": "Cost-of-living frustration, crystallized",
+  "subtitle": "The 'green onion incident' as a symbol of perceived presidential detachment",
+  "thesis": "Inflation and cost of living shaped voter mood through 2022–2024, but it was a single symbolic moment — Yoon's March 2024 grocery-store visit calling 875-won green onions 'reasonable' — that crystallized the disconnect. English-language coverage emphasized this single incident; Korean framing largely subsumed it under a broader 'incompetence' narrative. The two readings are about emphasis, not facts.",
+  "sections": [
+    {
+      "heading": "The economic backdrop",
+      "paragraphs": [
+        "Korea's 2022–2024 inflation cycle hit grocery, energy, and housing costs. Real wages stagnated; younger voters in particular reported a tangible erosion of purchasing power. Both English and Korean Wikipedia summaries of the 22nd election cite economic frustration as a structural driver, even as the 'doctor strike' over medical-school admissions reform competed for attention in the campaign's final weeks.",
+        "Headline inflation alone, however, doesn't explain the political resonance. Korea's inflation in early 2024 was lower than peers in many OECD countries. What mattered was the pairing of price stress with a perception that the administration was either disengaged from or in denial about it."
+      ]
+    },
+    {
+      "heading": "March 18, 2024: the green onion moment",
+      "paragraphs": [
+        "On March 18, 2024 — three weeks before election day — Yoon visited a grocery store in Seoul and, examining a bunch of green onions priced at 875 won (~USD 0.65), described the price as 'reasonable.' Reporters and consumer groups quickly noted real prices were three to four times higher; the 875-won figure was either a discount price or a misread. The opposition immediately seized on the moment.",
+        "The hashtag #greenonions875won (대파875원) trended on Korean social media. Opposition rallies featured props of green onions. The National Election Commission then attempted to ban green onions as polling-station 'props' — a ruling widely ridiculed as comically defensive. The president of a country in active political dispute with grocery prices is not a posture any administration wants three weeks before an election."
+      ]
+    },
+    {
+      "heading": "Why a single moment can matter (and what it doesn't tell us)",
+      "paragraphs": [
+        "Symbolic moments work when they pattern-match an existing perception. The green onion incident landed because it confirmed what voters already suspected: that the administration was insulated from the daily cost-of-living reality they were experiencing. A similar incident in a high-approval administration would have been a one-day story.",
+        "What we cannot say without attention data (BigKinds, Naver DataLab) is whether the green onion moment actually moved approval or vote-intention numbers, or whether it was just retrospectively emblematic — the kind of moment political journalists later cite as a turning point even if the polls didn't move on it. wiki-22-ko notably *does not* lead with the green onion as Korean coverage emphasizes the broader 'incompetence' framing; this divergence is itself signal that the moment's English-side prominence may overstate its independent causal role."
+      ]
+    }
+  ],
+  "key_data_points": [
+    { "label": "Yoon's quote on price", "value": "875 KRW (~$0.65) for green onions called 'reasonable'", "date": "2024-03-18", "source_id": "wiki-22-en" },
+    { "label": "Real grocery price (per wiki)", "value": "3–4× higher than the 875 KRW figure", "source_id": "wiki-22-en" },
+    { "label": "Hashtag traction", "value": "#greenonions875won (대파875원) trended on Korean social media", "source_id": "wiki-22-en" },
+    { "label": "NEC ruling", "value": "Banned green onions at polling stations — 'widely ridiculed' (wiki-22-en)", "source_id": "wiki-22-en" },
+    { "label": "Korean source emphasis", "value": "wiki-22-ko subsumes inflation under 'incompetence' (무능력) framing — does not lead with green onion incident", "source_id": "wiki-22-ko" }
+  ],
+  "confidence": 0.65,
+  "source_ids": ["wiki-22-en", "wiki-22-ko"],
+  "last_updated": "2026-04-25"
+}

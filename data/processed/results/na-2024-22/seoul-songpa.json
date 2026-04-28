@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-songpa",
+  "winner_party_id": "ppp",
+  "winner_candidate": "박정훈",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "박정훈",
+      "party_id": "ppp",
+      "votes": 67912,
+      "vote_pct": 52.24
+    },
+    {
+      "name": "조재희",
+      "party_id": "dpk",
+      "votes": 58669,
+      "vote_pct": 45.13
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 3419,
+      "vote_pct": 2.63
+    }
+  ]
+}

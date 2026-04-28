@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gangbuk",
+  "winner_party_id": "dpk",
+  "winner_candidate": "천준호",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "천준호",
+      "party_id": "dpk",
+      "votes": 74399,
+      "vote_pct": 57.23
+    },
+    {
+      "name": "전상범",
+      "party_id": "ppp",
+      "votes": 55588,
+      "vote_pct": 42.76
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-dobong",
+  "winner_party_id": "dpk",
+  "winner_candidate": "오기형",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "오기형",
+      "party_id": "dpk",
+      "votes": 68679,
+      "vote_pct": 52.83
+    },
+    {
+      "name": "김선동",
+      "party_id": "ppp",
+      "votes": 61308,
+      "vote_pct": 47.16
+    }
+  ]
+}

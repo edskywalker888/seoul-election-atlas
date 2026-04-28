@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seongbuk",
+  "winner_party_id": "dpk",
+  "winner_candidate": "김영배",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "김영배",
+      "party_id": "dpk",
+      "votes": 72384,
+      "vote_pct": 55.68
+    },
+    {
+      "name": "이종철",
+      "party_id": "ppp",
+      "votes": 50882,
+      "vote_pct": 39.14
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 6734,
+      "vote_pct": 5.18
+    }
+  ]
+}

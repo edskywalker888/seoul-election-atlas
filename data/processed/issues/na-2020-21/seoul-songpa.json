@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-songpa",
+  "summary": "Songpa was tighter than 2024: UFP held 갑 (김웅 51.20) and 을 (배현진 50.46) by narrow margins; 송파 병 stayed DPK (남인순 52.48). All 3 races were within 5pp — the gu's most competitive cycle in years.",
+  "issues": [
+    {
+      "tag": "apartment_voters",
+      "label": "Apartment / real-estate politics",
+      "weight": 0.7,
+      "description": "Jamsil/Olympic Park apartment belt drives conservative lean."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Upper-middle-income base",
+      "weight": 0.6,
+      "description": "Wealth gradient weaker than Gangnam."
+    },
+    {
+      "tag": "redevelopment",
+      "label": "Redevelopment-policy salience",
+      "weight": 0.5,
+      "description": "Olympic-area redevelopment shaped property-tax preferences."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

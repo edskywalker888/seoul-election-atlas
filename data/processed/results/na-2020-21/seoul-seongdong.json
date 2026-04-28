@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seongdong",
+  "winner_party_id": "dpk",
+  "winner_candidate": "박성준",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "박성준",
+      "party_id": "dpk",
+      "votes": 70146,
+      "vote_pct": 51.96
+    },
+    {
+      "name": "지상욱",
+      "party_id": "ufp",
+      "votes": 63815,
+      "vote_pct": 47.27
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 1040,
+      "vote_pct": 0.77
+    }
+  ]
+}

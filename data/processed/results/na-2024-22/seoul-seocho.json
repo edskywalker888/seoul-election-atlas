@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seocho",
+  "winner_party_id": "ppp",
+  "winner_candidate": "조은희",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "조은희",
+      "party_id": "ppp",
+      "votes": 88972,
+      "vote_pct": 68.44
+    },
+    {
+      "name": "김한나",
+      "party_id": "dpk",
+      "votes": 41015,
+      "vote_pct": 31.55
+    }
+  ]
+}

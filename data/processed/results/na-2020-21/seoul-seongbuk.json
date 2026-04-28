@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seongbuk",
+  "winner_party_id": "dpk",
+  "winner_candidate": "김영배",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "김영배",
+      "party_id": "dpk",
+      "votes": 82215,
+      "vote_pct": 60.9
+    },
+    {
+      "name": "한상학",
+      "party_id": "ufp",
+      "votes": 49275,
+      "vote_pct": 36.5
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 3510,
+      "vote_pct": 2.6
+    }
+  ]
+}

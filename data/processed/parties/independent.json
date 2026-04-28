@@ -1,0 +1,9 @@
+{
+  "party_id": "independent",
+  "display_name_en": "Independent",
+  "display_name_ko": "무소속",
+  "family": "independent",
+  "colors": {
+    "default": "#5A5A5A"
+  }
+}

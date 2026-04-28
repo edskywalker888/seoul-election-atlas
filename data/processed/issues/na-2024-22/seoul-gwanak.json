@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gwanak",
+  "summary": "Gwanak is Seoul's traditional progressive stronghold, anchored by Seoul National University and long-running left-wing organizing. DPK wins in both subs (박민규 57.08, 정태호 57.97). 2020 runner-up 김성식 was an independent — unusual for Seoul.",
+  "issues": [
+    {
+      "tag": "young_voters",
+      "label": "University-youth base",
+      "weight": 0.7,
+      "description": "SNU presence and Shinrim student/cultural cluster produce reliably progressive electorate."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.65,
+      "description": "Long-standing left-leaning political culture, often associated with 1980s movement alumni networks."
+    },
+    {
+      "tag": "demographics",
+      "label": "Younger age profile",
+      "weight": 0.5,
+      "description": "Lower median age than outer Seoul gu."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gangbuk",
+  "summary": "Gangbuk is a reliable DPK gu in north Seoul (천준호 57.23, 한민수 52.94). Working-middle-class residential base without strong gentrification vectors; consistent progressive preference.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Working-middle-class base",
+      "weight": 0.55,
+      "description": "Residential north Seoul, moderate-income households."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.55,
+      "description": "Consistent DPK representation."
+    },
+    {
+      "tag": "aging_voters",
+      "label": "Older-age voter share",
+      "weight": 0.4,
+      "description": "Some aging effect present but not dominant."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

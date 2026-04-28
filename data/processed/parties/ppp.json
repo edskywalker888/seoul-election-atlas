@@ -1,0 +1,10 @@
+{
+  "party_id": "ppp",
+  "display_name_en": "People Power Party",
+  "display_name_ko": "국민의힘",
+  "family": "conservative",
+  "colors": {
+    "default": "#E61E2B",
+    "2024": "#E61E2B"
+  }
+}

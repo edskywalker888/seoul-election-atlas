@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-dobong",
+  "summary": "Dobong narrowly held DPK overall (오기형 52.83 in 을) but lost 갑 to PPP's 김재섭 (49.05 vs 안귀령 47.89). Northern residential gu with relatively older population and limited economic anchor; close margins suggest fluidity.",
+  "issues": [
+    {
+      "tag": "aging_voters",
+      "label": "Older-age voter composition",
+      "weight": 0.5,
+      "description": "Dobong's relatively older median age cuts against typical DPK demographic advantages."
+    },
+    {
+      "tag": "candidate_strength",
+      "label": "Candidate-specific dynamics",
+      "weight": 0.55,
+      "description": "김재섭 (young conservative) vs 안귀령 matchup in 갑 was candidate-driven."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Swing on national mood",
+      "weight": 0.45,
+      "description": "Mixed subdistrict result reflects fluidity tracking broader trends."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

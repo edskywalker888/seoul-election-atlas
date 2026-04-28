@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-yeongdeungpo",
+  "winner_party_id": "dpk",
+  "winner_candidate": "채현일",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "채현일",
+      "party_id": "dpk",
+      "votes": 70889,
+      "vote_pct": 54.53
+    },
+    {
+      "name": "김영주",
+      "party_id": "ppp",
+      "votes": 54171,
+      "vote_pct": 41.67
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 4940,
+      "vote_pct": 3.8
+    }
+  ]
+}

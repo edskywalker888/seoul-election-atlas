@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-nowon",
+  "winner_party_id": "dpk",
+  "winner_candidate": "우원식",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "우원식",
+      "party_id": "dpk",
+      "votes": 76687,
+      "vote_pct": 58.99
+    },
+    {
+      "name": "현경병",
+      "party_id": "ppp",
+      "votes": 53300,
+      "vote_pct": 41
+    }
+  ]
+}

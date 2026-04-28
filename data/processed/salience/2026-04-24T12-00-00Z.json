@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-04-24T12:00:00Z",
+  "method": "manual_demo",
+  "method_notes": "Plausible-circa-April-2026 Korean political topics, hand-curated to demonstrate the rank-change UI before live capture is wired up. Replaced automatically once `npm run salience:capture` runs.",
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Lee Jae-myung first-year governance evaluation",
+      "topic_ko": "이재명 정부 1주년 평가",
+      "summary": "Approaching the one-year mark of the Lee administration. Polling and op-eds focus on prosecution reform progress and economic management.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.05,
+      "salience": 0.82,
+      "issue_tag": "government_approval"
+    },
+    {
+      "rank": 2,
+      "topic_en": "9th Local Elections candidate primaries",
+      "topic_ko": "제9회 지방선거 후보 경선",
+      "summary": "DPK and PPP finalizing nominees for Seoul mayor and gubernatorial races; primary disputes within DPK over Seoul candidate selection.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "salience": 0.74,
+      "issue_tag": "candidate_strength"
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Suk-yeol trial proceedings",
+      "topic_ko": "윤석열 재판 진행 상황",
+      "summary": "Hearings continuing in the criminal trial following December 2024 martial law declaration; new witness testimony scheduled.",
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "salience": 0.68,
+      "issue_tag": "scandal"
+    },
+    {
+      "rank": 4,
+      "topic_en": "Inter-Korean tensions",
+      "topic_ko": "남북관계 긴장",
+      "summary": "Reports of weekend missile test by North Korea; defense ministry holding emergency briefing.",
+      "sentiment": "negative",
+      "sentiment_score": -0.4,
+      "salience": 0.55,
+      "issue_tag": "foreign_policy"
+    },
+    {
+      "rank": 5,
+      "topic_en": "Housing prices and policy",
+      "topic_ko": "주택 가격과 정책",
+      "summary": "Apartment prices in Seoul again ticking upward; opposition criticizing Lee administration's anti-speculation measures as ineffective.",
+      "sentiment": "negative",
+      "sentiment_score": -0.35,
+      "salience": 0.5,
+      "issue_tag": "housing"
+    },
+    {
+      "rank": 6,
+      "topic_en": "PPP leadership reorganization",
+      "topic_ko": "국민의힘 지도부 개편",
+      "summary": "Interim leadership in flux ahead of the 9th Local Elections; internal debate over the post-Yoon party direction.",
+      "sentiment": "negative",
+      "sentiment_score": -0.3,
+      "salience": 0.45,
+      "issue_tag": "party_fragmentation"
+    },
+    {
+      "rank": 7,
+      "topic_en": "US-Korea trade negotiations",
+      "topic_ko": "한미 통상 협상",
+      "summary": "Renewed friction over auto and semiconductor tariffs under second Trump administration; trade ministry working-level visit to Washington.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1,
+      "salience": 0.4,
+      "issue_tag": "foreign_policy"
+    },
+    {
+      "rank": 8,
+      "topic_en": "DPK primary disputes",
+      "topic_ko": "더불어민주당 경선 갈등",
+      "summary": "Procedural disputes between candidate factions in several Seoul gu primaries; appeals being filed with the central committee.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.1,
+      "salience": 0.35,
+      "issue_tag": "party_fragmentation"
+    }
+  ]
+}

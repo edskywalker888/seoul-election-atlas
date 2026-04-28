@@ -1,0 +1,9 @@
+{
+  "party_id": "other",
+  "display_name_en": "Other parties (combined)",
+  "display_name_ko": "기타 정당 합계",
+  "family": "minor",
+  "colors": {
+    "default": "#9C9C9C"
+  }
+}

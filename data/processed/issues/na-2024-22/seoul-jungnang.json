@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-jungnang",
+  "summary": "Jungnang delivered one of the strongest DPK margins (서영교 61.92 in 갑). Eastern residential gu with middle-income apartment clusters; long-serving incumbent 서영교 has built strong local brand.",
+  "issues": [
+    {
+      "tag": "incumbency",
+      "label": "Strong incumbency",
+      "weight": 0.6,
+      "description": "서영교's long tenure yields personal-brand advantage beyond national wave."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Middle-income residential",
+      "weight": 0.55,
+      "description": "Consistent middle-class apartment base."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.55,
+      "description": "Multi-cycle DPK dominance."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

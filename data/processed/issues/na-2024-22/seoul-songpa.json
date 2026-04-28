@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-songpa",
+  "summary": "Songpa splits internally: 갑 (박정훈 52.24, PPP) and 을 (배현진 57.20, PPP) went conservative; 병 (남인순 51.04, DPK) stayed progressive. Jamsil/Olympic Park apartment density drives conservative lean in greater Songpa, but 송파 병 (newer developments) remained competitive.",
+  "issues": [
+    {
+      "tag": "apartment_voters",
+      "label": "Apartment / real-estate politics",
+      "weight": 0.7,
+      "description": "Jamsil/Olympic apartment belt aligns with conservative real-estate politics, consistent across cycles."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Upper-middle-income base",
+      "weight": 0.6,
+      "description": "Income concentration creates ideological gradient similar to but weaker than Gangnam/Seocho."
+    },
+    {
+      "tag": "redevelopment",
+      "label": "Redevelopment politics",
+      "weight": 0.5,
+      "description": "Jamsil/Olympic area redevelopment shapes preferences on zoning and property taxation."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

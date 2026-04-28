@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gwangjin",
+  "winner_party_id": "dpk",
+  "winner_candidate": "전혜숙",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "전혜숙",
+      "party_id": "dpk",
+      "votes": 72468,
+      "vote_pct": 53.68
+    },
+    {
+      "name": "김병민",
+      "party_id": "ufp",
+      "votes": 54810,
+      "vote_pct": 40.6
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 7722,
+      "vote_pct": 5.72
+    }
+  ]
+}

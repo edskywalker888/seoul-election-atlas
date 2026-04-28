@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seongbuk",
+  "summary": "Seongbuk hosts Korea University — another university cluster gu. 김영배 and 김남근 won comfortably (55.68, 56.82). Academic, young-professional (Anam), and residential (Jeongneung, Wolgok) mix.",
+  "issues": [
+    {
+      "tag": "young_voters",
+      "label": "University-cluster youth",
+      "weight": 0.6,
+      "description": "Korea University and Sungshin Women's populate younger progressive base."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed academic + residential",
+      "weight": 0.5,
+      "description": "Anam/Jeongneung mix of students and long-term residents."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.55,
+      "description": "Consistent DPK representation."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

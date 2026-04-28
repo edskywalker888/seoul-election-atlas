@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seoul-atlas/schemas/poll-aggregate.schema.json",
+  "title": "PollAggregate",
+  "description": "Time series of polling-firm averages for candidates in an election. Different shape from markets: each point is the average across multiple poll publications, often weekly rather than daily.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["event_slug", "captured_at", "method", "candidates"],
+  "properties": {
+    "event_slug": { "type": "string", "minLength": 1 },
+    "captured_at": { "type": "string", "format": "date-time" },
+    "method": {
+      "type": "string",
+      "enum": [
+        "manual_curation",
+        "wiki_aggregation",
+        "nesdc_scrape",
+        "manual_demo"
+      ]
+    },
+    "method_notes": { "type": "string" },
+    "interval": { "type": "string" },
+    "candidates": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "series"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "name_ko": { "type": "string" },
+          "party_id": { "type": "string" },
+          "series": {
+            "type": "array",
+            "minItems": 2,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["t", "p"],
+              "properties": {
+                "t": { "type": "string", "format": "date-time" },
+                "p": { "type": "number", "minimum": 0, "maximum": 1 },
+                "n_polls": { "type": "integer", "minimum": 0 },
+                "sources": {
+                  "type": "array",
+                  "items": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seocho",
+  "winner_party_id": "ufp",
+  "winner_candidate": "윤희숙",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "윤희숙",
+      "party_id": "ufp",
+      "votes": 84510,
+      "vote_pct": 62.6
+    },
+    {
+      "name": "이정근",
+      "party_id": "dpk",
+      "votes": 49815,
+      "vote_pct": 36.9
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 675,
+      "vote_pct": 0.5
+    }
+  ]
+}

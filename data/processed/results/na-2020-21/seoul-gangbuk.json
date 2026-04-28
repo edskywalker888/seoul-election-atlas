@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangbuk",
+  "winner_party_id": "dpk",
+  "winner_candidate": "천준호",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "천준호",
+      "party_id": "dpk",
+      "votes": 77963,
+      "vote_pct": 57.75
+    },
+    {
+      "name": "정양석",
+      "party_id": "ufp",
+      "votes": 53312,
+      "vote_pct": 39.49
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 3726,
+      "vote_pct": 2.76
+    }
+  ]
+}

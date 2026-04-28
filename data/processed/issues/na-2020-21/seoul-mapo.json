@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-mapo",
+  "summary": "Mapo went DPK comfortably in both subs: 노웅래 갑 55.99%, 정청래 을 53.75%. The 2024 0.6pp flip in 갑 was not foreshadowed by 2020 numbers.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave",
+      "weight": 0.6,
+      "description": "Both subs comfortable DPK margins, in line with broader Seoul pattern."
+    },
+    {
+      "tag": "demographics",
+      "label": "Young-professional residential base",
+      "weight": 0.5,
+      "description": "홍대/Sangam media cluster + residential mix."
+    },
+    {
+      "tag": "ideology",
+      "label": "Long-running DPK base",
+      "weight": 0.55,
+      "description": "노웅래's 5-cycle hold reflects ideological consistency."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

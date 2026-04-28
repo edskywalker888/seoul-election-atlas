@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-yangcheon",
+  "winner_party_id": "dpk",
+  "winner_candidate": "황희",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "황희",
+      "party_id": "dpk",
+      "votes": 64714,
+      "vote_pct": 49.78
+    },
+    {
+      "name": "구자룡",
+      "party_id": "ppp",
+      "votes": 62608,
+      "vote_pct": 48.16
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 2678,
+      "vote_pct": 2.06
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gwanak",
+  "winner_party_id": "dpk",
+  "winner_candidate": "박민규",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "박민규",
+      "party_id": "dpk",
+      "votes": 74204,
+      "vote_pct": 57.08
+    },
+    {
+      "name": "유종필",
+      "party_id": "ppp",
+      "votes": 55783,
+      "vote_pct": 42.91
+    }
+  ]
+}

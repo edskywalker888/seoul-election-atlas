@@ -1,0 +1,55 @@
+name: Signals capture
+
+on:
+  schedule:
+    # 00:00 and 12:00 UTC = 09:00 and 21:00 KST
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+
+jobs:
+  capture:
+    name: Capture salience + markets snapshots
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Capture salience snapshot
+        run: npm run salience:capture
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Capture prediction-market snapshots
+        run: npm run markets:capture
+
+      - name: Scrape NESDC polls
+        run: npm run polls:scrape
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        # Keep previous aggregate.json if scrape fails — banner stays as it was.
+        continue-on-error: true
+
+      - name: Validate
+        run: npm run validate
+
+      - name: Commit and push snapshots
+        run: |
+          git config user.name "signals-bot"
+          git config user.email "bot@seoul-atlas.local"
+          if [ -n "$(git status --porcelain data/processed/salience data/processed/markets data/processed/polls)" ]; then
+            git add data/processed/salience data/processed/markets data/processed/polls
+            git commit -m "signals: capture $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "no new snapshots to commit"
+          fi

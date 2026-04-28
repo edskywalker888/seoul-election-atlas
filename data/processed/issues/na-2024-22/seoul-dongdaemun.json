@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-dongdaemun",
+  "summary": "Dongdaemun anchors a diverse east-central base: the Dongdaemun market cluster, Kyung Hee / HUFS universities, and mixed residential. DPK wins (안규백 52.89, 장경태 54.26) reflect balanced mix of market/working-class and university/young-professional cohorts.",
+  "issues": [
+    {
+      "tag": "demographics",
+      "label": "Market + university + residential mix",
+      "weight": 0.55,
+      "description": "Unusually diverse electorate composition anchors moderate DPK lean."
+    },
+    {
+      "tag": "young_voters",
+      "label": "Kyung Hee / HUFS youth",
+      "weight": 0.5,
+      "description": "University populations supplement electoral base."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Market-worker base (Cheongnyangni)",
+      "weight": 0.45,
+      "description": "Dongdaemun/Cheongnyangni market community adds working-class DPK-aligned vote."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

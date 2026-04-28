@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gwangjin",
+  "summary": "Gwangjin 을 was a notable 2020 race: 고민정 (DPK) 50.37% vs 오세훈 (UFP, current Seoul mayor) 47.82%. Oh Se-hoon's narrow loss here preceded his successful 2021 mayoral by-election win. 광진 갑 was less competitive (전혜숙 53.68).",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "오세훈 ran in 광진 을",
+      "weight": 0.7,
+      "description": "Oh Se-hoon's narrow loss was a notable 2020 result; he returned to win Seoul mayor 11 months later."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave context",
+      "weight": 0.6,
+      "description": "Even high-profile UFP candidate couldn't overcome DPK wave in 광진 을."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed residential + Konkuk University",
+      "weight": 0.5,
+      "description": "Mixed residential character."
+    }
+  ],
+  "confidence": 0.65,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

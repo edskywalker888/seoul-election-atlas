@@ -1,0 +1,32 @@
+[
+  {
+    "id": "local-9th-2026",
+    "type": "local",
+    "name_en": "9th Local Elections",
+    "name_ko": "제9회 전국동시지방선거",
+    "date": "2026-06-03",
+    "scope": "national",
+    "estimated": false,
+    "notes": "Includes Seoul Mayor, gubernatorial, and council races nationwide. Statutorily fixed (first Wednesday of June)."
+  },
+  {
+    "id": "na-23rd-2028",
+    "type": "national_assembly",
+    "name_en": "23rd National Assembly Election",
+    "name_ko": "제23대 국회의원선거",
+    "date": "2028-04-12",
+    "scope": "national",
+    "estimated": true,
+    "notes": "Estimated; actual date set by NEC. Korean NA elections fall on the second Wednesday of April every 4 years."
+  },
+  {
+    "id": "pres-21st-2030",
+    "type": "presidential",
+    "name_en": "21st Presidential Election",
+    "name_ko": "제21대 대통령선거",
+    "date": "2030-03-06",
+    "scope": "national",
+    "estimated": true,
+    "notes": "Estimated; based on 5-year term from Lee Jae-myung's June 2025 inauguration. Constitutionally must occur 40–70 days before term end."
+  }
+]

@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    name: Typecheck · Validate · Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Validate processed data
+        run: npm run validate
+
+      - name: Build
+        run: npm run build
+
+  a11y:
+    name: Accessibility (axe-core)
+    runs-on: ubuntu-latest
+    needs: check
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Build
+        run: npm run build
+
+      - name: Start server and audit
+        run: |
+          npm run start --workspace apps/web &
+          SERVER_PID=$!
+          echo "server pid: $SERVER_PID"
+          for i in $(seq 1 60); do
+            if curl -sf http://localhost:3000 > /dev/null; then
+              echo "server ready"
+              break
+            fi
+            sleep 1
+          done
+          set +e
+          npm run audit:a11y
+          RESULT=$?
+          set -e
+          kill $SERVER_PID 2>/dev/null || true
+          exit $RESULT

@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-dongjak",
+  "winner_party_id": "ppp",
+  "winner_candidate": "나경원",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "나경원",
+      "party_id": "ppp",
+      "votes": 70213,
+      "vote_pct": 54.01
+    },
+    {
+      "name": "류삼영",
+      "party_id": "dpk",
+      "votes": 59774,
+      "vote_pct": 45.98
+    }
+  ]
+}

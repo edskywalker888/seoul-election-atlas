@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-yongsan",
+  "summary": "Yongsan's 2020 race was the closest in Seoul: 권영세 (UFP) 47.80 vs 강태웅 (DPK) 47.14 — a 0.66pp margin, almost flipping to DPK. Pre-presidential-office-relocation; the swing-district pattern was clearer than in 2024.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "Candidate strength",
+      "weight": 0.65,
+      "description": "Both candidates well-known; 권영세's personal brand barely held."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave nearly flipped seat",
+      "weight": 0.65,
+      "description": "0.66pp margin showed Yongsan's responsiveness to national wave."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed residential / commuter base",
+      "weight": 0.5,
+      "description": "Older Yongsan plus commercial/commuter mix; no single dominant demographic."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-dongjak",
+  "winner_party_id": "dpk",
+  "winner_candidate": "김병기",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "김병기",
+      "party_id": "dpk",
+      "votes": 74642,
+      "vote_pct": 55.29
+    },
+    {
+      "name": "장진영",
+      "party_id": "ufp",
+      "votes": 57902,
+      "vote_pct": 42.89
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 2457,
+      "vote_pct": 1.82
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-yeongdeungpo",
+  "summary": "Yeongdeungpo's DPK hold (채현일 54.53 in 갑) is consistent. 을 was closer (50.18 vs 49.03) — Yeouido finance professionals likely add conservative lean to an otherwise DPK commercial/residential base.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "National mood",
+      "weight": 0.55,
+      "description": "Mixed commercial/residential base tracks overall Seoul swings."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Yeouido finance-professional pocket",
+      "weight": 0.5,
+      "description": "을's narrow margin suggests Yeouido finance community adds conservative lean."
+    },
+    {
+      "tag": "demographics",
+      "label": "Office / commuter base",
+      "weight": 0.45,
+      "description": "Daytime office population overlaps with residents; limited ideological gradient."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

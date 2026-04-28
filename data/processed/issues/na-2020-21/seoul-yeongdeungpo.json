@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-yeongdeungpo",
+  "summary": "Yeongdeungpo went DPK in both subs but 을 was tight (김민석 50.26 vs 박용찬 44.35). Yeouido finance-professional electorate added conservative weight to an otherwise progressive commercial gu.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave",
+      "weight": 0.55,
+      "description": "Carried the gu but couldn't widen 을 margin substantially."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Yeouido finance-professional pocket",
+      "weight": 0.5,
+      "description": "을's tight margin suggests Yeouido finance community adds conservative lean."
+    },
+    {
+      "tag": "demographics",
+      "label": "Office / commuter base",
+      "weight": 0.45,
+      "description": "Commercial-residential mix."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

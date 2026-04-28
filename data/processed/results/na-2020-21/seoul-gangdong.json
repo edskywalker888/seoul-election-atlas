@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangdong",
+  "winner_party_id": "dpk",
+  "winner_candidate": "진선미",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "진선미",
+      "party_id": "dpk",
+      "votes": 69525,
+      "vote_pct": 51.5
+    },
+    {
+      "name": "이수희",
+      "party_id": "ufp",
+      "votes": 64395,
+      "vote_pct": 47.7
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 1080,
+      "vote_pct": 0.8
+    }
+  ]
+}

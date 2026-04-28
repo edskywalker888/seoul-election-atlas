@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seodaemun",
+  "winner_party_id": "dpk",
+  "winner_candidate": "김동아",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "김동아",
+      "party_id": "dpk",
+      "votes": 65975,
+      "vote_pct": 50.75
+    },
+    {
+      "name": "이용호",
+      "party_id": "ppp",
+      "votes": 56537,
+      "vote_pct": 43.49
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 7488,
+      "vote_pct": 5.76
+    }
+  ]
+}

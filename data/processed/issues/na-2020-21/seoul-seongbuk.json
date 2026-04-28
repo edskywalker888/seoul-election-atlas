@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seongbuk",
+  "summary": "Seongbuk went DPK in both subs (김영배 갑 60.90, 기동민 을 59.35). Korea University academic cluster + Anam student-cultural base + residential mix.",
+  "issues": [
+    {
+      "tag": "young_voters",
+      "label": "Korea University youth",
+      "weight": 0.65,
+      "description": "Korea University populates younger progressive base; Anam cultural cluster."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed academic + residential",
+      "weight": 0.55,
+      "description": "Anam/Jeongneung mix of students and long-term residents."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.55,
+      "description": "Consistent DPK representation."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

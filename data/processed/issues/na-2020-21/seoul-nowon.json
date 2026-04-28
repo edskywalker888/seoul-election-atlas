@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-nowon",
+  "summary": "Nowon went DPK in all 3 subs (고용진 갑 56.78, 우원식 을 62.67, 김성환 병 53.15). 노원 병 was tight: 이준석 (UFP, future Reform leader) ran and got 44.36% — the closest UFP came in a non-PPP-stronghold gu.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "이준석's 2020 노원 병 run",
+      "weight": 0.6,
+      "description": "Lee Jun-seok's 44.36% in 병 was a close UFP performance; foreshadowed his rise as Reform Party leader."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Middle-class apartment base",
+      "weight": 0.55,
+      "description": "Large residential apartment blocks anchor stable middle-class DPK vote."
+    },
+    {
+      "tag": "education",
+      "label": "Junggye 학원가 family politics",
+      "weight": 0.5,
+      "description": "Education-focused households."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-jungnang",
+  "winner_party_id": "dpk",
+  "winner_candidate": "서영교",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "서영교",
+      "party_id": "dpk",
+      "votes": 77976,
+      "vote_pct": 57.76
+    },
+    {
+      "name": "김삼화",
+      "party_id": "ufp",
+      "votes": 48978,
+      "vote_pct": 36.28
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 8046,
+      "vote_pct": 5.96
+    }
+  ]
+}

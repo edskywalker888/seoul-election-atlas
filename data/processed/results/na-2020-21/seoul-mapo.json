@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-mapo",
+  "winner_party_id": "dpk",
+  "winner_candidate": "노웅래",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "노웅래",
+      "party_id": "dpk",
+      "votes": 75587,
+      "vote_pct": 55.99
+    },
+    {
+      "name": "강승규",
+      "party_id": "ufp",
+      "votes": 57983,
+      "vote_pct": 42.95
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 1431,
+      "vote_pct": 1.06
+    }
+  ]
+}

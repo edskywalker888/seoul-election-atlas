@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-eunpyeong",
+  "winner_party_id": "dpk",
+  "winner_candidate": "박주민",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "박주민",
+      "party_id": "dpk",
+      "votes": 86792,
+      "vote_pct": 64.29
+    },
+    {
+      "name": "홍인정",
+      "party_id": "ufp",
+      "votes": 45819,
+      "vote_pct": 33.94
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 2390,
+      "vote_pct": 1.77
+    }
+  ]
+}

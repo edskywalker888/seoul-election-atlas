@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seoul-atlas/schemas/market-history.schema.json",
+  "title": "MarketHistory",
+  "description": "Time series of daily prices for top candidates in a prediction market event. Refreshed on each capture.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["source", "event_id", "captured_at", "candidates"],
+  "properties": {
+    "source": { "type": "string", "enum": ["polymarket", "kalshi"] },
+    "event_id": { "type": "string", "minLength": 1 },
+    "event_slug": { "type": "string" },
+    "captured_at": { "type": "string", "format": "date-time" },
+    "interval": { "type": "string" },
+    "candidates": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "series"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "name_ko": { "type": "string" },
+          "party_id": { "type": "string" },
+          "market_id": { "type": "string" },
+          "series": {
+            "type": "array",
+            "minItems": 2,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["t", "p"],
+              "properties": {
+                "t": { "type": "string", "format": "date-time" },
+                "p": { "type": "number", "minimum": 0, "maximum": 1 }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

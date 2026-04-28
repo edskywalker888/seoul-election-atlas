@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangdong",
+  "summary": "Gangdong went DPK in both subs (진선미 갑 51.50, 이해식 을 54.54). 갑's narrow margin was nearly identical to 2024 (50.12%) — Gangdong is a stable but not dominant DPK gu.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "Pro-Moon wave (modest)",
+      "weight": 0.55,
+      "description": "Margin only modestly above 50%; suggests structural rather than wave-driven outcome."
+    },
+    {
+      "tag": "incumbency",
+      "label": "Incumbent advantage",
+      "weight": 0.55,
+      "description": "진선미's incumbency bridges 2020 and 2024."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed residential base",
+      "weight": 0.45,
+      "description": "No dominant demographic driver."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

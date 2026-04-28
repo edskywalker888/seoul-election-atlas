@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-geumcheon",
+  "summary": "Geumcheon is southern-industrial with a historically progressive working-class base. 최기상 won 59.03% — one of the clearer DPK margins south of the river. Manufacturing legacy and immigrant-adjacent demographics anchor reliable progressive vote.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Working-class industrial base",
+      "weight": 0.6,
+      "description": "Manufacturing workforce history aligns with labor-adjacent progressive politics."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.55,
+      "description": "Consistent DPK representation across recent cycles."
+    },
+    {
+      "tag": "demographics",
+      "label": "Lower-income and multicultural neighborhoods",
+      "weight": 0.5,
+      "description": "Demographic composition differs from central/northern Seoul."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

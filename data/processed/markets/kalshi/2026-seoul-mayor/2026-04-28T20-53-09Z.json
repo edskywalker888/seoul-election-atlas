@@ -1,0 +1,18 @@
+{
+  "captured_at": "2026-04-28T20:53:09Z",
+  "source": "kalshi",
+  "event_id": "KXSEOULMAYOR-26JUN03",
+  "event_slug": "kxseoulmayor-26jun03",
+  "event_url": "https://kalshi.com/markets/kxseoulmayor/who-will-win-the-seoul-mayoral-election/kxseoulmayor-26jun03",
+  "event_title": "Who will win the 2026 Seoul mayoral election?",
+  "end_date": "2026-06-03T14:00:00Z",
+  "candidates": [
+    { "name": "Chong Won-o", "name_ko": "정원오", "party_id": "dpk", "market_id": "KXSEOULMAYOR-26JUN03-CWON", "prob": 0.89, "yes_bid": 0.88, "yes_ask": 0.909, "last_price": 0.89, "volume_usd": 39316.09 },
+    { "name": "Oh Se-hoon", "name_ko": "오세훈", "party_id": "ppp", "market_id": "KXSEOULMAYOR-26JUN03-OSEH", "prob": 0.10, "yes_bid": 0.10, "yes_ask": 0.11, "last_price": 0.10, "volume_usd": 15916.87 },
+    { "name": "Seo Young-kyo", "name_ko": "서영교", "party_id": "dpk", "market_id": "KXSEOULMAYOR-26JUN03-SYOU", "prob": 0.06, "yes_bid": 0.002, "yes_ask": 0.046, "last_price": 0.06, "volume_usd": 627.00 },
+    { "name": "Kim Min-seok", "name_ko": "김민석", "party_id": "dpk", "market_id": "KXSEOULMAYOR-26JUN03-KMIN", "prob": 0.03, "yes_bid": 0.001, "yes_ask": 0.037, "last_price": 0.03, "volume_usd": 62.00 },
+    { "name": "Park Ju-min", "name_ko": "박주민", "party_id": "dpk", "market_id": "KXSEOULMAYOR-26JUN03-PJUM", "prob": 0.01, "yes_bid": 0.002, "yes_ask": 0.041, "last_price": 0.01, "volume_usd": 1192.00 },
+    { "name": "Na Kyung-won", "name_ko": "나경원", "party_id": "ppp", "market_id": "KXSEOULMAYOR-26JUN03-NKYU", "prob": 0.01, "yes_bid": 0.001, "yes_ask": 0.037, "last_price": 0.01, "volume_usd": 282.00 }
+  ],
+  "method_notes": "Captured live from Kalshi v2 API. Each candidate is a separate binary YES/NO market; prob = last_price_dollars. Volume measured in dollar contracts."
+}

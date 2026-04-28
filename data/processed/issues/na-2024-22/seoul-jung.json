@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-jung",
+  "summary": "Jung-gu (downtown: 명동, 을지로, Namdaemun) hosts Seoul's historical commercial core with a small residential population. Narrow DPK hold (전현희 52.61 vs 윤희숙 47.38 in 중구·성동 갑) — downtown small-business plus commuter-professional mix.",
+  "issues": [
+    {
+      "tag": "demographics",
+      "label": "Small residential / commercial base",
+      "weight": 0.55,
+      "description": "Jung-gu has the smallest Seoul population; daytime commercial population dominates."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Small-business + commuter-professional mix",
+      "weight": 0.5,
+      "description": "Myeongdong/Euljiro small-business community plus commuter professionals."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Swing-adjacent national mood",
+      "weight": 0.45,
+      "description": "Narrow margin makes district responsive to national direction."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

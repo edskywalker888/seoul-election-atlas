@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-eunpyeong",
+  "winner_party_id": "dpk",
+  "winner_candidate": "박주민",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "박주민",
+      "party_id": "dpk",
+      "votes": 79014,
+      "vote_pct": 60.78
+    },
+    {
+      "name": "홍인정",
+      "party_id": "ppp",
+      "votes": 50973,
+      "vote_pct": 39.21
+    }
+  ]
+}

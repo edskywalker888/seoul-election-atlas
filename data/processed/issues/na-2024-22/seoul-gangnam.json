@@ -1,0 +1,33 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gangnam",
+  "summary": "Gangnam remained the clearest single-party stronghold in Seoul, with PPP candidates winning all three sub-districts by wide margins (갑 64.18%, 을 58.57%, 병 66.28%). Class profile, apartment-high-rise real-estate politics, and conservative ideological identity converge here; the national anti-Yoon wave barely dented Gangnam. Winner 서명옥's 28-point margin in 갑 exceeds most uncompetitive races.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Wealth / class composition",
+      "weight": 0.85,
+      "description": "Gangnam's concentration of high-income households is widely considered the defining voting driver — consistent across election cycles, largely insulating the district from national swings."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Real-estate politics",
+      "weight": 0.75,
+      "description": "High-rise apartment density in 압구정, 청담, 역삼 correlates strongly with preference for pro-property-value, lower-tax candidates."
+    },
+    {
+      "tag": "ideology",
+      "label": "Conservative identity",
+      "weight": 0.8,
+      "description": "Consistent PPP/conservative representation since 2000 (25+ years) suggests entrenched ideological alignment independent of any single cycle's issues."
+    },
+    {
+      "tag": "incumbency",
+      "label": "Structural conservative advantage",
+      "weight": 0.6,
+      "description": "Candidate selection, donor networks, and party organization all favor the conservative side here."
+    }
+  ],
+  "confidence": 0.7,
+  "source_ids": ["wiki-gangnam-gap-na", "wiki-22-ko"]
+}

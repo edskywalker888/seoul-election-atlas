@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gangdong",
+  "summary": "Gangdong's narrow DPK win (진선미 50.12 vs 전주혜 47.88) is stable but small-margin. Residential east-Seoul base without strong ideological gradients — outcomes track national mood and incumbent familiarity.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "National mood",
+      "weight": 0.6,
+      "description": "Narrow margin suggests responsiveness to national wave; DPK held with the 2024 anti-Yoon tide."
+    },
+    {
+      "tag": "incumbency",
+      "label": "Incumbent advantage",
+      "weight": 0.55,
+      "description": "진선미 has held the seat across multiple cycles, building personal brand."
+    },
+    {
+      "tag": "demographics",
+      "label": "Mixed residential base",
+      "weight": 0.45,
+      "description": "No dominant demographic driver; middle-income residential mix."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

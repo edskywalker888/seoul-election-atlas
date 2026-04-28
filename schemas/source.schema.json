@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seoul-atlas/schemas/source.schema.json",
+  "title": "SourceMetadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["source_id", "tier", "title", "url", "retrieved_at"],
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9\\-]*$"
+    },
+    "tier": {
+      "type": "integer",
+      "enum": [1, 2, 3],
+      "description": "1=official, 2=reference, 3=news/commentary"
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "url": { "type": "string", "format": "uri" },
+    "retrieved_at": { "type": "string", "format": "date" },
+    "credibility_weight": {
+      "type": "string",
+      "enum": ["high", "medium", "low"]
+    },
+    "known_bias": { "type": "string" },
+    "captured_to": { "type": "string" },
+    "used_in": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "notes": { "type": "string" }
+  }
+}

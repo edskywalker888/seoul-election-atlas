@@ -1,0 +1,10 @@
+{
+  "party_id": "ufp",
+  "display_name_en": "United Future Party",
+  "display_name_ko": "미래통합당",
+  "family": "conservative",
+  "colors": {
+    "default": "#BD004F",
+    "2020": "#BD004F"
+  }
+}

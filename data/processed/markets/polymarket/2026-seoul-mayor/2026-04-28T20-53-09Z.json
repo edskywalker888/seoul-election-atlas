@@ -1,0 +1,22 @@
+{
+  "captured_at": "2026-04-28T20:53:09Z",
+  "source": "polymarket",
+  "event_id": "79973",
+  "event_slug": "2026-seoul-mayoral-election-winner",
+  "event_url": "https://polymarket.com/event/2026-seoul-mayoral-election-winner",
+  "event_title": "2026 Seoul Mayoral Election Winner",
+  "end_date": "2026-06-03T00:00:00Z",
+  "total_volume_usd": 32169190.80,
+  "total_liquidity_usd": 3380408.72,
+  "candidates": [
+    { "name": "Chong Won-oh", "name_ko": "정원오", "party_id": "dpk", "prob": 0.875, "volume_usd": 693621.91 },
+    { "name": "Oh Se-hoon", "name_ko": "오세훈", "party_id": "ppp", "prob": 0.115, "volume_usd": 921324.34 },
+    { "name": "Hong Ihk-pyo", "name_ko": "홍익표", "party_id": "dpk", "prob": 0.0025, "volume_usd": 2584386.06 },
+    { "name": "Cho Eun-hee", "name_ko": "조은희", "party_id": "ppp", "prob": 0.0015, "volume_usd": 2838916.74 },
+    { "name": "Ahn Cheol-soo", "name_ko": "안철수", "party_id": "ppp", "prob": 0.0015, "volume_usd": 2308510.08 },
+    { "name": "Park Yong-jin", "name_ko": "박용진", "party_id": "dpk", "prob": 0.0015, "volume_usd": 2686947.51 },
+    { "name": "Cho Kuk", "name_ko": "조국", "party_id": "rebuild", "prob": 0.0015, "volume_usd": 2418134.11 },
+    { "name": "Kang Hoon-sik", "name_ko": "강훈식", "party_id": "dpk", "prob": 0.0015, "volume_usd": 1898714.11 }
+  ],
+  "method_notes": "Captured live from Polymarket gamma API. Prob = current_price (binary YES contract last trade)."
+}

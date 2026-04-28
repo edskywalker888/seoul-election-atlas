@@ -1,0 +1,49 @@
+{
+  "election_id": "na-2024-22",
+  "tag": "government_approval",
+  "title": "Government approval was the foundation",
+  "subtitle": "Two years of sub-30% Yoon approval pre-determined the verdict",
+  "thesis": "The 22nd election was decided less by campaign moments and more by the cumulative effect of persistent sub-30% Yoon administration approval. The structural mid-term verdict was visible in vote-intention polling from January 2024 onward; no late campaign event reversed the broad direction, though PPP narrowed the margin from a 12-point deficit in early January to 6.58 points on election eve.",
+  "sections": [
+    {
+      "heading": "The approval baseline (2022–2024)",
+      "paragraphs": [
+        "Yoon Suk Yeol entered office in May 2022 with relatively modest approval and never recovered above 40% for any sustained period. By August 2022, ratings had dropped from the low 30s to 24% following backlash over education-minister Park Soon-ae's school-reform plans. A September 2022 controversy over a hot-mic profanity at the UN Global Fund pulled the rating to 27.7% — down 3.7 percentage points in three weeks.",
+        "Through 2023 and into 2024, Korean Wikipedia describes approval as stuck in the 20% range with continuously low levels. This was the foundational condition under which the 22nd election was contested: not a brief slump but a durable mid-term verdict already crystallized."
+      ]
+    },
+    {
+      "heading": "Vote intention tracked the same trajectory",
+      "paragraphs": [
+        "Polling for the National Assembly election captured a consistent DPK lead throughout the campaign. In January 2024 (Korea Research / MBC), DPK led PPP 45–33 — a 12-point margin. By the end of March (Research View, March 29–31), the gap was 11.4 points (49.1 vs 37.7). In the final week (Korea Research / MBC, April 2–3), it stood at 9.2 points (50.1 vs 40.9). The final pre-election poll on April 10 had DPK 52.34, PPP 45.76 — a 6.58-point lead, narrower but still decisive.",
+        "The actual outcome (DPK 175 seats / PPP 108 nationally; 37–11 in Seoul) tracked the late polling within roughly one percentage point. A pure-mood reading would predict approximately this distribution; campaign moments may have closed the margin somewhat but did not change the direction."
+      ]
+    },
+    {
+      "heading": "What the gap-closing tells us",
+      "paragraphs": [
+        "The 12pp → 6.58pp narrowing over three months is meaningful but bounded. It suggests campaign dynamics moved votes at the margin — possibly through PPP-stronghold mobilization in the Gangnam-Seocho-Songpa cluster, plus high-profile candidate races (Na Kyung-won in Dongjak 을, Kwon Young-se in Yongsan). It does not suggest the underlying mid-term verdict was reversible.",
+        "A counterfactual where Yoon approval had recovered to roughly 40% during the 2023–2024 stretch would likely have produced a meaningfully closer contest. The 2024 election was, in effect, contested on terrain set in 2022–2023."
+      ]
+    },
+    {
+      "heading": "What we cannot yet say",
+      "paragraphs": [
+        "Without access to BigKinds-grade media-attention data or weekly Korea Gallup approval breakdowns through the 2022–2024 period, we cannot quantify how much each named controversy (Itaewon, Chae Sang-byeol, Kim Keon-hee handbag, Busan Expo, doctor strike, green onion) moved the overall approval level versus serving as cumulative reinforcement of an already-low baseline.",
+        "Post-election survey data (KEPS / 한국선거학회) would be the cleanest test: did voters who turned out specifically cite Yoon governance as their primary motivation, or did their preferences track demographic priors with national mood as a secondary factor? Both readings are consistent with the polling, but they imply different things for prediction."
+      ]
+    }
+  ],
+  "key_data_points": [
+    { "label": "DPK lead (Jan 10–12, 2024, Korea Research / MBC)", "value": "+12.0pp (DPK 45.0, PPP 33.0)", "date": "2024-01-12", "source_id": "wiki-poll-22" },
+    { "label": "DPK lead (Mar 29–31, 2024, Research View)", "value": "+11.4pp (DPK 49.1, PPP 37.7)", "date": "2024-03-31", "source_id": "wiki-poll-22" },
+    { "label": "DPK lead (Apr 2–3, 2024, Korea Research / MBC)", "value": "+9.2pp (DPK 50.1, PPP 40.9)", "date": "2024-04-03", "source_id": "wiki-poll-22" },
+    { "label": "Final pre-election poll (Apr 10, 2024)", "value": "+6.58pp (DPK 52.34, PPP 45.76)", "date": "2024-04-10", "source_id": "wiki-poll-22" },
+    { "label": "Yoon approval (Aug 2022)", "value": "30% → 24% after Park Soon-ae backlash", "date": "2022-08-15", "source_id": "wiki-yoon-en" },
+    { "label": "Yoon approval (Sept 2022)", "value": "27.7% (-3.7pp in 3 weeks, post-MBC profanity)", "date": "2022-09-30", "source_id": "wiki-yoon-en" },
+    { "label": "Yoon approval (2023–2024 baseline)", "value": "Persistently in the 20% range per Korean Wikipedia", "source_id": "wiki-22-ko" }
+  ],
+  "confidence": 0.75,
+  "source_ids": ["wiki-poll-22", "wiki-22-ko", "wiki-22-en", "wiki-yoon-en"],
+  "last_updated": "2026-04-25"
+}

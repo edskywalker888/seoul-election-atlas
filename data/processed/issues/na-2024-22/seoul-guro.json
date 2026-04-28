@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-guro",
+  "summary": "Guro's DPK hold (이인영 55.74) reflects a progressive industrial base, the Guro Digital Complex tech-worker cluster, and a significant foreign-resident population (Joseon-jok Chinese-Korean community around Daerim). Consistent DPK across subdistricts.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Industrial / tech-worker base",
+      "weight": 0.6,
+      "description": "Guro Digital Complex anchors progressive-leaning young-professional cluster; 구로공단 legacy."
+    },
+    {
+      "tag": "demographics",
+      "label": "Multicultural composition",
+      "weight": 0.55,
+      "description": "Daerim-dong's Joseon-jok community and multicultural area around Nambusunhwan."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive base",
+      "weight": 0.5,
+      "description": "Consistent DPK representation."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

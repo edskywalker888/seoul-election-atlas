@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-yangcheon",
+  "summary": "Yangcheon went DPK in both subs (황희 갑 51.85, 이용선 을 57.53). 갑's narrow margin was foreshadowing of 2024's 49.78% near-flip. Mokdong education-real-estate complex always partially conservative.",
+  "issues": [
+    {
+      "tag": "education",
+      "label": "Mokdong school district politics",
+      "weight": 0.7,
+      "description": "Mokdong's 학군 reputation anchors education-real-estate political mix."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Mokdong apartment cluster",
+      "weight": 0.6,
+      "description": "High-density apartments produce real-estate political gradient."
+    },
+    {
+      "tag": "incumbency",
+      "label": "Incumbent advantage",
+      "weight": 0.55,
+      "description": "황희's incumbency bridged the close 갑 race."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

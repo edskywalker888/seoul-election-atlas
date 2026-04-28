@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-geumcheon",
+  "winner_party_id": "dpk",
+  "winner_candidate": "최기상",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "최기상",
+      "party_id": "dpk",
+      "votes": 76739,
+      "vote_pct": 59.03
+    },
+    {
+      "name": "강성만",
+      "party_id": "ppp",
+      "votes": 53248,
+      "vote_pct": 40.96
+    }
+  ]
+}

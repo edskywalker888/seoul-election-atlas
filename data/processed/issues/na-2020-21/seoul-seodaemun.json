@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seodaemun",
+  "summary": "Seodaemun went DPK in both subs (우상호 갑 53.24, 김영호 을 61.33). Yonsei + Ewha university cluster anchored progressive vote.",
+  "issues": [
+    {
+      "tag": "young_voters",
+      "label": "Yonsei + Ewha university youth",
+      "weight": 0.65,
+      "description": "Major university cluster; Shinchon as cultural-political hub."
+    },
+    {
+      "tag": "education",
+      "label": "Academic culture",
+      "weight": 0.55,
+      "description": "University culture historically progressive-leaning."
+    },
+    {
+      "tag": "demographics",
+      "label": "Residential + student mix",
+      "weight": 0.5,
+      "description": "Daytime student population overlaps with resident electorate."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

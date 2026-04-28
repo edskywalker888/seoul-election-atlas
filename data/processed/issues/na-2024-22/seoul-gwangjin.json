@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gwangjin",
+  "summary": "Gwangjin's DPK wins (이정헌 52.53, 고민정 51.47) reflect a mixed residential base. 광진 을's 고민정 (former presidential spokesperson) is a national figure; margins are competitive rather than dominant.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "고민정's national profile (을)",
+      "weight": 0.6,
+      "description": "고민정's visibility as former presidential spokesperson elevates 광진 을 beyond typical local politics."
+    },
+    {
+      "tag": "demographics",
+      "label": "Residential + Konkuk University",
+      "weight": 0.5,
+      "description": "Mixed residential with university-adjacent pockets."
+    },
+    {
+      "tag": "government_approval",
+      "label": "Swing-adjacent national mood",
+      "weight": 0.45,
+      "description": "Competitive margins track national-wave direction."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

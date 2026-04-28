@@ -1,0 +1,38 @@
+{
+  "election_id": "na-2024-22",
+  "summary": "The 22nd National Assembly election functioned as a mid-term referendum on the Yoon Suk-yeol administration. Persistent low approval (stuck in the mid-20s through the campaign), a chain of named governance controversies (Chae Sang-byeol investigation-pressure allegation, Itaewon disaster response, 2023 Jamboree mismanagement, Busan Expo bid failure, and first-lady Kim Keon-hee matters), cost-of-living frustration, and consolidated opposition messaging — amplified by record advance-voting turnout (31.28%, all-time high for a general election) — drove a decisive Democratic-led victory. In Seoul, Democrats took 37 of 48 constituency seats; the People Power Party held the Gangnam-Seocho-Songpa cluster plus Yongsan and Dongjak 을.",
+  "issues": [
+    {
+      "tag": "government_approval",
+      "label": "Government approval",
+      "weight": 0.9,
+      "description": "Mid-term evaluation of the Yoon administration; approval stuck in the 20% range, widely framed as voters punishing 'incompetence and irresponsibility.'"
+    },
+    {
+      "tag": "scandal",
+      "label": "Governance controversies",
+      "weight": 0.8,
+      "description": "Chain of named incidents: Chae Sang-byeol investigation-pressure allegation, Itaewon disaster response, 2023 Jamboree mismanagement, Busan Expo bid failure, and Kim Keon-hee first-lady matters."
+    },
+    {
+      "tag": "opposition_unity",
+      "label": "Opposition consolidation",
+      "weight": 0.75,
+      "description": "Democratic Party + Democratic Alliance, reinforced by the Cho Kuk Innovation / Rebuilding Korea party (12 PR seats). Satellite-party structures maximized proportional allocation."
+    },
+    {
+      "tag": "inflation",
+      "label": "Inflation and cost of living",
+      "weight": 0.7,
+      "description": "Rising inflation shaped voter mood; the 'green onion incident' (president's 875-won claim vs 3–4× real prices) crystallized perceived detachment in English coverage; Korean framing subsumed this under the broader 'incompetence' narrative."
+    },
+    {
+      "tag": "party_fragmentation",
+      "label": "Third-party breakthroughs",
+      "weight": 0.6,
+      "description": "Cho Kuk Innovation Party emerged as second opposition force without any constituency candidates; Reform Party (Lee Jun-seok) and New Future (Lee Nak-yeon faction) added minor-party breakthroughs. Signals opposition coalition breadth, not a unitary wave."
+    }
+  ],
+  "confidence": 0.75,
+  "source_ids": ["wiki-22-en", "wiki-22-ko"]
+}

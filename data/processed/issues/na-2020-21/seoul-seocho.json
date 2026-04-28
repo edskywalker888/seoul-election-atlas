@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-seocho",
+  "summary": "Seocho went UFP in both subs (윤희숙 갑 62.60, 박성중 을 53.66). Held conservative against the DPK wave, similar to Gangnam. Legal-profession cluster plus class profile dominate.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Wealth / class composition",
+      "weight": 0.8,
+      "description": "Seocho's income profile rivals Gangnam."
+    },
+    {
+      "tag": "ideology",
+      "label": "Conservative identity",
+      "weight": 0.7,
+      "description": "Long-standing conservative representation; held against 2020 DPK wave."
+    },
+    {
+      "tag": "apartment_voters",
+      "label": "Real-estate politics",
+      "weight": 0.65,
+      "description": "Banpo/Seocho apartment belts."
+    }
+  ],
+  "confidence": 0.65,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

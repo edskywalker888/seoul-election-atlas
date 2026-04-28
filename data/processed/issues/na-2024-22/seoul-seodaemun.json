@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-seodaemun",
+  "summary": "Seodaemun hosts Yonsei and Ewha — one of Seoul's major university clusters. DPK held both subdistricts (갑 50.75, 을 57.62). Young-voter composition plus progressive academic culture anchor reliable DPK preference.",
+  "issues": [
+    {
+      "tag": "young_voters",
+      "label": "University-youth base",
+      "weight": 0.65,
+      "description": "Yonsei + Ewha produce a high share of young voters; Shinchon as cultural-political hub."
+    },
+    {
+      "tag": "education",
+      "label": "Academic culture",
+      "weight": 0.55,
+      "description": "University culture historically progressive-leaning."
+    },
+    {
+      "tag": "demographics",
+      "label": "Residential + student mix",
+      "weight": 0.5,
+      "description": "Daytime student population overlaps with resident electorate."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-22-ko"
+  ]
+}

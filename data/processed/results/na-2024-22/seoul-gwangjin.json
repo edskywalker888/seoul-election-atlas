@@ -1,0 +1,21 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gwangjin",
+  "winner_party_id": "dpk",
+  "winner_candidate": "이정헌",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "이정헌",
+      "party_id": "dpk",
+      "votes": 68289,
+      "vote_pct": 52.53
+    },
+    {
+      "name": "김병민",
+      "party_id": "ppp",
+      "votes": 61698,
+      "vote_pct": 47.46
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-nowon",
+  "winner_party_id": "dpk",
+  "winner_candidate": "고용진",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "고용진",
+      "party_id": "dpk",
+      "votes": 76653,
+      "vote_pct": 56.78
+    },
+    {
+      "name": "이노근",
+      "party_id": "ufp",
+      "votes": 52299,
+      "vote_pct": 38.74
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 6048,
+      "vote_pct": 4.48
+    }
+  ]
+}

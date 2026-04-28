@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-yeongdeungpo",
+  "winner_party_id": "dpk",
+  "winner_candidate": "김영주",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "김영주",
+      "party_id": "dpk",
+      "votes": 75951,
+      "vote_pct": 56.26
+    },
+    {
+      "name": "문병호",
+      "party_id": "ufp",
+      "votes": 51678,
+      "vote_pct": 38.28
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 7371,
+      "vote_pct": 5.46
+    }
+  ]
+}

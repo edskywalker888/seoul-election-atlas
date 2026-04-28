@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-gangbuk",
+  "summary": "Gangbuk went DPK strongly (천준호 갑 57.75, 박용진 을 64.45 — Park Yong-jin's massive win). Working-middle-class residential base, consistent progressive preference.",
+  "issues": [
+    {
+      "tag": "ideology",
+      "label": "Progressive identity",
+      "weight": 0.6,
+      "description": "박용진's 64.45% was one of the largest 2020 DPK margins in Seoul."
+    },
+    {
+      "tag": "class_profile",
+      "label": "Working-middle-class base",
+      "weight": 0.55,
+      "description": "Residential north Seoul, moderate-income households."
+    },
+    {
+      "tag": "candidate_strength",
+      "label": "박용진 personal profile (을)",
+      "weight": 0.5,
+      "description": "Park Yong-jin built strong national profile during this term."
+    }
+  ],
+  "confidence": 0.55,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

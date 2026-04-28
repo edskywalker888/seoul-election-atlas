@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-gangseo",
+  "winner_party_id": "dpk",
+  "winner_candidate": "강선우",
+  "turnout_pct": 66.97,
+  "candidates": [
+    {
+      "name": "강선우",
+      "party_id": "dpk",
+      "votes": 76115,
+      "vote_pct": 58.55
+    },
+    {
+      "name": "구상찬",
+      "party_id": "ppp",
+      "votes": 50271,
+      "vote_pct": 38.67
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 3614,
+      "vote_pct": 2.78
+    }
+  ]
+}

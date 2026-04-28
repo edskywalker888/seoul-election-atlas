@@ -1,0 +1,33 @@
+{
+  "election_id": "na-2024-22",
+  "district_id": "seoul-yongsan",
+  "summary": "Yongsan is Seoul's clearest structural swing district — the 2000 election was decided by 0.12pp, the 2020 by 0.66pp. In 2024, Kwon Young-se expanded his margin to ~4.75pp (51.77% vs 47.02%), bucking the broader anti-Yoon national wave. The 2022 presidential office move to Yongsan-gu is plausible local tailwind for PPP that the Korean Wikipedia source does not formally analyze.",
+  "issues": [
+    {
+      "tag": "candidate_strength",
+      "label": "Candidate strength / incumbency",
+      "weight": 0.7,
+      "description": "Kwon Young-se has built personal brand across multiple cycles; DPK's 강태웅 is a credible repeat challenger. High-quality candidates on both sides define Yongsan races."
+    },
+    {
+      "tag": "incumbency",
+      "label": "Incumbency effect",
+      "weight": 0.65,
+      "description": "Kwon's expansion from 0.66pp (2020) to ~4.75pp (2024) is consistent with an incumbency bonus."
+    },
+    {
+      "tag": "local_development",
+      "label": "Presidential office locus (2022–)",
+      "weight": 0.55,
+      "description": "Yongsan hosts the presidential office since May 2022. Plausible local attention / identification effect — but unconfirmed in sources used. Tentative."
+    },
+    {
+      "tag": "government_approval",
+      "label": "National mood",
+      "weight": 0.4,
+      "description": "Yongsan's swing-district nature usually makes it responsive to national mood; in 2024 the district resisted the national wave, suggesting candidate/local factors outweighed."
+    }
+  ],
+  "confidence": 0.6,
+  "source_ids": ["wiki-yongsan-na", "wiki-22-ko", "wiki-22-en"]
+}

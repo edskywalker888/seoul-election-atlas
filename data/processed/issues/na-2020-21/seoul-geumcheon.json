@@ -1,0 +1,29 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-geumcheon",
+  "summary": "Geumcheon: 최기상 (DPK) won 49.63% in a 3-way race (UFP 35.47, others ~15). Industrial-southern working-class base + multicultural neighborhoods anchored DPK preference.",
+  "issues": [
+    {
+      "tag": "class_profile",
+      "label": "Working-class industrial base",
+      "weight": 0.6,
+      "description": "Manufacturing legacy; labor-adjacent progressive politics."
+    },
+    {
+      "tag": "ideology",
+      "label": "Progressive base",
+      "weight": 0.55,
+      "description": "Consistent DPK representation."
+    },
+    {
+      "tag": "demographics",
+      "label": "Lower-income / multicultural",
+      "weight": 0.5,
+      "description": "Demographic composition differs from central Seoul."
+    }
+  ],
+  "confidence": 0.5,
+  "source_ids": [
+    "wiki-21-ko"
+  ]
+}

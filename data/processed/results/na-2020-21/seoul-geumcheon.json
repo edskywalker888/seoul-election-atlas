@@ -1,0 +1,27 @@
+{
+  "election_id": "na-2020-21",
+  "district_id": "seoul-geumcheon",
+  "winner_party_id": "dpk",
+  "winner_candidate": "최기상",
+  "turnout_pct": 66.2,
+  "candidates": [
+    {
+      "name": "최기상",
+      "party_id": "dpk",
+      "votes": 67001,
+      "vote_pct": 49.63
+    },
+    {
+      "name": "강성만",
+      "party_id": "ufp",
+      "votes": 47885,
+      "vote_pct": 35.47
+    },
+    {
+      "name": "Combined other candidates",
+      "party_id": "other",
+      "votes": 20115,
+      "vote_pct": 14.9
+    }
+  ]
+}

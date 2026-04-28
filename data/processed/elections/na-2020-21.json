@@ -1,0 +1,9 @@
+{
+  "election_id": "na-2020-21",
+  "name_en": "21st National Assembly Election",
+  "name_ko": "제21대 국회의원선거",
+  "date": "2020-04-15",
+  "scope": "seoul",
+  "type": "national_assembly",
+  "source_ids": ["wiki-21-ko"]
+}
