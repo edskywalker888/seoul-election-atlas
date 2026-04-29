@@ -158,7 +158,11 @@ async function runAgent(
     // and tool calls; finalMessage() returns the complete Message once done.
     const stream = client.messages.stream({
       model: MODEL,
-      max_tokens: 8192,
+      // 32K output budget — adaptive thinking + multiple tool_use blocks
+      // count against this cap alongside the final JSON. Empirically saw
+      // ~13.5K output tokens hit max_tokens at 8192, with no final text
+      // emitted because the budget was exhausted on thinking + tool calls.
+      max_tokens: 32000,
       thinking: { type: "adaptive" },
       output_config: { effort: "high" },
       system: [
