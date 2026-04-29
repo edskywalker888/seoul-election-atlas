@@ -152,7 +152,11 @@ async function runAgent(
   ];
 
   for (let i = 0; i < MAX_TOOL_ITERATIONS; i++) {
-    const response = await client.messages.create({
+    // Stream the response — agentic loops with adaptive thinking + multiple
+    // tool roundtrips can exceed the SDK's 10-minute non-streaming HTTP
+    // timeout. Streaming keeps the connection alive across long generations
+    // and tool calls; finalMessage() returns the complete Message once done.
+    const stream = client.messages.stream({
       model: MODEL,
       max_tokens: 8192,
       thinking: { type: "adaptive" },
@@ -170,6 +174,7 @@ async function runAgent(
       ],
       messages,
     });
+    const response = await stream.finalMessage();
 
     console.log(
       `[polls] iter ${i + 1}: stop_reason=${response.stop_reason} ` +
