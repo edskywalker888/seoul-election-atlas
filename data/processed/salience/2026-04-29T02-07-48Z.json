@@ -1,0 +1,250 @@
+{
+  "captured_at": "2026-04-29T02:07:48.129Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.fnnews.com/news/202604290500406554",
+    "https://www.newspim.com/news/view/20260428001301",
+    "https://www.khan.co.kr/article/202604290743001",
+    "https://www.seoul.co.kr/news/society/2026/04/28/20260428500253",
+    "https://imnews.imbc.com/news/2026/society/article/6818598_36918.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6818648_37004.html",
+    "https://www.fnnews.com/news/202604281023465754",
+    "https://www.khan.co.kr/article/202604180800031",
+    "https://www.asiatime.co.kr/article/20260405500067",
+    "https://www.ytn.co.kr/_ln/0101_202604260534375317",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4071373",
+    "https://www.mt.co.kr/politics/2026/04/29/2026042721081990236",
+    "https://v.daum.net/v/20250606134729737",
+    "https://www.huffingtonpost.kr/article/241126",
+    "https://issue.daum.net/election/2026",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://m.ekn.kr/view.php?key=20260418022148092",
+    "https://m.seoul.co.kr/news/2026/04/21/20260421005004",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6812690_37004.html",
+    "https://issue.cyberbabarian.com/naeran-jaepan-byeonron-jongryo-2026/",
+    "https://issue.cyberbabarian.com/naeran-udumeo-2sim-2026-april/",
+    "https://issue.cyberbabarian.com/north-korea-ballistic-missile-2026-april/",
+    "https://www.korea.kr/news/cultureColumnView.do?newsId=148958903",
+    "https://www.kjob.news/news/484226"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Yoon Appeal Ruling on Arrest Obstruction",
+      "topic_ko": "윤석열 체포방해 항소심 선고",
+      "summary": "Seoul High Court's appeals bench (내란전담재판부 형사1부) is delivering its verdict today, April 29 at 3pm, on former President Yoon Seok-yeol's charges of obstructing the CIO arrest warrant and violating cabinet ministers' deliberation rights—the first appellate ruling in the December 3 martial law cases. The 1st-trial sentence was 5 years; the special prosecutor had requested 10 years on appeal, and the proceedings are being live-broadcast nationally.",
+      "sentiment": "negative",
+      "sentiment_score": -0.75,
+      "salience": 1,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 '체포방해' 오늘 항소심 선고…'내란전담재판부 1호'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604290500406554"
+        },
+        {
+          "title": "'공수처 체포방해' 윤석열, 오늘 항소심 선고 생중계",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260428001301"
+        },
+        {
+          "title": "윤석열 '체포방해' 오늘 항소심 선고, 재판 생중계…채상병 수사 외압 첫 정식 공판도",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604290743001"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Kim Geonh-hee Sentenced to 4 Years on Appeal",
+      "topic_ko": "김건희 항소심 징역 4년 선고",
+      "summary": "On April 28, Seoul High Court sentenced former first lady Kim Geonh-hee to four years in prison on appeal—up sharply from the 1st trial's 1 year and 8 months—finding her guilty as a co-conspirator in the Deutsch Motors stock manipulation and of unlawfully receiving gifts from the Unification Church and a Chanel bag. The defense announced it would appeal to the Supreme Court.",
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "salience": 0.9,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "김건희 항소심 징역 4년 선고…주가조작·샤넬백 유죄로 뒤집혀",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/04/28/20260428500253"
+        },
+        {
+          "title": "김건희 항소심에서 징역 4년…'도이치·통일교' 의혹 유죄로 형량 늘어",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6818598_36918.html"
+        },
+        {
+          "title": "'V0' 김건희 1심 판단 뒤집혔다…징역 4년으로 늘어",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6818648_37004.html"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Constitutional Amendment Vote Imminent in Assembly",
+      "topic_ko": "개헌안 국회 표결 임박",
+      "summary": "Six parties excluding the PPP submitted a constitutional amendment bill on April 3 and have scheduled a National Assembly plenary vote for May 7, aiming to hold a concurrent referendum on June 3 alongside the local elections; the government has already approved 19.6 billion won in emergency funds for referendum preparation. The PPP is blocking the vote, calling the process hasty and alleging President Lee is pursuing the amendment to enable re-election.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.1,
+      "salience": 0.8,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "5월 7일 개헌안 표결…국민의힘 '지선 후 합의' 제안",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604281023465754"
+        },
+        {
+          "title": "명분 없는 반대, 허술한 빌드업…39년만의 개헌, 이렇게 한다고?",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604180800031"
+        },
+        {
+          "title": "'지방선거·개헌 동시투표' 급물살…野 10표 얻으면 '국민이 판단'",
+          "outlet": "아시아타임즈",
+          "url": "https://www.asiatime.co.kr/article/20260405500067"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "PPP Leader Chang Dong-hyuk Faces Resignation Calls",
+      "topic_ko": "국민의힘 장동혁 대표 사퇴론 확산",
+      "summary": "With the June 3 local elections less than 40 days away, calls for PPP leader Chang Dong-hyuk to step down are intensifying from within his own party; multiple PPP candidates have launched independent campaign committees sidelining the central leadership, and a senior lawmaker described the party as in a 'de facto vacancy' state. Chang has refused to resign, saying he will accept judgment by election results.",
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "salience": 0.72,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "[정치] 지방선거 앞 '장동혁 사퇴론'…혼란의 국민의힘",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202604260534375317"
+        },
+        {
+          "title": "국힘 '장동혁 리스크' 확산…지방선거 앞두고 지도부 흔들",
+          "outlet": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4071373"
+        },
+        {
+          "title": "'방미 논란' 이후 국민의힘 장동혁 대표 지도부가 더 큰 위기에 봉착했다",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/04/29/2026042721081990236"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "June 3 Local Elections Campaign Dynamics",
+      "topic_ko": "6·3 지방선거 선거운동 본격화",
+      "summary": "Formal campaigning for the June 3 nationwide local elections and concurrent by-elections has begun, with the Democratic Party polling well ahead of the PPP across most regions amid the continued fallout from the December 3 martial law crisis. The elections are widely seen as the first major national verdict on the Lee Jae-myung government's performance.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.1,
+      "salience": 0.62,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "'이재명정부 최정점' 2026년 지방선거…국민의힘, 반전 가능할까",
+          "outlet": "다음뉴스",
+          "url": "https://v.daum.net/v/20250606134729737"
+        },
+        {
+          "title": "2026 지방선거 최대 정치이벤트는 아무래도 '이재명 중간평가'",
+          "outlet": "허프포스트코리아",
+          "url": "https://www.huffingtonpost.kr/article/241126"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Jae-myung Approval Rating Hits Record High",
+      "topic_ko": "이재명 대통령 지지율 취임 후 최고치",
+      "summary": "President Lee Jae-myung's approval rating reached a post-inauguration high of 67% (Gallup Korea, late April) and 65.5% (Realmy meter, April 3rd week), with polling firms attributing the surge to successful Middle East crude oil procurement and a recovering KOSPI. The ruling Democratic Party's support stands at around 50% versus the PPP's approximately 15%.",
+      "sentiment": "positive",
+      "sentiment_score": 0.65,
+      "salience": 0.53,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고…민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "[에너지경제 여론조사] 李 대통령 지지율 65.5%…취임 후 최고치",
+          "outlet": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260418022148092"
+        },
+        {
+          "title": "李대통령 지지율 65.5% 취임 후 최고",
+          "outlet": "서울신문",
+          "url": "https://m.seoul.co.kr/news/2026/04/21/20260421005004"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Yoon Insurrection Trial Appeal Begins",
+      "topic_ko": "윤석열 내란 우두머리 2심 시작",
+      "summary": "Former President Yoon Seok-yeol's appeal trial on the main insurrection (내란 우두머리) charge—where he was sentenced to life imprisonment in the 1st trial—held its first preparatory hearing on April 27; related sub-trials on the Pyongyang drone mission and media blackout orders concluded first-instance proceedings on April 23. The timeline for an appellate verdict before year-end remains tight.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.44,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "무기징역에도 반성 없는 尹…심판은 진행 중",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6812690_37004.html"
+        },
+        {
+          "title": "2026년 4월 내란 재판 변론 종결 소식 정리│평양무인기·언론사 단전 의혹",
+          "outlet": "21세기이슈",
+          "url": "https://issue.cyberbabarian.com/naeran-jaepan-byeonron-jongryo-2026/"
+        },
+        {
+          "title": "2026년 4월 내란 우두머리 2심 첫 재판, 헌법소원까지 진행되는 이유 3가지",
+          "outlet": "21세기이슈",
+          "url": "https://issue.cyberbabarian.com/naeran-udumeo-2sim-2026-april/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "North Korea Missile Provocation Draws Trilateral Rebuke",
+      "topic_ko": "북한 탄도미사일 발사 한미일 공동 규탄",
+      "summary": "North Korea conducted its seventh ballistic missile launch of 2026 around April 20, prompting an emergency security review by the Lee government and a joint South Korea-U.S.-Japan statement condemning the violation of UN Security Council resolutions. Pyongyang has shown no interest in dialogue despite Seoul's overtures, and the inter-Korean relationship remains frozen.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 0.35,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "북한 탄도미사일 발사 올해 7번째 도발, 한미일 공동 규탄·유엔 안보리 결의 위반",
+          "outlet": "21세기이슈",
+          "url": "https://issue.cyberbabarian.com/north-korea-ballistic-missile-2026-april/"
+        },
+        {
+          "title": "2026년 한국의 4강 외교 과제와 한반도 평화",
+          "outlet": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/cultureColumnView.do?newsId=148958903"
+        },
+        {
+          "title": "트럼프 2기, 2026년 한반도 외교 시험대 전망",
+          "outlet": "전국인력신문",
+          "url": "https://www.kjob.news/news/484226"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
