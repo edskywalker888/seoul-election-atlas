@@ -145,7 +145,7 @@ async function capturePolymarket(capturedAt: string): Promise<MarketSnapshot> {
     event_slug: event.slug,
     event_url: POLYMARKET_PUBLIC_URL,
     event_title: event.title,
-    end_date: event.endDate,
+    end_date: event.endDate ?? SEOUL_MAYOR_2026_END,
     total_volume_usd: event.volume,
     total_liquidity_usd: event.liquidity,
     candidates,
@@ -154,13 +154,17 @@ async function capturePolymarket(capturedAt: string): Promise<MarketSnapshot> {
   };
 }
 
+// Election date is statutorily fixed (June 3, 2026, 18:00 KST = 09:00 UTC).
+// Used as a fallback when the API doesn't return expected_expiration_time.
+const SEOUL_MAYOR_2026_END = "2026-06-03T09:00:00Z";
+
 interface KalshiResponse {
   event: {
     event_ticker: string;
     title: string;
     sub_title?: string;
     status: string;
-    expected_expiration_time: string;
+    expected_expiration_time?: string | null;
   };
   markets: Array<{
     ticker: string;
@@ -216,7 +220,7 @@ async function captureKalshi(capturedAt: string): Promise<MarketSnapshot> {
     event_slug: "kxseoulmayor-26jun03",
     event_url: KALSHI_PUBLIC_URL,
     event_title: data.event.title,
-    end_date: data.event.expected_expiration_time,
+    end_date: data.event.expected_expiration_time ?? SEOUL_MAYOR_2026_END,
     candidates,
     method_notes:
       "Captured live from Kalshi v2 API. Each candidate is a separate binary YES/NO market; prob = last_price_dollars.",
