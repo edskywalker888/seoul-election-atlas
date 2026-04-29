@@ -1,0 +1,250 @@
+{
+  "captured_at": "2026-04-29T03:38:11.284Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.seoul.co.kr/news/society/2026/04/28/20260428500210",
+    "https://www.npr.org/2026/04/28/g-s1-119050/south-korean-court-extends-prison-sentence-for-wife-of-ousted-president",
+    "https://www.fnnews.com/news/202604281710099452",
+    "https://imnews.imbc.com/news/2026/politics/article/6818262_36911.html",
+    "https://www.fnnews.com/news/202604281023465754",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260406/cabinet-approves-motion-to-amend-parts-of-the-constitution",
+    "https://issue.daum.net/election/2026",
+    "http://www.newstomato.com/ReadNews.aspx?no=1298730",
+    "https://namu.wiki/w/2026%EB%85%84%20%EC%9E%AC%EB%B3%B4%EA%B6%90%EC%84%A0%EA%B1%B0/%EC%84%A0%EA%B1%B0%20%EC%8B%A4%EC%8B%9C%20%EC%A7%80%EC%97%AD",
+    "https://thediplomat.com/2026/04/ppps-chief-holds-meetings-in-washington-while-his-party-faces-ruin-at-home",
+    "https://thediplomat.com/2026/03/south-koreas-conservative-party-tanks-amid-warring-factions-fight-for-legitimacy/",
+    "https://en.sedaily.com/politics/2026/01/30/i-will-return-han-dong-hoon-expelled-as-conservative-civil",
+    "https://en.sedaily.com/finance/2026/04/28/opposition-seeks-unification-ministers-dismissal-as-ruling",
+    "https://www.fnnews.com/news/202604261303516632",
+    "https://en.sedaily.com/finance/2026/04/25/ruling-opposition-parties-clash-over-south-korea-us",
+    "https://issue.cyberbabarian.com/naeran-jaepan-byeonron-jongryo-2026/",
+    "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk",
+    "https://issue.daum.net/focus/241203investigation",
+    "https://www.koreaherald.com/article/10502380",
+    "https://www.washingtontimes.com/news/2026/feb/6/south-korea-us-tariff-strife-threatens-affect-security-domain/",
+    "https://www.koreatimes.co.kr/southkorea/20260415/imf-holds-s-korea-growth-at-19-raises-inflation-to-25",
+    "https://en.sedaily.com/finance/2026/04/27/google-to-open-worlds-first-ai-campus-in-seoul-this-year",
+    "https://www.bizzbuzz.news/technology/ai/s-koreas-prez-lee-google-deepmind-ceo-discuss-responsible-use-of-ai-1389610",
+    "https://www.japantimes.co.jp/business/2025/12/03/tech/south-korea-budget-ai-growth/"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Kim Keon-hee Sentenced to Four Years on Appeal",
+      "topic_ko": "김건희 항소심 징역 4년 선고",
+      "summary": "South Korea's Seoul High Court on April 28 sentenced Kim Keon-hee, wife of jailed former President Yoon Suk-yeol, to four years in prison for her role in the Deutsche Motors stock manipulation scheme and receipt of bribes from the Unification Church, increasing the punishment from her first-instance verdict. The ruling dominates political discourse one day before this snapshot, intensifying scrutiny of the former first family.",
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "salience": 0.95,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "김건희 2심 선고, 징역 4년으로 늘어…도이치 주가조작·통일교 금품수수 유죄",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/04/28/20260428500210"
+        },
+        {
+          "title": "South Korean court extends prison sentence for wife of ousted president",
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/04/28/g-s1-119050/south-korean-court-extends-prison-sentence-for-wife-of-ousted-president"
+        },
+        {
+          "title": "\"징역 4년\" 항소심 선고에 굳은 김건희…퇴정 때는 눈 찡그려",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604281710099452"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Constitutional Amendment Referendum Blocked by PPP",
+      "topic_ko": "개헌 국민투표 국민의힘 반대 무산 위기",
+      "summary": "The ruling Democratic Party and National Assembly Speaker Woo Won-shik are pushing to hold a constitutional referendum concurrent with the June 3 local elections, covering issues such as martial-law oversight and decentralization, but the PPP is blocking it, with a decisive National Assembly vote scheduled for May 7. The PPP has countered that the rushed process amounts to populism, while the Speaker accused PPP of protecting pro-Yoon interests.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 0.85,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "우원식, '개헌 반대' 국민의힘 향해 \"개헌 싫어하는 세력 '윤어게인' 아닌가\"",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6818262_36911.html"
+        },
+        {
+          "title": "5월 7일 개헌안 표결..국민의힘 '지선 후 합의' 제안",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604281023465754"
+        },
+        {
+          "title": "Cabinet approves motion to amend parts of the Constitution",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260406/cabinet-approves-motion-to-amend-parts-of-the-constitution"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "June 3 Local Elections Campaign Heats Up",
+      "topic_ko": "6·3 지방선거 선거운동 본격화",
+      "summary": "With 35 days until the June 3 local elections, key Democratic Party candidates including Choo Mi-ae (Gyeonggi governor) and Jeon Jae-su (Busan mayor) resigned their National Assembly seats on April 29 to register as candidates, intensifying the campaign. Polls show 64.3% of the public expects a Democratic Party victory, with the PPP struggling to recover from its internal crisis.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.1,
+      "salience": 0.8,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "[지방선거 D-35] 민주당 공천, 선거구 획정 뒤 속도전…'벼락치기 공천' 우려도",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "(정기여론조사)③국민 64.3% \"6·3 지방선거, 민주당 승리\"…10명 중 2명만 \"국힘 승리\"",
+          "outlet": "뉴스토마토",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1298730"
+        },
+        {
+          "title": "2026년 재보궐선거/선거 실시 지역 - 나무위키",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/2026%EB%85%84%20%EC%9E%AC%EB%B3%B4%EA%B6%90%EC%84%A0%EA%B1%B0/%EC%84%A0%EA%B1%B0%20%EC%8B%A4%EC%8B%9C%20%EC%A7%80%EC%97%AD"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "PPP Internal Crisis Ahead of Local Elections",
+      "topic_ko": "국민의힘 내홍·한동훈 출당 후폭풍",
+      "summary": "The People Power Party continues to suffer from the fallout of expelling former leader Han Dong-hoon in January 2026, with deep factional fractures persisting as the June local elections approach. Current leader Jang Dong-hyeok's Washington trip amid domestic turmoil drew criticism, and the party's belated apology has failed to close a wide polling gap against the Democrats.",
+      "sentiment": "negative",
+      "sentiment_score": -0.75,
+      "salience": 0.72,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "PPP's Chief Holds Meetings in Washington While His Party Faces Ruin at Home",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/04/ppps-chief-holds-meetings-in-washington-while-his-party-faces-ruin-at-home"
+        },
+        {
+          "title": "South Korea's Conservative Party Tanks Amid Warring Factions' Fight for Legitimacy",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/03/south-koreas-conservative-party-tanks-amid-warring-factions-fight-for-legitimacy/"
+        },
+        {
+          "title": "\"I Will Return\": Han Dong-hoon Expelled as Conservative Civil War Begins",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/politics/2026/01/30/i-will-return-han-dong-hoon-expelled-as-conservative-civil"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Unification Minister Dismissal Motion and Alliance Row",
+      "topic_ko": "정동영 통일부 장관 해임건의안·한미동맹 논란",
+      "summary": "The PPP is demanding the dismissal of Unification Minister Jeong Dong-yeong over allegations of leaking US-provided intelligence and making unauthorized foreign policy statements, turning the US-South Korea alliance into a legislative battleground. On April 28, the ruling DP walked out of the National Assembly plenary as the PPP delivered a floor speech on the dismissal motion, deepening partisan gridlock.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.62,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "Opposition Seeks Unification Minister's Dismissal as Ruling Party Walks Out",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/04/28/opposition-seeks-unification-ministers-dismissal-as-ruling"
+        },
+        {
+          "title": "'정동영 구하기' 불구 사퇴압박 거세..한미동맹 정쟁화 두고 충돌",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604261303516632"
+        },
+        {
+          "title": "Ruling, Opposition Parties Clash Over South Korea-US Alliance for Second Day",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/04/25/ruling-opposition-parties-clash-over-south-korea-us"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Yoon Suk-yeol Insurrection Trial Proceedings Continue",
+      "topic_ko": "윤석열 내란 재판·특검 수사 진행",
+      "summary": "Former President Yoon Suk-yeol, already serving a life sentence handed down February 19, faces ongoing legal proceedings including a martial law trial whose first-instance closing arguments concluded April 23 and continued special-counsel activity with additional indictments. The trials remain a prominent backdrop to daily political coverage, particularly as they intersect with local election narratives.",
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "salience": 0.55,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "2026년 4월 내란 재판 변론 종결 소식 정리",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/naeran-jaepan-byeonron-jongryo-2026/"
+        },
+        {
+          "title": "Yoon Suk Yeol: Former South Korean President handed life sentence for leading insurrection",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk"
+        },
+        {
+          "title": "내란재판 현황",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/focus/241203investigation"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "US Tariff Pressure and Korea Trade Negotiations",
+      "topic_ko": "미국 상호관세 협상·한국 경제 위기",
+      "summary": "South Korea faces the expiration of a 90-day grace period on US reciprocal tariffs that could push rates from 10% to 25%, presenting President Lee Jae-myung with his first major trade test. The IMF in mid-April held Korea's 2026 growth forecast at a modest 1.9%, reflecting lingering export-sector uncertainty as trade negotiators remain in Washington.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 0.45,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "Lee Jae-myung faces first major test as US tariff deadline looms",
+          "outlet": "Korea Herald",
+          "url": "https://www.koreaherald.com/article/10502380"
+        },
+        {
+          "title": "South Korea-U.S. tariff strife threatens to affect security domain",
+          "outlet": "Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/feb/6/south-korea-us-tariff-strife-threatens-affect-security-domain/"
+        },
+        {
+          "title": "IMF holds S. Korea growth at 1.9%, raises inflation to 2.5%",
+          "outlet": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/20260415/imf-holds-s-korea-growth-at-19-raises-inflation-to-25"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Lee Government AI Diplomacy and Tech Investment Push",
+      "topic_ko": "이재명 정부 AI 외교·기술 투자 드라이브",
+      "summary": "President Lee Jae-myung met Google DeepMind CEO Demis Hassabis at the Blue House on April 27 to discuss AI cooperation and science innovation, with Google announcing plans to open the world's first AI campus in Seoul later this year. The meetings underscore the Lee administration's broader strategy of positioning Korea as a leading AI nation, backed by a record 727.9 trillion-won budget passed in late 2025.",
+      "sentiment": "positive",
+      "sentiment_score": 0.65,
+      "salience": 0.32,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "Google to Open World's First AI Campus in Seoul This Year",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/04/27/google-to-open-worlds-first-ai-campus-in-seoul-this-year"
+        },
+        {
+          "title": "S Korea's Prez Lee, Google DeepMind CEO discuss responsible use of AI",
+          "outlet": "BizzBuzz",
+          "url": "https://www.bizzbuzz.news/technology/ai/s-koreas-prez-lee-google-deepmind-ceo-discuss-responsible-use-of-ai-1389610"
+        },
+        {
+          "title": "South Korea parliament clears 2026 budget to power AI-led growth",
+          "outlet": "Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2025/12/03/tech/south-korea-budget-ai-growth/"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
