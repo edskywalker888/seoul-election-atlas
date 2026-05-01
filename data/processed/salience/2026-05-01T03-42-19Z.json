@@ -1,0 +1,250 @@
+{
+  "captured_at": "2026-05-01T03:42:19.557Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.news1.kr/society/court-prosecution/6153005",
+    "https://www.fnnews.com/news/202604291846428613",
+    "https://www.scmp.com/week-asia/politics/article/3351820/south-koreas-yoon-given-longer-sentence-obstructing-justice",
+    "https://www.fnnews.com/news/202604281730005013",
+    "https://en.sedaily.com/news/2026/04/03/six-parties-propose-constitutional-amendment-without-ppp",
+    "https://www.koreaherald.com/article/10710200",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260426/ppp-picks-choo-kyung-ho-to-face-kim-boo-kyum-in-daegu-mayoral-election",
+    "https://issue.daum.net/election/2026",
+    "https://polymarket.com/event/2026-south-korean-local-elections-party-winner",
+    "https://www.newspim.com/news/view/20260429001114",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260430010009867",
+    "https://www.fnnews.com/news/202604301418072381",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html",
+    "https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85/%EC%A7%80%EC%A7%80%EC%9C%A8",
+    "https://www.munhwa.com/article/11586371",
+    "https://www.insight.co.kr/news/552472",
+    "https://www.newsis.com/view/NISI20260501_0021268448",
+    "https://keia.org/the-peninsula/u-s-south-korea-move-to-lock-in-lower-tariff-rate-with-350-billion-deal",
+    "https://www.fki.or.kr/webzine/K05/sub_20.html",
+    "https://www.koreaherald.com/article/10541157",
+    "https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000052266",
+    "https://car.withnews.kr/military/russia-awards-north-korea-soldiers-korean-war-risk/comment-page-1",
+    "https://namu.wiki/w/2026%EB%85%84%20%EB%B6%81%ED%95%9C%20%EB%AF%B8%EC%82%AC%EC%9D%BC%20%EB%8F%84%EB%B0%9C"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Yoon Suk-yeol Appeal Verdict Insurrection Trials",
+      "topic_ko": "윤석열 항소심 선고 및 내란 재판",
+      "summary": "On April 29, Seoul High Court's dedicated insurrection bench raised Yoon Suk-yeol's sentence from 5 to 7 years in the arrest-obstruction case, the first appellate ruling from the new insurrection panel. The main insurrection trial verdict is now scheduled for May 28, keeping the legal saga at the top of the news agenda.",
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "salience": 0.95,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 '체포방해' 등 항소심 징역 7년 선고…형량 2년 늘어(2보)",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6153005"
+        },
+        {
+          "title": "내란전담재판부 첫 판단은 尹 징역 7년…공수처 수사권 재차 인정",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604291846428613"
+        },
+        {
+          "title": "South Korea's Yoon has jail term raised to 7 years in obstruction case",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/politics/article/3351820/south-koreas-yoon-given-longer-sentence-obstructing-justice"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Constitutional Amendment Referendum vs PPP Blockade",
+      "topic_ko": "개헌 국민투표 추진과 국민의힘 반대",
+      "summary": "Six parties excluding the PPP have proposed a constitutional amendment to be put to a referendum on June 3 election day, with a National Assembly vote set for May 7. The amendment focuses on embedding the May 18 democratic spirit, strengthening parliamentary oversight of martial law, and regional balance — but PPP's continued opposition means the required two-thirds threshold remains out of reach without defectors.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 0.85,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "개헌안 5월 7일 표결..우원식, 장동혁 만나 설득한다",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604281730005013"
+        },
+        {
+          "title": "Six Parties Propose Constitutional Amendment Without PPP — Bipartisan Consensus Essential",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/news/2026/04/03/six-parties-propose-constitutional-amendment-without-ppp"
+        },
+        {
+          "title": "Lawmakers propose constitutional change; opposition holds back",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10710200"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "June 3 Local Elections Campaign Heats Up",
+      "topic_ko": "6·3 지방선거 본격 선거운동",
+      "summary": "With less than five weeks to the June 3 nationwide local elections, candidate nominations are being finalised — including the PPP's selection of Choo Kyung-ho for the Daegu mayoral race — while the ruling Democratic Party holds commanding leads in most polling. The elections are widely seen as a referendum on the Lee Jae-myung government's first year.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.1,
+      "salience": 0.8,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "PPP picks Choo Kyung-ho to face Kim Boo-kyum in Daegu mayoral election",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260426/ppp-picks-choo-kyung-ho-to-face-kim-boo-kyum-in-daegu-mayoral-election"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요",
+          "outlet": "Daum News / Issue",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "2026 South Korean Local Elections: Party Winner Prediction",
+          "outlet": "Polymarket",
+          "url": "https://polymarket.com/event/2026-south-korean-local-elections-party-winner"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "PPP Leadership Split Before Local Elections",
+      "topic_ko": "국민의힘 투톱(장동혁·송언석) 갈등설",
+      "summary": "Tensions between PPP party leader Jang Dong-hyeok and floor leader Song Eon-seok over the composition of the party's local-election campaign committee have spilled into public view, with reports of disagreement on whether to distance the party from former president Yoon and on key campaign roles. Both leaders publicly denied a rift but coverage of internal disarray persists.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 0.68,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "선대위 구성 두고 불거진 국민의힘 투톱 불화설...장동혁 '송언석과 갈등 없다'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260429001114"
+        },
+        {
+          "title": "'투톱 갈등설' 선 그은 국힘…'상당한 곡해'",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260430010009867"
+        },
+        {
+          "title": "장동혁 국회-송언석 노량진..'갈등? 선거철엔 부부도 따로'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604301418072381"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "President Lee Record-High Approval Rating",
+      "topic_ko": "이재명 대통령 취임 후 최고 지지율",
+      "summary": "Polls show President Lee Jae-myung's job-approval rating has reached a post-inauguration record of 65–67%, sustaining above 60% for over five consecutive weeks. Analysts attribute the gains to perceived economic management, the Korea-US trade deal, and the ongoing accountability proceedings against former president Yoon.",
+      "sentiment": "positive",
+      "sentiment_score": 0.72,
+      "salience": 0.62,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "이 대통령 지지율 5주 연속 60%대‥민주 50.6%·국민의힘 30.0% [리얼미터]",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html"
+        },
+        {
+          "title": "이재명/지지율",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85/%EC%A7%80%EC%A7%80%EC%9C%A8"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Labor Day Ceremony and AI Labor Policy",
+      "topic_ko": "노동절 기념식 및 AI 시대 노동정책",
+      "summary": "President Lee hosted the first-ever official Labor Day ceremony at the Blue House on May 1, marking the first year the holiday's name was formally changed from 'Workers' Day' to 'Labor Day'. In his address Lee stressed that productivity gains from AI should not come at workers' expense, framing a labor-capital harmony agenda for his administration.",
+      "sentiment": "positive",
+      "sentiment_score": 0.45,
+      "salience": 0.52,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 '친노동 반기업, 친기업 반노동 낡은 이분법 깨야'…靑서 노동절 기념식",
+          "outlet": "문화일보",
+          "url": "https://www.munhwa.com/article/11586371"
+        },
+        {
+          "title": "노동절 기념식서 '소년공 경험' 회고한 이재명 대통령 '노동자의 일반적 희생 강요 안 돼'",
+          "outlet": "인사이트",
+          "url": "https://www.insight.co.kr/news/552472"
+        },
+        {
+          "title": "2026 노동절 기념식 국민의례 하는 이재명 대통령",
+          "outlet": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260501_0021268448"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Korea-US Trade Deal and Economic Diplomacy",
+      "topic_ko": "한미 관세 협상 및 경제 외교",
+      "summary": "South Korea's $350 billion US-investment package — including the MASGA shipbuilding initiative — has locked in a 15% tariff rate on Korean auto exports, averting steeper Section 232 levies. The deal continues to generate domestic political debate over sovereignty, strategic dependence on Washington, and the terms secured by the Lee government.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.15,
+      "salience": 0.42,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "U.S., South Korea Move to Lock In Lower Tariff Rate with $350 Billion Deal",
+          "outlet": "Korea Economic Institute of America",
+          "url": "https://keia.org/the-peninsula/u-s-south-korea-move-to-lock-in-lower-tariff-rate-with-350-billion-deal"
+        },
+        {
+          "title": "한미 관세 협상 합의",
+          "outlet": "전국경제인연합회 (FKI)",
+          "url": "https://www.fki.or.kr/webzine/K05/sub_20.html"
+        },
+        {
+          "title": "S. Korea proposes major shipbuilding investment in US ahead of tariff negotiation deadline",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10541157"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "North Korea Russia Troop Deployment Acknowledgment",
+      "topic_ko": "북한 러시아 파병 공식 인정과 안보 파장",
+      "summary": "North Korea officially acknowledged for the first time on April 28 that it had deployed troops to fight alongside Russia in Ukraine, with Kim Jong-un framing the deployment as a treaty obligation. South Korean security analysts are raising alarms about the implications for the peninsula, including a potential Russian obligation to assist the North in any future conflict.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.33,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "러시아·북한의 북한군 파병 공식 인정 배경 및 함의",
+          "outlet": "국가전략포털 (NANET)",
+          "url": "https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000052266"
+        },
+        {
+          "title": "'북한은 이제 우리의 영원한 전우'…한반도 전쟁 시 참전 명분 확보에 '초비상'",
+          "outlet": "위드뉴스",
+          "url": "https://car.withnews.kr/military/russia-awards-north-korea-soldiers-korean-war-risk/comment-page-1"
+        },
+        {
+          "title": "2026년 북한 미사일 도발",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/2026%EB%85%84%20%EB%B6%81%ED%95%9C%20%EB%AF%B8%EC%82%AC%EC%9D%BC%20%EB%8F%84%EB%B0%9C"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
