@@ -1,0 +1,243 @@
+{
+  "captured_at": "2026-05-03T03:34:53.830Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.fnnews.com/news/202602200920524890",
+    "https://www.seoul.co.kr/news/society/law/2026/04/29/20260429500023",
+    "https://imnews.imbc.com/news/2026/society/article/6817150_36918.html",
+    "https://issue.daum.net/election/2026",
+    "https://en.wikipedia.org/wiki/2026_South_Korean_local_elections",
+    "https://evrimagaci.org/gpt/south-korea-faces-fierce-battles-ahead-of-june-elections-537272",
+    "https://www.fnnews.com/news/202604302228109417",
+    "https://www.khan.co.kr/article/202604301921001/",
+    "https://www.thepublic.kr/news/articleView.html?idxno=303150",
+    "https://v.daum.net/v/20260416205936065",
+    "https://constitutionnet.org/news/south-koreas-government-issues-constitutional-amendment-notice",
+    "https://en.sedaily.com/finance/2026/03/19/speaker-woo-rallies-six-parties-for-constitutional",
+    "https://biz.heraldcorp.com/article/10660454",
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=215577",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148960744",
+    "https://keia.org/the-peninsula/q1-2026-u-s-korea-trade-investment-and-diplomacy-ledger/",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html",
+    "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156749769",
+    "https://www.chathamhouse.org/2026/01/north-korea-2026-will-us-and-south-korea-push-talks-succeed",
+    "https://www.brookings.edu/articles/rethinking-north-korea-diplomacy/"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Yoon Suk-yeol Insurrection Trial Appeals",
+      "topic_ko": "윤석열 내란 재판 항소심",
+      "summary": "The Seoul High Court is conducting expedited appeals in the December 2024 insurrection cases, with Yoon's arrest-obstruction appeal ruled on April 29 and the main insurrection leadership appeal verdict due by late May 2026, weeks before the June 3 local elections. Yoon received a life sentence at the first-instance trial in February 2026 and faces additional rulings on perjury charges on May 28.",
+      "sentiment": "negative",
+      "sentiment_score": -0.75,
+      "salience": 0.95,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "내란전담재판부 가동, 尹 항소심 5월 결론…9월 대법 확정될 듯",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202602200920524890"
+        },
+        {
+          "title": "윤석열 '체포방해' 오늘 항소심 선고… 비상계엄 관련 첫 2심 판단",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/law/2026/04/29/20260429500023"
+        },
+        {
+          "title": "서울고법 '3대 특검' 항소심 신속 진행 중‥다음 주 김건희·권성동 등 선고",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6817150_36918.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "June 3 Local Elections Campaign Battleground",
+      "topic_ko": "6·3 지방선거 본격 선거전",
+      "summary": "With exactly one month until the June 3 nationwide local elections, the Democratic Party is running on a government-stability platform while the opposition People Power Party campaigns on punishing the ruling party, but DP holds overwhelming leads with President Lee at 64–67% approval and PPP polling at historic lows around 21–31%.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.1,
+      "salience": 0.88,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "여당인 더불어민주당과 제1야당인 국민의힘이 16개 광역단체장 선거의 대진표를 완성했다",
+          "outlet": "다음 지방선거 이슈",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "2026 South Korean local elections",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_South_Korean_local_elections"
+        },
+        {
+          "title": "South Korea Faces Fierce Battles Ahead Of June Elections",
+          "outlet": "Grand Pinnacle Tribune / Evrimagaci",
+          "url": "https://evrimagaci.org/gpt/south-korea-faces-fierce-battles-ahead-of-june-elections-537272"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "DP Fabricated-Prosecution Special Counsel Bill",
+      "topic_ko": "조작기소 특검법 발의 논란",
+      "summary": "The Democratic Party filed a 'fabricated prosecution' special counsel bill on April 30, 2026, which would grant a presidential-appointee special prosecutor the de facto power to drop criminal charges against President Lee Jae-myung himself; the PPP has condemned it as a self-exoneration maneuver and the DP plans to push it through the National Assembly in May.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.78,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "與, '공소취소권 부여' 조작기소 특검법 발의…野 '셀프면죄'(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604302228109417"
+        },
+        {
+          "title": "이 대통령 기소된 모든 사건 사실상 '공소취소권' 부여···민주당, 조작기소 특검법 발의",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604301921001/"
+        },
+        {
+          "title": "민주당, 공소취소 권한 포함한 조작기소 특검법 발의",
+          "outlet": "더퍼블릭",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=303150"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Constitutional Referendum Concurrent with Local Vote",
+      "topic_ko": "지방선거 개헌 국민투표 동시 실시 논란",
+      "summary": "President Lee's top constitutional priority — a national referendum on charter reform to be held simultaneously with the June 3 local elections — appears nearly impossible after the People Power Party maintained its opposition, leaving supporters one vote short of the required two-thirds National Assembly threshold. Public polling shows roughly 60% nationwide support for holding the concurrent vote.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 0.68,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "진보 80%·중도 63%가 '개헌 동시 투표' 찬성 [6·3 지방선거 여론조사]",
+          "outlet": "다음/세계일보",
+          "url": "https://v.daum.net/v/20260416205936065"
+        },
+        {
+          "title": "South Korea's government issues constitutional amendment notice",
+          "outlet": "ConstitutionNet",
+          "url": "https://constitutionnet.org/news/south-koreas-government-issues-constitutional-amendment-notice"
+        },
+        {
+          "title": "Speaker Woo Rallies Six Parties for Constitutional Amendment Push",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/03/19/speaker-woo-rallies-six-parties-for-constitutional"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Kim Kun-hee Special Counsel Trial Verdicts",
+      "topic_ko": "김건희 특검 재판 항소심 선고",
+      "summary": "Following the conclusion of the Kim Kun-hee special investigation, the Seoul High Court is issuing a series of expedited appeals-court verdicts in early May 2026, with rulings on Kim Kun-hee and other defendants from the 'three major special counsel' cases expected within days, keeping pressure on the former first lady and her network.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.58,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "서울고법 '3대 특검' 항소심 신속 진행 중‥다음 주 김건희·권성동 등 선고",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6817150_36918.html"
+        },
+        {
+          "title": "수사 마친 김건희 특검, 반 년간 68억 더 쓴다",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10660454"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "US-Korea Tariff Deal and Trade Law Implementation",
+      "topic_ko": "한미 관세협상 및 대미투자특별법 이행",
+      "summary": "After Trump threatened in January 2026 to reimpose 25% tariffs over a delayed National Assembly ratification, South Korea passed the US Strategic Investment Special Act unanimously, stabilizing the trade deal. However, residual uncertainty from US Section 232 auto tariffs and a US Supreme Court ruling striking down IEEPA-based tariffs continues to complicate the bilateral economic relationship.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.1,
+      "salience": 0.5,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "트럼프 대통령의 한국산 관세(15%→25%) 인상 예고와 국회 '대미투자특별법' 입법 동향",
+          "outlet": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=215577"
+        },
+        {
+          "title": "'한미전략적특별법' 국회 통과…3500억 달러 대미 투자 근거 마련",
+          "outlet": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960744"
+        },
+        {
+          "title": "Q1 2026 U.S.-Korea Trade, Investment, and Diplomacy Ledger",
+          "outlet": "Korea Economic Institute of America",
+          "url": "https://keia.org/the-peninsula/q1-2026-u-s-korea-trade-investment-and-diplomacy-ledger/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Lee Jae-myung Approval Rating Sustained High",
+      "topic_ko": "이재명 대통령 지지율 고공행진",
+      "summary": "President Lee Jae-myung's job approval has held above 60% for five consecutive weeks heading into the local elections, most recently at 64–65% in late April polls, with the Democratic Party polling at 46–50% party support versus the PPP's 21–31%, driven by economic stability narratives including Samsung's record first-quarter profits and a KOSPI above 5,000.",
+      "sentiment": "positive",
+      "sentiment_score": 0.65,
+      "salience": 0.42,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "이재명 대통령 지지율, 64%‥민주당 46%·국민의힘 21%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html"
+        },
+        {
+          "title": "이 대통령 지지율 5주 연속 60%대‥민주 50.6%·국민의힘 30.0%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Inter-Korean Relations and Lee Peace Policy",
+      "topic_ko": "남북관계 및 한반도 평화공존 정책",
+      "summary": "The Lee government approved a five-year inter-Korean relations development plan in March 2026 centered on 'peaceful coexistence on the Korean Peninsula,' but North Korea remains unresponsive to dialogue overtures from both Seoul and Washington while strengthening ties with Beijing and Moscow, underscored by Chinese FM Wang Yi's Pyongyang visit in April 2026.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.15,
+      "salience": 0.3,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "남북관계발전위원회 개최 및 제5차 기본계획 심의",
+          "outlet": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156749769"
+        },
+        {
+          "title": "North Korea in 2026: Will the US and South Korean push for talks succeed?",
+          "outlet": "Chatham House",
+          "url": "https://www.chathamhouse.org/2026/01/north-korea-2026-will-us-and-south-korea-push-talks-succeed"
+        },
+        {
+          "title": "Rethinking North Korea diplomacy",
+          "outlet": "Brookings",
+          "url": "https://www.brookings.edu/articles/rethinking-north-korea-diplomacy/"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
