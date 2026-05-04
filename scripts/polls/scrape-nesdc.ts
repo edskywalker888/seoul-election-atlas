@@ -75,7 +75,7 @@ Return ONLY a JSON object — no preamble, no code-fence wrapping if you can avo
       "party_id": "dpk" | "ppp" | "rebuild" | "other",
       "series": [
         {
-          "t": "<ISO date, week start Monday UTC>",
+          "t": "<ISO 8601 datetime, week start Monday UTC, e.g. 2025-11-03T00:00:00Z>",
           "p": <0–1>,
           "n_polls": <int>,
           "sources": ["<pollster slug>", ...]
@@ -121,6 +121,14 @@ function extractJson(text: string): string {
   const end = text.lastIndexOf("}");
   if (start >= 0 && end > start) return text.slice(start, end + 1);
   return text.trim();
+}
+
+// The schema requires `t` to be RFC-3339 date-time (e.g. 2025-11-03T00:00:00Z).
+// The agent occasionally emits plain calendar dates (2025-11-03); coerce those
+// to UTC midnight rather than re-running the whole scrape on a format quibble.
+function normalizeT(t: string): string {
+  if (/^\d{4}-\d{2}-\d{2}$/.test(t)) return `${t}T00:00:00Z`;
+  return t;
 }
 
 function validatePoint(p: unknown): p is PollPoint {
@@ -234,6 +242,15 @@ async function main() {
     throw new Error(
       `model found no candidates with sufficient data. method_notes: "${parsed.method_notes ?? "(none)"}"`,
     );
+  }
+
+  // Coerce any YYYY-MM-DD `t` values to RFC-3339 date-time before validating.
+  for (const c of parsed.candidates) {
+    if (c && Array.isArray((c as PollCandidate).series)) {
+      for (const pt of (c as PollCandidate).series) {
+        if (pt && typeof pt.t === "string") pt.t = normalizeT(pt.t);
+      }
+    }
   }
 
   const validCandidates = parsed.candidates.filter(validateCandidate);
