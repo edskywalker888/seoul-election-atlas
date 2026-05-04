@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { Suspense, useMemo, useState } from "react";
 import type { DistrictResult, Party } from "@/types";
 import type { DistrictBoundary } from "@/lib/loadBoundary";
 import { MapCanvas } from "./MapCanvas";
@@ -60,14 +60,19 @@ export function MapView({
   return (
     <div className="space-y-4">
       <div className="aspect-[4/3] overflow-hidden rounded-md border border-neutral-200 bg-white">
-        <MapCanvas
-          boundary={boundary}
-          resultsByDistrict={resultsByDistrict}
-          parties={parties}
-          electionYear={electionYear}
-          activePartyId={activePartyId}
-          navigateToElectionId={navigateToElectionId}
-        />
+        {/* MapCanvas reads ?district= via useSearchParams(); Next 15 requires
+            that hook to live under a Suspense boundary so the rest of the page
+            can prerender statically while the map hydrates on the client. */}
+        <Suspense fallback={null}>
+          <MapCanvas
+            boundary={boundary}
+            resultsByDistrict={resultsByDistrict}
+            parties={parties}
+            electionYear={electionYear}
+            activePartyId={activePartyId}
+            navigateToElectionId={navigateToElectionId}
+          />
+        </Suspense>
       </div>
       <Legend
         partyStats={partyStats}
