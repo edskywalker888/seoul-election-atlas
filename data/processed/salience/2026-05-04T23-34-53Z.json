@@ -1,0 +1,250 @@
+{
+  "captured_at": "2026-05-04T23:34:53.562Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://biz.heraldcorp.com/article/10730964",
+    "https://www.fnnews.com/news/202605041342593105",
+    "https://en.sedaily.com/finance/2026/03/19/speaker-woo-rallies-six-parties-for-constitutional",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260504/june-3-elections-take-shape-dpks-presidential-aides-vs-ppps-incumbents",
+    "https://www.koreaherald.com/article/10730339",
+    "https://www.koreaherald.com/article/10729482",
+    "https://en.sedaily.com/finance/2026/04/30/divided-ppp-leadership-campaigns-separately-as-candidates",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260416/ppp-candidates-keep-distance-from-party-leadership-ahead-of-june-3-elections",
+    "https://en.sedaily.com/finance/2026/05/01/people-power-party-names-single-candidates-in-7-districts",
+    "https://www.bloomberg.com/news/articles/2026-05-04/top-bank-of-korea-official-says-it-s-time-to-consider-rate-hike",
+    "https://en.sedaily.com/finance/2026/05/04/bok-signals-shift-to-tightening-two-rate-hikes-seen-this",
+    "https://www.fxstreet.com/news/south-korea-oil-shock-lifts-inflation-outlook-standard-chartered-202603262023",
+    "https://imnews.imbc.com/news/2026/society/article/6819828_36918.html",
+    "https://korean.cri.cn/2026/05/04/ARTI1777880609170212",
+    "https://imnews.imbc.com/news/2026/society/article/6817150_36918.html",
+    "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90",
+    "https://www.cbtnews.com/us-south-korea-reach-deal-lowering-auto-tariffs-and-unlocking-350-billion-investment/",
+    "https://www.washingtontimes.com/news/2026/feb/6/south-korea-us-tariff-strife-threatens-affect-security-domain/",
+    "https://keia.org/the-peninsula/u-s-south-korea-relations-in-2026-key-issues-to-watch/",
+    "https://www.koreatimes.co.kr/southkorea/law-crime/20260312/explainer-new-law-lets-president-pick-22-of-26-supreme-court-justices-by-2030",
+    "https://en.sedaily.com/finance/2026/03/12/supreme-court-chief-justice-faces-criminal-complaint-on",
+    "https://en.sedaily.com/finance/2026/03/05/south-korea-enacts-judicial-reform-laws-amid-endless"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Constitutional Amendment Vote Faces Collapse",
+      "topic_ko": "개헌안 국회 표결 위기",
+      "summary": "A ruling Democratic Party-led constitutional amendment bill is scheduled for a National Assembly plenary vote on May 7, aimed at holding a national referendum concurrent with the June 3 local elections. The PPP is maintaining party-line opposition and threatening to boycott the vote entirely, making the required two-thirds majority of 191 seats nearly impossible to reach.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 1,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "개헌안 7일 본회의 표결… '윤석열 방지법' vs '독재적 발상' 대치 [이런정치]",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10730964"
+        },
+        {
+          "title": "개헌 본회의 D-3…국힘 표결 참석 여부 촉각(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605041342593105"
+        },
+        {
+          "title": "Speaker Woo Rallies Six Parties for Constitutional Amendment Push",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/03/19/speaker-woo-rallies-six-parties-for-constitutional"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "June 3 Local Elections Final Campaign Push",
+      "topic_ko": "6·3 지방선거 본격 선거전 돌입",
+      "summary": "With exactly one month until the June 3 local and by-elections, both parties have finalized candidate lineups: the ruling DPK is deploying presidential aides and heavyweights while the PPP fields incumbents. Polls show the DPK strongly favored, with Gyeonggi Province's semiconductor belt emerging as a key battleground district.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.1,
+      "salience": 0.93,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "June 3 elections take shape: DPK's presidential aides vs. PPP's incumbents",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260504/june-3-elections-take-shape-dpks-presidential-aides-vs-ppps-incumbents"
+        },
+        {
+          "title": "Elections are a month away. What's at stake?",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10730339"
+        },
+        {
+          "title": "Gyeonggi's chip belt becomes key battleground in June elections",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10729482"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "PPP Leadership Discord Ahead of Elections",
+      "topic_ko": "국민의힘 지도부 분열 및 후보 이탈",
+      "summary": "PPP chairman Jang Dong-hyuk and floor leader Song Eon-seok are conducting separate campaign activities ahead of the June 3 vote, with local candidates openly distancing themselves from central party leadership. Internal disagreements over candidate nominations and strategic direction continue to hamper the opposition's electoral cohesion.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.82,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "Divided PPP Leadership Campaigns Separately as Candidates Go Solo",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/04/30/divided-ppp-leadership-campaigns-separately-as-candidates"
+        },
+        {
+          "title": "PPP candidates keep distance from party leadership ahead of June 3 elections",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260416/ppp-candidates-keep-distance-from-party-leadership-ahead-of-june-3-elections"
+        },
+        {
+          "title": "People Power Party Names Single Candidates in 7 Districts for By-Elections",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/01/people-power-party-names-single-candidates-in-7-districts"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Bank of Korea Signals Imminent Rate Hike",
+      "topic_ko": "한국은행 금리 인상 신호 및 물가 압력",
+      "summary": "Bank of Korea Senior Deputy Governor Ryoo Sang-dae said on May 4 that it is \"time to consider raising rates,\" marking a decisive hawkish shift. Markets now price in two hikes in 2026 lifting the benchmark to 3%, as oil-driven inflation is tracking above the central bank's prior forecasts.",
+      "sentiment": "negative",
+      "sentiment_score": -0.4,
+      "salience": 0.75,
+      "issue_tag": "inflation",
+      "evidence_headlines": [
+        {
+          "title": "Bank of Korea Official Says It's Time to Consider Interest Rate Hike",
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/top-bank-of-korea-official-says-it-s-time-to-consider-rate-hike"
+        },
+        {
+          "title": "BOK Signals Shift to Tightening, Two Rate Hikes Seen This Year",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/04/bok-signals-shift-to-tightening-two-rate-hikes-seen-this"
+        },
+        {
+          "title": "South Korea: Oil shock lifts inflation outlook",
+          "outlet": "FXStreet / Standard Chartered",
+          "url": "https://www.fxstreet.com/news/south-korea-oil-shock-lifts-inflation-outlook-standard-chartered-202603262023"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Kim Keon-hee Case Reaches Supreme Court",
+      "topic_ko": "김건희 특검 대법원 상고",
+      "summary": "The Kim Keon-hee special counsel filed an appeal to the Supreme Court on May 4, challenging the appellate court's four-year sentence handed down to former President Yoon's wife for stock manipulation and political funds violations. The Seoul High Court is simultaneously fast-tracking multiple special counsel appeal cases.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 0.68,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "특검, 김건희 도이치 주가조작 항소심 징역 4년 상고‥\"법리 오해\"",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6819828_36918.html"
+        },
+        {
+          "title": "한국 특검, 김건희 1심 사건 2심 판결에 항소 제기",
+          "outlet": "CRI Korean",
+          "url": "https://korean.cri.cn/2026/05/04/ARTI1777880609170212"
+        },
+        {
+          "title": "서울고법 \"'3대 특검' 항소심 신속 진행 중\"‥다음 주 김건희",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6817150_36918.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Yoon Suk-yeol Insurrection Trial Appeals",
+      "topic_ko": "윤석열 내란 재판 항소심 진행",
+      "summary": "Yoon Suk-yeol, sentenced to life imprisonment in February 2026 for leading the December 2024 insurrection, saw a related arrest-obstruction appellate ruling raise his co-defendants' sentences in late April. Multiple insurrection-linked trials remain in active appeals proceedings ahead of the June elections.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.6,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "Yoon Suk Yeol: Former South Korean President handed life sentence for leading insurrection",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "윤석열 내란 재판",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "US-Korea Tariff and Trade Pressure",
+      "topic_ko": "미국 관세·통상 압력 및 협상",
+      "summary": "The US-Korea tariff framework deal, reducing auto tariffs from 25% to 15% and unlocking a $350 billion Korean investment commitment, remains contested as semiconductor Section 232 tariff rates are still unresolved. The Lee government continues to navigate Trump administration pressure while seeking to protect key export sectors.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.15,
+      "salience": 0.52,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "US, South Korea reach deal lowering auto tariffs and unlocking $350 billion investment",
+          "outlet": "CBT News",
+          "url": "https://www.cbtnews.com/us-south-korea-reach-deal-lowering-auto-tariffs-and-unlocking-350-billion-investment/"
+        },
+        {
+          "title": "South Korea-U.S. tariff strife threatens to affect security domain",
+          "outlet": "Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/feb/6/south-korea-us-tariff-strife-threatens-affect-security-domain/"
+        },
+        {
+          "title": "U.S.-South Korea Relations in 2026: Key Issues to Watch",
+          "outlet": "Korea Economic Institute of America",
+          "url": "https://keia.org/the-peninsula/u-s-south-korea-relations-in-2026-key-issues-to-watch/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Judicial Reform Laws Spark Ongoing Controversy",
+      "topic_ko": "사법개혁 3법 시행 후속 논란",
+      "summary": "Three landmark judicial reform laws enacted in March 2026—expanding the Supreme Court to 26 justices, introducing a constitutional complaint mechanism, and criminalizing judicial distortion—continue to generate controversy, including a criminal complaint against the Supreme Court Chief Justice and opposition warnings about executive capture of the judiciary.",
+      "sentiment": "negative",
+      "sentiment_score": -0.45,
+      "salience": 0.42,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "New law lets president pick 22 of 26 Supreme Court justices by 2030",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260312/explainer-new-law-lets-president-pick-22-of-26-supreme-court-justices-by-2030"
+        },
+        {
+          "title": "Supreme Court Chief Justice Faces Criminal Complaint on First Day of Judicial Reform Laws",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/03/12/supreme-court-chief-justice-faces-criminal-complaint-on"
+        },
+        {
+          "title": "South Korea Enacts Judicial Reform Laws Amid 'Endless Retrial' Concerns",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/03/05/south-korea-enacts-judicial-reform-laws-amid-endless"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
