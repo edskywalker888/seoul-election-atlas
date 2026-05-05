@@ -1,0 +1,78 @@
+{
+  "captured_at": "2026-05-05T14:08:15.207Z",
+  "source": "kalshi",
+  "event_id": "KXSEOULMAYOR-26JUN03",
+  "event_slug": "kxseoulmayor-26jun03",
+  "event_url": "https://kalshi.com/markets/kxseoulmayor/who-will-win-the-seoul-mayoral-election/kxseoulmayor-26jun03",
+  "event_title": "Who will win the 2026 Seoul mayoral election?",
+  "end_date": "2026-06-03T09:00:00Z",
+  "candidates": [
+    {
+      "name": "Chong Won-o",
+      "name_ko": "정원오",
+      "party_id": "dpk",
+      "market_id": "KXSEOULMAYOR-26JUN03-CWON",
+      "prob": 0.901,
+      "yes_bid": 0.89,
+      "yes_ask": 0.9,
+      "last_price": 0.901,
+      "volume_usd": 45387.13
+    },
+    {
+      "name": "Oh Se-hoon",
+      "name_ko": "오세훈",
+      "party_id": "ppp",
+      "market_id": "KXSEOULMAYOR-26JUN03-OSEH",
+      "prob": 0.11,
+      "yes_bid": 0.093,
+      "yes_ask": 0.11,
+      "last_price": 0.11,
+      "volume_usd": 18816.9
+    },
+    {
+      "name": "Kim Min-seok",
+      "name_ko": "김민석",
+      "party_id": "dpk",
+      "market_id": "KXSEOULMAYOR-26JUN03-KMIN",
+      "prob": 0.03,
+      "yes_bid": 0.001,
+      "yes_ask": 0.027,
+      "last_price": 0.03,
+      "volume_usd": 62
+    },
+    {
+      "name": "Park Ju-min",
+      "name_ko": "박주민",
+      "party_id": "dpk",
+      "market_id": "KXSEOULMAYOR-26JUN03-PJUM",
+      "prob": 0.01,
+      "yes_bid": 0.001,
+      "yes_ask": 0.027,
+      "last_price": 0.01,
+      "volume_usd": 1192
+    },
+    {
+      "name": "Seo Young-kyo",
+      "name_ko": "서영교",
+      "party_id": "dpk",
+      "market_id": "KXSEOULMAYOR-26JUN03-SYOU",
+      "prob": 0.01,
+      "yes_bid": 0.001,
+      "yes_ask": 0.027,
+      "last_price": 0.01,
+      "volume_usd": 752
+    },
+    {
+      "name": "Na Kyung-won",
+      "name_ko": "나경원",
+      "party_id": "ppp",
+      "market_id": "KXSEOULMAYOR-26JUN03-NKYU",
+      "prob": 0.01,
+      "yes_bid": 0.001,
+      "yes_ask": 0.027,
+      "last_price": 0.01,
+      "volume_usd": 282
+    }
+  ],
+  "method_notes": "Captured live from Kalshi v2 API. Each candidate is a separate binary YES/NO market; prob = last_price_dollars."
+}

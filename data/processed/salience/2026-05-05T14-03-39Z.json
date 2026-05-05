@@ -1,0 +1,250 @@
+{
+  "captured_at": "2026-05-05T14:03:39.498Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.koreatimes.co.kr/southkorea/politics/20260504/june-3-elections-take-shape-dpks-presidential-aides-vs-ppps-incumbents",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819240_37004.html",
+    "https://thediplomat.com/2026/04/ppps-chief-holds-meetings-in-washington-while-his-party-faces-ruin-at-home",
+    "https://www.mt.co.kr/politics/2026/05/04/2026050320015389599",
+    "https://www.fnnews.com/news/202605051112496459",
+    "https://www.fnnews.com/news/202604302228109417",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://www.khan.co.kr/article/202602191505001",
+    "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260317/ppp-reform-drive-questioned-as-incumbents-cut-while-seoul-mayor-is-courted",
+    "https://thediplomat.com/2026/03/can-the-ppp-really-move-on-from-yoon-suk-yeol/",
+    "https://polymarket.com/event/2026-south-korean-local-elections-party-winner",
+    "https://www.koreaherald.com/article/10604433",
+    "https://www.koreaherald.com/article/10502380",
+    "https://thediplomat.com/2026/01/cracks-in-the-ironclad-south-korea-us-alliance/",
+    "https://en.sedaily.com/politics/2026/05/01/president-lee-jae-myungs-approval-rating-hits-64-percent",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://www.koreaherald.com/article/10703506",
+    "https://thediplomat.com/2026/03/north-korea-launches-massive-ballistic-missile-barrage-amid-south-korea-us-drills/",
+    "https://thediplomat.com/2026/04/over-2-consecutive-days-north-korea-fires-ballistic-missiles-toward-east-sea/",
+    "https://www.kjob.news/news/486111",
+    "https://www.kairnews.com/news/481177",
+    "https://www.homehappyhelper.com/2026/04/2026-may-new-policies-change.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6801273_36911.html"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Campaign Heats Up",
+      "topic_ko": "6·3 지방선거 선거운동 본격화",
+      "summary": "With the June 3, 2026 nationwide local elections less than 30 days away, both the ruling Democratic Party of Korea (DPK) and the opposition People Power Party (PPP) have finalized candidate lineups. Polls show DPK candidates leading in major races including Seoul mayor (Jeong Won-o 48% vs. Oh Se-hoon 32%), reflecting a broad DPK advantage amid post-Yoon political realignment.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.1,
+      "salience": 1,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "June 3 elections take shape: DPK's presidential aides vs. PPP's incumbents",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260504/june-3-elections-take-shape-dpks-presidential-aides-vs-ppps-incumbents"
+        },
+        {
+          "title": "[MBC여론조사] 서울시장 가상 양자 대결‥정원오 48% VS 오세훈 32%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819240_37004.html"
+        },
+        {
+          "title": "PPP's Chief Holds Meetings in Washington While His Party Faces Ruin at Home",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/04/ppps-chief-holds-meetings-in-washington-while-his-party-faces-ruin-at-home"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "DPK's Fabricated Prosecution Special Counsel Bill",
+      "topic_ko": "조작기소 특검법 추진 논란",
+      "summary": "The Democratic Party of Korea introduced a 'Fabricated Prosecution Special Counsel Bill' on April 30, aimed at investigating alleged prosecutorial misconduct under the Yoon government; the bill controversially grants the special counsel effective power to drop existing charges. With pre-election concerns mounting, the DPK signaled a pace adjustment on May 5, delaying a planned early-May floor vote amid fears the bill could galvanize conservative turnout ahead of the June 3 elections.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "지방선거 앞 '조작기소 특검법' 추진… 6·3 '표심' 변수 되나",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/04/2026050320015389599"
+        },
+        {
+          "title": "與 조작기소 특검 지선 후로 미루나...속도 조절 시사",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605051112496459"
+        },
+        {
+          "title": "與, '공소취소권 부여' 조작기소 특검법 발의…野 '셀프면죄'(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604302228109417"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Suk-yeol Insurrection Trial Proceedings",
+      "topic_ko": "윤석열 내란 재판 진행",
+      "summary": "Yoon Suk-yeol, convicted of leading the December 2024 insurrection and sentenced to life imprisonment in February 2026, continues to face additional legal proceedings; a separate arrest-obstruction case saw his sentence increased on appeal from 5 to 7 years in late April 2026. The insurrection special counsel is also pursuing further indictments, keeping the trials in the daily news cycle as a backdrop to the local election campaign.",
+      "sentiment": "negative",
+      "sentiment_score": -0.72,
+      "salience": 0.8,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "[속보] 윤석열 '내란 우두머리 사건' 1심 선고공판 시작···지귀연 판결문 낭독",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202602191505001"
+        },
+        {
+          "title": "Yoon Suk Yeol: Former South Korean President handed life sentence for leading insurrection",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "PPP Struggles With Reform and Election Survival",
+      "topic_ko": "국민의힘 쇄신·지선 생존 위기",
+      "summary": "The People Power Party faces historic lows in support (around 21-31%) and internal criticism over inconsistent candidate nomination decisions ahead of the June 3 elections. Prediction markets price the DPK as the overwhelming favorite at over 97%, and the PPP is attempting to consolidate conservative votes by rallying against the fabricated prosecution special counsel bill and projecting its leader's stature abroad.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.72,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "PPP reform drive questioned as incumbents cut while Seoul mayor is courted",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260317/ppp-reform-drive-questioned-as-incumbents-cut-while-seoul-mayor-is-courted"
+        },
+        {
+          "title": "Can the PPP Really Move on From Yoon Suk-yeol?",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/03/can-the-ppp-really-move-on-from-yoon-suk-yeol/"
+        },
+        {
+          "title": "2026 South Korean Local Elections: Party Winner Prediction",
+          "outlet": "Polymarket",
+          "url": "https://polymarket.com/event/2026-south-korean-local-elections-party-winner"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Korea-US Tariff and Trade Deal Fallout",
+      "topic_ko": "한미 관세·무역 합의 후속 파장",
+      "summary": "Following the trade framework agreed at the Lee-Trump Gyeongju summit, South Korea committed to a $350 billion investment in the US over five years; however, the National Assembly has not yet ratified key provisions, drawing threats from Trump. Defense cost-sharing and semiconductor supply chain demands remain unresolved sticking points that continue to dominate foreign policy coverage.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.15,
+      "salience": 0.63,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "S. Korea, US agree on trade deal details at Lee-Trump summit in Gyeongju",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10604433"
+        },
+        {
+          "title": "Lee Jae-myung faces first major test as US tariff deadline looms",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10502380"
+        },
+        {
+          "title": "Cracks in the 'Ironclad' South Korea-US Alliance",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/01/cracks-in-the-ironclad-south-korea-us-alliance/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Jae-myung Approval Rating Holds Strong",
+      "topic_ko": "이재명 대통령 높은 지지율 유지",
+      "summary": "President Lee Jae-myung's job approval rating stabilized in the low-to-mid 60s percentage range in May 2026 polls (Gallup: 64%; Realmeter: 65.5%), sustained by positive assessments of economic management and diplomatic activity. The Democratic Party of Korea commands roughly double the support of the PPP in party preference polls, bolstering confidence ahead of the local elections.",
+      "sentiment": "positive",
+      "sentiment_score": 0.65,
+      "salience": 0.55,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "President Lee Jae-myung's Approval Rating Hits 64%; Democratic Party 46%, People Power 21%",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/politics/2026/05/01/president-lee-jae-myungs-approval-rating-hits-64-percent"
+        },
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "Lee's approval rating hits new high: poll",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10703506"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "North Korea Missile Tests and Security Posture",
+      "topic_ko": "북한 미사일 도발과 안보 상황",
+      "summary": "North Korea conducted multiple ballistic missile launches in March and April 2026, including a volley of ten missiles in March and further launches in April. A Sejong Institute report published May 3 assessed that North Korea is now focused on validating combat-operational capabilities rather than mere weapons testing, raising security concerns in the run-up to Korea's local election cycle.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.45,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "North Korea Launches Massive Ballistic Missile Barrage Amid South Korea-US Drills",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/03/north-korea-launches-massive-ballistic-missile-barrage-amid-south-korea-us-drills/"
+        },
+        {
+          "title": "Over 2 Consecutive Days, North Korea Fires Ballistic Missiles Toward East Sea",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/04/over-2-consecutive-days-north-korea-fires-ballistic-missiles-toward-east-sea/"
+        },
+        {
+          "title": "북한, 이란 전쟁 교훈 분석해 '실전 운용 능력' 검증에 초점…한미 방어선 돌파 의도",
+          "outlet": "전국인력신문",
+          "url": "https://www.kjob.news/news/486111"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Housing Policy and Real Estate Tax Relief",
+      "topic_ko": "부동산 정책 및 다주택자 양도세 완화",
+      "summary": "The government extended the multi-homeowner capital gains tax surcharge exemption through May 9, 2026, aiming to ease selling pressure in designated areas and stabilize the housing market. New policies taking effect in May 2026 also include reductions in mortgage loan interest rates and youth rental subsidies, keeping housing affordability a salient pocketbook issue in the local election campaign.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "salience": 0.35,
+      "issue_tag": "housing",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 9일 유지…다주택자 매도 숨통 트는 보완책 시행",
+          "outlet": "한국AI부동산신문",
+          "url": "https://www.kairnews.com/news/481177"
+        },
+        {
+          "title": "2026년 5월부터 달라지는 정책 5가지 총정리",
+          "outlet": "홈해피헬퍼",
+          "url": "https://www.homehappyhelper.com/2026/04/2026-may-new-policies-change.html"
+        },
+        {
+          "title": "[MBC여론조사] 이재명 대통령 국정 지지율 64%‥지방선거 여당 후보 지지도 54%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6801273_36911.html"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
