@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-04T15:00:00Z",
+  "captured_at": "2026-05-05T03:32:27Z",
   "method": "nesdc_scrape",
-  "method_notes": "8 verified binary head-to-head (양자대결) polls covering 2025-12-08 to 2026-05-03, sourced from MBC/Korea Research (3 polls), SBS/Ipsos (2 polls), KPI뉴스/Researchview (1 poll), CBS/KSOI (1 poll), and 스트레이트뉴스/조원씨앤아이 (1 poll); grouped into 5 ISO weeks (2025-W50, 2026-W01, W07, W17, W18). Multi-candidate polls from PennMike/여론조사공정 (Nov 2025–Jan 2026) were found but excluded as their question format yields non-comparable support shares (11–29% range vs 34–49% in head-to-head format). No verified binary matchup polls were found for Jan or Mar 2026, leaving those weeks absent.",
+  "method_notes": "Six weekly buckets from Dec 2025 through May 2026 sourced from MBC/Korea Research (×3), SBS/Ipsos (×2), JTBC/MetaVoice, ResearchView/KPI, CBS/KSOI, and JoWon C&I; polls mix head-to-head (양자대결) and post-registration multi-candidate vote-intent questions — early weeks are 양자대결 only; Nov 2025 multi-candidate polls excluded as non-comparable. No March 2026 polls found in accessible sources.",
   "interval": "1w",
   "candidates": [
     {
@@ -20,10 +20,11 @@
         },
         {
           "t": "2025-12-29T00:00:00Z",
-          "p": 0.34,
-          "n_polls": 1,
+          "p": 0.365,
+          "n_polls": 2,
           "sources": [
-            "korea-research"
+            "korea-research",
+            "other-metavoice"
           ]
         },
         {
@@ -70,10 +71,11 @@
         },
         {
           "t": "2025-12-29T00:00:00Z",
-          "p": 0.36,
-          "n_polls": 1,
+          "p": 0.37,
+          "n_polls": 2,
           "sources": [
-            "korea-research"
+            "korea-research",
+            "other-metavoice"
           ]
         },
         {

@@ -1,0 +1,249 @@
+{
+  "captured_at": "2026-05-05T03:20:25.113Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.newdaily.co.kr/site/data/html/2026/05/04/2026050400141.html",
+    "https://www.fnnews.com/news/202605020500397980",
+    "https://www.dt.co.kr/article/12060595",
+    "https://www.fnnews.com/news/202605031854147914",
+    "https://issue.daum.net/election/2026",
+    "https://biz.heraldcorp.com/article/10730964",
+    "https://www.fnnews.com/news/202605041342593105",
+    "https://en.sedaily.com/finance/2026/03/31/six-opposition-parties-to-propose-constitutional-amendment",
+    "https://www.fnnews.com/news/202604250602083647",
+    "https://www.ytn.co.kr/_ln/0101_202604260534375317",
+    "https://www.fnnews.com/news/202604241420341381",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://imnews.imbc.com/news/2026/politics/article/6819369_36911.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html",
+    "https://www.nknews.org/?p=960344",
+    "https://united24media.com/latest-news/kim-jong-uns-new-hwasong-20-icbm-may-carry-multiple-warheads-with-russian-help-11338",
+    "https://www.kjob.news/news/479060",
+    "https://economychosun.com/site/data/html_dir/2026/01/30/2026013000027.html",
+    "https://www.cliktoday.com/2026/05/20260504-today-news.html",
+    "https://namu.wiki/w/2025%EB%85%84%20%EC%84%B8%EA%B3%84%20%EB%AC%B4%EC%97%AD%20%EC%A0%84%EC%9F%9F/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "'Fabricated Prosecution' Special Counsel Bill Controversy",
+      "topic_ko": "조작기소 특검법·공소취소 논란",
+      "summary": "The ruling Democratic Party introduced a 'fabricated prosecution' special counsel bill on April 30 that critics say would allow the special prosecutor to drop charges against President Lee Jae-myung across 12 cases, prompting opposition PPP and Reform Party metro candidates to launch joint statements and a public petition drive calling it a 'self-acquittal' law. The controversy has become the dominant flashpoint of the June 3 local election campaign.",
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "salience": 0.95,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "'李 공소 취소 논란' 선거판 강타 … 국민의힘·개혁신당, 공동 전선 구축",
+          "outlet": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/05/04/2026050400141.html"
+        },
+        {
+          "title": "'檢 조작기소' 특검에 공소취소 포함…삼권분립 훼손 논란",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605020500397980"
+        },
+        {
+          "title": "'李대통령 공소취소' 지선판 흔든다… 최대 쟁점 부상",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12060595"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "June 3 Local Elections Full Campaign Launch",
+      "topic_ko": "6·3 지방선거 본격 선거전",
+      "summary": "With one month remaining until the June 3 nationwide local elections, all 16 metropolitan governor and mayor races are now set, with the key battlegrounds being Seoul (Oh Se-hoon vs. Jeong Won-o), Incheon, and Gyeonggi Province (Choo Mi-ae vs. Yang Hyang-ja). Coverage is dominated by candidate matchups, polling, and the ruling party's large structural advantage.",
+      "sentiment": "mixed",
+      "sentiment_score": 0,
+      "salience": 0.88,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "6·3지방선거 대진표 확정…여야, 16개 광역단체장 '30일 열전' 돌입",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605031854147914"
+        },
+        {
+          "title": "국민의힘 '현역' vs 민주당 '신인'… 新舊 격돌 [6·3 지방선거]",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605031854147914"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요",
+          "outlet": "Daum 이슈",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Constitutional Amendment Vote Imminent in National Assembly",
+      "topic_ko": "개헌안 본회의 표결 임박",
+      "summary": "A constitutional amendment bill backed by six parties excluding the PPP is scheduled for a National Assembly floor vote on May 7, requiring 12 PPP defectors to reach the two-thirds threshold; the PPP has adopted official opposition and a boycott posture, making passage uncertain. The bill includes stricter martial-law provisions, enshrining the May 18 spirit, and a presidential four-year renewable term, with a simultaneous referendum sought on June 3.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 0.82,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "개헌안 7일 본회의 표결… '윤석열 방지법' vs '독재적 발상' 대치",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10730964"
+        },
+        {
+          "title": "개헌 본회의 D-3…국힘 표결 참석 여부 촉각",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605041342593105"
+        },
+        {
+          "title": "Six Opposition Parties to Propose Constitutional Amendment on June 6; Securing 10 PPP Votes Key",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/03/31/six-opposition-parties-to-propose-constitutional-amendment"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "PPP Leader Jang Dong-hyeok Resignation Pressure",
+      "topic_ko": "국민의힘 장동혁 대표 사퇴론",
+      "summary": "PPP leader Jang Dong-hyeok faces mounting internal calls to resign ahead of the June 3 elections, with the party's approval rating hitting a post-2025 low near 15–21% amid chaotic candidate nomination disputes and the failed 'de-Yoon' strategy. Senior figures including Oh Se-hoon and Bae Hyun-jin have set May 14 as a de facto deadline, while Jang has refused to step down.",
+      "sentiment": "negative",
+      "sentiment_score": -0.75,
+      "salience": 0.74,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "장동혁 사퇴론 확산, 버티는 張…지방선거 코앞 혼돈의 국힘",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604250602083647"
+        },
+        {
+          "title": "[정치] 지방선거 앞 '장동혁 사퇴론'...혼란의 국민의힘",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202604260534375317"
+        },
+        {
+          "title": "커지는 장동혁 사퇴론…오세훈 '결단이 필요한 시점'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604241420341381"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Yoon Seok-yeol Insurrection Trial Verdict Approaching",
+      "topic_ko": "윤석열 내란 1심 선고 임박",
+      "summary": "A court has announced May 28 as the sentencing date for former President Yoon Seok-yeol's primary insurrection trial; Yoon separately received a seven-year sentence in late April for obstruction of his own arrest, upgraded from five years on appeal. Multiple related trials and special-counsel investigations continue in parallel.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.68,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 내란 재판/전개 – 선고기일 2026년 5월 28일",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "장동혁은 억울하다?!",
+          "outlet": "MBC iMBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6819369_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Jae-myung Government Approval Ratings Stable",
+      "topic_ko": "이재명 정부 국정 지지율 동향",
+      "summary": "President Lee Jae-myung's approval rating has held above 60% for five consecutive weeks, peaking at 65.5% in the latest Realmeter survey, buoyed by energy security measures and stock market stabilisation; the Democratic Party leads at around 46–50% party support versus the PPP's 21–31%.",
+      "sentiment": "positive",
+      "sentiment_score": 0.6,
+      "salience": 0.55,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC iMBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "이 대통령 지지율 5주 연속 60%대‥민주 50.6%·국민의힘 30.0%",
+          "outlet": "MBC iMBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html"
+        },
+        {
+          "title": "이재명 대통령 지지율, 64%‥민주당 46%·국민의힘 21%",
+          "outlet": "MBC iMBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "North Korea Reveals Hwasong-20 ICBM Amid Kim China Visit",
+      "topic_ko": "북한 화성-20 ICBM 공개·김정은 방중",
+      "summary": "North Korean state media revealed that Kim Jong Un inspected a facility producing the next-generation Hwasong-20 ICBM immediately before departing for China, with analysts citing Russian technical assistance and a bid to assert leverage ahead of upcoming US-China summitry. The disclosure has renewed South Korean and allied concerns about Pyongyang's escalating nuclear missile programme.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.48,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "North Korea announces new Hwasong-20 nuclear missile as Kim arrives in China",
+          "outlet": "NK News",
+          "url": "https://www.nknews.org/?p=960344"
+        },
+        {
+          "title": "Kim Jong Un's New Hwasong-20 ICBM May Carry Multiple Warheads With Russian Help",
+          "outlet": "United24 Media",
+          "url": "https://united24media.com/latest-news/kim-jong-uns-new-hwasong-20-icbm-may-carry-multiple-warheads-with-russian-help-11338"
+        },
+        {
+          "title": "북한, 미사일로 흔드는 외교 지렛대",
+          "outlet": "전국인력신문",
+          "url": "https://www.kjob.news/news/479060"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "US Tariff Pressure and Korea Trade Negotiations",
+      "topic_ko": "미국 관세 압박·한미 통상 협상",
+      "summary": "Ongoing US tariff pressure, including Trump's threat to raise tariffs on Korean goods to 25% after the National Assembly failed to pass implementing legislation for the 2025 trade deal, remains a key economic-policy issue; the government is distributing high-oil-price relief payments to cushion domestic inflation driven partly by the Middle East conflict and the weaker won.",
+      "sentiment": "negative",
+      "sentiment_score": -0.45,
+      "salience": 0.38,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "트럼프 2기 관세정책, 한국 정부가 고려해야 할 점들",
+          "outlet": "이코노미조선",
+          "url": "https://economychosun.com/site/data/html_dir/2026/01/30/2026013000027.html"
+        },
+        {
+          "title": "2026년 5월 4일 오늘의 주요 뉴스(트럼프발 국제 정세 격변과 국내 물가·경제 동향)",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260504-today-news.html"
+        },
+        {
+          "title": "2025년 세계 무역 전쟁/대한민국",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/2025%EB%85%84%20%EC%84%B8%EA%B3%84%20%EB%AC%B4%EC%97%AD%20%EC%A0%84%EC%9F%9F/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
