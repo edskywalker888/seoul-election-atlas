@@ -1,0 +1,249 @@
+{
+  "captured_at": "2026-05-06T14:23:10.018Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.newspim.com/news/view/20260506000014",
+    "https://www.insight.co.kr/news/552786",
+    "https://www.newspim.com/news/view/20260506000632",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6819326_37012.html",
+    "https://issue.daum.net/election/2026",
+    "https://namu.wiki/w/%EC%A0%9C9%ED%9A%8C%20%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0",
+    "https://www.fnnews.com/news/202605011315538052",
+    "https://www.infogoodman.com/2026/05/lee-jae-myung-special-prosecutor-opposition-signature-campaign.html",
+    "https://news.tf.co.kr/read/ptoday/2319705.htm",
+    "https://www.fnnews.com/news/202605061456064387",
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=219353",
+    "https://www.idaegu.com/news/articleView.html?idxno=658753",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90",
+    "https://www.joongangenews.com/news/articleView.html?idxno=516854",
+    "https://biz.heraldcorp.com/article/10730020",
+    "https://www.sedaily.com/article/20040224",
+    "https://www.fnnews.com/news/202605051829459376",
+    "https://www.cnbnews.com/news/article.html?no=775897",
+    "https://www.dominilbo.com/news/articleView.html?idxno=267352",
+    "https://www.goodkyung.com/news/articleView.html?idxno=286583",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260504010000347"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Hormuz Ship Attack US Military Pressure",
+      "topic_ko": "호르무즈 선박 피격·미국 군사 참여 압박",
+      "summary": "A Korean HMM cargo vessel exploded in the Strait of Hormuz, which Trump attributed to Iran and used to publicly pressure South Korea to join the US-led 'Freedom Project' naval operation. Seoul faces a difficult choice between alliance obligations and its traditional policy of non-entanglement in Middle East conflicts.",
+      "sentiment": "negative",
+      "sentiment_score": -0.72,
+      "salience": 0.95,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "나무호 폭발 원인은...한국의 기본 전략틀 뒤흔드는 중대 고비",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260506000014"
+        },
+        {
+          "title": "트럼프 '이란이 한국 선박 공격했다... 韓, 호르무즈 작전 합류하라' 압박",
+          "outlet": "인사이트",
+          "url": "https://www.insight.co.kr/news/552786"
+        },
+        {
+          "title": "[뉴스분석] '한국, 美 호르무즈 동참…군함보단 비전투적 지원 현실적'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260506000632"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "June 3 Local Elections Democratic Party Leads",
+      "topic_ko": "6·3 지방선거 민주당 우세",
+      "summary": "With the 9th nationwide local elections just under 30 days away, polls show the Democratic Party leading across most regions, including a 16-point advantage for DP's Seoul mayoral candidate Jeong Weon-oh over PPP incumbent Oh Se-hoon. The election is shaping up as a referendum on the Lee Jae-myung government's first year.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.15,
+      "salience": 0.88,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "[MBC여론조사] 정원오 48% VS 오세훈 32%‥'구청장도 여당을'",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6819326_37012.html"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요",
+          "outlet": "다음 이슈",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "제9회 전국동시지방선거",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%A0%9C9%ED%9A%8C%20%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Prosecution Fabrication Special Counsel Bill Controversy",
+      "topic_ko": "검찰 조작기소 특검법 논란",
+      "summary": "The ruling Democratic Party introduced a special counsel bill targeting alleged prosecutorial fabrication of cases during the Yoon era, which the opposition PPP and Reform Party characterize as a covert mechanism to drop charges against President Lee Jae-myung himself. The PPP is threatening a filibuster and launching a public signature campaign against the bill.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.79,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "국힘 '與 공소취소 특검, 국민 배신이자 날강도 짓…표로 심판해야'(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605011315538052"
+        },
+        {
+          "title": "李대통령 공소취소 특검 반대 국민 서명운동 사이트 안내",
+          "outlet": "인포굿맨",
+          "url": "https://www.infogoodman.com/2026/05/lee-jae-myung-special-prosecutor-opposition-signature-campaign.html"
+        },
+        {
+          "title": "'공소취소 특검' 화력 쏟지만…내홍에 잠식된 대여 공세",
+          "outlet": "더팩트",
+          "url": "https://news.tf.co.kr/read/ptoday/2319705.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Constitutional Amendment Referendum Showdown",
+      "topic_ko": "개헌 국민투표 여야 충돌",
+      "summary": "President Lee and National Assembly Speaker Woo Won-sik are pushing to hold a constitutional amendment referendum concurrently with the June 3 local elections, with a National Assembly vote on the amendment called for May 7. The PPP has declared firm opposition, demanding the amendment process follow elections and accusing the government of using it as political cover.",
+      "sentiment": "negative",
+      "sentiment_score": -0.45,
+      "salience": 0.72,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "대통령·국회의장 '7일 개헌'..장동혁 '있는 헌법부터 지키라'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605061456064387"
+        },
+        {
+          "title": "지방선거·개헌 국민투표 동시에 하나… 여야 표 계산 분주",
+          "outlet": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219353"
+        },
+        {
+          "title": "지방선거 개헌 화두 되나…이재명, 국무회의서 '정부 차원 공식 검토'",
+          "outlet": "대구일보",
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=658753"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Yoon Seok-yeol Insurrection Trial Verdict Imminent",
+      "topic_ko": "윤석열 내란 재판 선고 임박",
+      "summary": "Former President Yoon Seok-yeol's insurrection trial sentencing is scheduled for May 28, while an appeal court already increased his arrest-obstruction sentence to 7 years. The approaching verdict is expected to be a major variable in the June 3 local election campaign dynamics.",
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "salience": 0.64,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "윤석열 내란 재판",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "PPP Internal Rift Han Dong-hoon vs Leadership",
+      "topic_ko": "국민의힘 내홍 한동훈·지도부 갈등",
+      "summary": "Former PPP leader Han Dong-hoon has declared an independent run in the Busan North-A by-election after being shut out of party nomination, while pro-Han lawmakers openly defy party leader Jang Dong-hyeok by backing him. Jang is threatening disciplinary action, deepening factional conflict as the party heads into a critical local election.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.55,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "장동혁 '한동훈 지원, 필요한 조치할 것'...국민의힘 내홍 격화 조짐",
+          "outlet": "중앙이코노미뉴스",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=516854"
+        },
+        {
+          "title": "한동훈 '장동혁 당권파, 민주당 아닌 나하고만 싸우려 해'",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10730020"
+        },
+        {
+          "title": "'공소취소 특검' 화력 쏟지만…내홍에 잠식된 대여 공세",
+          "outlet": "더팩트",
+          "url": "https://news.tf.co.kr/read/ptoday/2319705.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Housing Tax Reform Multi-Owner Surcharge Expiry",
+      "topic_ko": "부동산 세제 개편·다주택 양도세 유예 종료",
+      "summary": "The multi-homeowner capital gains tax surcharge exemption expires on May 9, and the presidential policy chief has signaled a broader tiered housing tax reform is under review. Markets are watching for potential price spikes or sell-offs as policy uncertainty around long-term deduction rules adds to real estate anxiety.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 0.44,
+      "issue_tag": "housing",
+      "evidence_headlines": [
+        {
+          "title": "김용범 '다주택·비거주 1주택·초고가 등 유형별 세제 차등화 검토'",
+          "outlet": "서울경제",
+          "url": "https://www.sedaily.com/article/20040224"
+        },
+        {
+          "title": "세제 개편 2라운드… 장특공·보유세도 손보나",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605051829459376"
+        },
+        {
+          "title": "靑 '부동산 세제 개편 작업 중 … 보통 8월 국회서 확정되지만…'",
+          "outlet": "CNB뉴스",
+          "url": "https://www.cnbnews.com/news/article.html?no=775897"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Lee Jae-myung Approval Rating Slides Below 60",
+      "topic_ko": "이재명 대통령 지지율 50%대 하락",
+      "summary": "President Lee Jae-myung's job approval fell to 59.5% in the latest RealMeter poll—its first dip into the 50s in seven weeks—while the Democratic Party's support also slipped to 48.6%. Analysts attribute the decline to accumulating controversies including the special counsel bill, oil price pressures, and constitutional amendment tensions.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.25,
+      "salience": 0.36,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 지지율 59.5%…7주 만에 50%대로 하락",
+          "outlet": "충청도민일보",
+          "url": "https://www.dominilbo.com/news/articleView.html?idxno=267352"
+        },
+        {
+          "title": "李대통령 지지도, 2.7%p 하락 59.5%…민주당 48.6%·국민의힘 31.6%",
+          "outlet": "굿모닝경제",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=286583"
+        },
+        {
+          "title": "이재명 대통령 지지도 59.5%…직전 조사比 2.7p 하락",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260504010000347"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
