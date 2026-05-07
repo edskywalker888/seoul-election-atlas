@@ -54,53 +54,22 @@ export default async function Home() {
           Seoul Election Atlas
         </h1>
         <p className="mt-2 text-sm text-neutral-700">
-          National Assembly outcomes across Seoul districts, with daily
-          salience tracking of Korean political coverage.
+          Live prediction-market and polling tracker for the June 2026 Seoul
+          mayoral race, with historical National Assembly outcomes by gu.
         </p>
       </header>
 
-      {featuredElection && featuredBoundary ? (
-        <section className="mt-8" aria-label="Seoul district map">
-          <div className="flex flex-wrap items-baseline justify-between gap-2">
-            <div>
-              <h2 className="text-xl font-medium tracking-tight text-neutral-900">
-                {featuredElection.name_en}
-              </h2>
-              <p className="mt-0.5 text-sm text-neutral-700">
-                <span lang="ko">{featuredElection.name_ko}</span> ·{" "}
-                {featuredElection.date} · click any gu to explore
-              </p>
-            </div>
-            <Link
-              href={`/elections/${FEATURED_ELECTION_ID}`}
-              className="text-sm text-neutral-700 underline-offset-2 hover:text-blue-700 hover:underline"
-            >
-              Open full election view →
-            </Link>
-          </div>
-          <div className="mt-4">
-            <MapView
-              boundary={featuredBoundary}
-              resultsByDistrict={resultsByDistrict}
-              parties={parties}
-              electionYear={featuredYear}
-              navigateToElectionId={FEATURED_ELECTION_ID}
-            />
-          </div>
-        </section>
-      ) : null}
-
       {marketsView.polymarket || marketsView.kalshi ? (
-        <section className="mt-12" aria-label="Live prediction markets">
+        <section className="mt-8" aria-label="Live prediction markets">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <div>
-              <h2 className="text-xl font-medium tracking-tight text-neutral-900">
+              <h2 className="text-2xl font-semibold tracking-tight text-neutral-900">
                 Live prediction markets — Seoul Mayor 2026
               </h2>
-              <p className="mt-0.5 text-sm text-neutral-700">
+              <p className="mt-1 text-sm text-neutral-700">
                 June 3, 2026 (9th Local Elections). Solid line: market-implied
-                probability of winning. Dashed line: polling support across Korean
-                polling firms.
+                probability of winning. Dashed line: polling support across
+                Korean polling firms.
               </p>
             </div>
           </div>
@@ -128,6 +97,38 @@ export default async function Home() {
               </>
             ) : null}
           </p>
+        </section>
+      ) : null}
+
+      {featuredElection && featuredBoundary ? (
+        <section className="mt-12" aria-label="Seoul district map">
+          <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <div>
+              <h2 className="text-xl font-medium tracking-tight text-neutral-900">
+                Historical context — Seoul by gu
+              </h2>
+              <p className="mt-0.5 text-sm text-neutral-700">
+                {featuredElection.name_en} ·{" "}
+                <span lang="ko">{featuredElection.name_ko}</span> ·{" "}
+                {featuredElection.date} · click any gu to explore
+              </p>
+            </div>
+            <Link
+              href={`/elections/${FEATURED_ELECTION_ID}`}
+              className="text-sm text-neutral-700 underline-offset-2 hover:text-blue-700 hover:underline"
+            >
+              Open full election view →
+            </Link>
+          </div>
+          <div className="mt-4">
+            <MapView
+              boundary={featuredBoundary}
+              resultsByDistrict={resultsByDistrict}
+              parties={parties}
+              electionYear={featuredYear}
+              navigateToElectionId={FEATURED_ELECTION_ID}
+            />
+          </div>
         </section>
       ) : null}
 
