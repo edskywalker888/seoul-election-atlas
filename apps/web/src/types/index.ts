@@ -213,8 +213,19 @@ export interface SalienceTopic {
   topic_en: string;
   topic_ko: string;
   summary: string;
+  /**
+   * Legacy single-axis sentiment of media coverage. Implicitly tracked the
+   * tone toward the governing camp (DPK). Kept for backward compatibility
+   * with snapshots captured before the per-party split.
+   */
   sentiment?: SalienceSentiment;
   sentiment_score?: number;
+  /** DPK (더불어민주당) — tone of coverage toward the Democratic Party. */
+  sentiment_dpk?: SalienceSentiment;
+  sentiment_score_dpk?: number;
+  /** PPP (국민의힘) — tone of coverage toward the People Power Party. */
+  sentiment_ppp?: SalienceSentiment;
+  sentiment_score_ppp?: number;
   salience: number;
   issue_tag?: string;
   evidence_headlines?: SalienceEvidenceHeadline[];

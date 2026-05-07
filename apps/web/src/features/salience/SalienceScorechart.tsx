@@ -11,6 +11,72 @@ const SENTIMENT_BADGE: Record<
   mixed: { bg: "#FEF3C7", fg: "#92400E", label: "mixed" },
 };
 
+const PARTIES = {
+  dpk: {
+    nameKo: "더불어민주당",
+    logo: "/parties/dpk.jpg",
+    color: "#005BAC",
+  },
+  ppp: {
+    nameKo: "국민의힘",
+    logo: "/parties/ppp.jpg",
+    color: "#E61E2B",
+  },
+} as const;
+
+type PartyKey = keyof typeof PARTIES;
+
+function PartySentimentRow({
+  party,
+  sentiment,
+  score,
+}: {
+  party: PartyKey;
+  sentiment?: SalienceSentiment;
+  score?: number;
+}) {
+  const cfg = PARTIES[party];
+  const badge = sentiment ? SENTIMENT_BADGE[sentiment] : null;
+  const scoreLabel =
+    typeof score === "number"
+      ? (score >= 0 ? "+" : "") + score.toFixed(2)
+      : null;
+  return (
+    <div className="flex items-center gap-2">
+      <span
+        className="inline-flex items-center gap-1.5 rounded-sm border px-1.5 py-0.5 text-[11px] font-medium text-neutral-900"
+        style={{ borderColor: cfg.color, backgroundColor: "#FFFFFF" }}
+        title={cfg.nameKo}
+      >
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={cfg.logo} alt="" className="h-3.5 w-auto" />
+        <span lang="ko">{cfg.nameKo}</span>
+      </span>
+      {badge ? (
+        <span
+          className="inline-flex items-center rounded-sm px-1.5 py-0.5 text-xs font-medium"
+          style={{ backgroundColor: badge.bg, color: badge.fg }}
+          title={scoreLabel ? `score ${scoreLabel}` : undefined}
+        >
+          {badge.label}
+        </span>
+      ) : (
+        <span
+          className="font-mono text-xs text-neutral-500"
+          title="next 12h capture will populate per-party sentiment"
+        >
+          —
+        </span>
+      )}
+      {scoreLabel ? (
+        <span className="font-mono text-[10px] tabular-nums text-neutral-500">
+          {scoreLabel}
+        </span>
+      ) : null}
+    </div>
+  );
+}
+
 function RankDelta({ topic }: { topic: RankedTopic }) {
   if (topic.is_new) {
     return (
@@ -72,19 +138,6 @@ function SalienceBar({ value }: { value: number }) {
         {value.toFixed(2)}
       </span>
     </div>
-  );
-}
-
-function SentimentBadge({ sentiment }: { sentiment?: SalienceSentiment }) {
-  if (!sentiment) return null;
-  const cfg = SENTIMENT_BADGE[sentiment];
-  return (
-    <span
-      className="inline-flex items-center rounded-sm px-1.5 py-0.5 text-xs font-medium"
-      style={{ backgroundColor: cfg.bg, color: cfg.fg }}
-    >
-      {cfg.label}
-    </span>
   );
 }
 
@@ -205,7 +258,18 @@ export function SalienceScorechart({ view }: Props) {
                   <SalienceBar value={t.salience} />
                 </td>
                 <td className="px-2 py-3">
-                  <SentimentBadge sentiment={t.sentiment} />
+                  <div className="flex flex-col gap-1.5">
+                    <PartySentimentRow
+                      party="dpk"
+                      sentiment={t.sentiment_dpk ?? t.sentiment}
+                      score={t.sentiment_score_dpk ?? t.sentiment_score}
+                    />
+                    <PartySentimentRow
+                      party="ppp"
+                      sentiment={t.sentiment_ppp}
+                      score={t.sentiment_score_ppp}
+                    />
+                  </div>
                 </td>
                 <td className="px-2 py-3 text-xs text-neutral-700">
                   {t.summary}

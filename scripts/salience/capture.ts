@@ -37,15 +37,18 @@ For this snapshot, do the following:
    - topic_en: short English label, 4-8 words
    - topic_ko: short Korean label, 한글
    - summary: 1-2 sentences, plain English, factual
-   - sentiment: one of "positive", "negative", "neutral", "mixed" (the prevailing tone of coverage, NOT your judgment of the topic)
-   - sentiment_score: -1.0 (most negative) to 1.0 (most positive)
+   - sentiment_dpk: tone of coverage TOWARD the 더불어민주당 (Democratic Party of Korea, governing). One of "positive", "negative", "neutral", "mixed".
+   - sentiment_score_dpk: -1.0 (most negative for DPK) to 1.0 (most positive for DPK)
+   - sentiment_ppp: tone of coverage TOWARD the 국민의힘 (People Power Party, opposition). One of "positive", "negative", "neutral", "mixed".
+   - sentiment_score_ppp: -1.0 (most negative for PPP) to 1.0 (most positive for PPP)
    - salience: 0.0 to 1.0, relative dominance among the 8 topics (rank 1 should be highest, rank 8 lowest)
    - issue_tag: optional, lowercase snake_case tag from this taxonomy if applicable: government_approval, economy, inflation, housing, demographics, candidate_strength, incumbency, local_development, party_fragmentation, opposition_unity, scandal, corruption, ideology, foreign_policy, education
    - evidence_headlines: 2-3 actual headlines from your searches, with title, outlet, and url
 
 Rules:
 - Be empirical: rank by what coverage shows, not by what you think should matter.
-- Stay neutral: do not editorialize. The summary describes what is happening; sentiment describes the tone of the coverage.
+- Stay neutral: do not editorialize. The summary describes what is happening; the sentiment fields describe how coverage frames each party.
+- DPK and PPP sentiment are independent and not always inverses. A scandal involving a DPK figure may be "negative" for DPK and "neutral" for PPP. Coverage of the Yoon insurrection trial is "negative" for PPP but often "neutral" for DPK. A constitutional-amendment failure can be "negative" for both. Score each party on its own merits.
 - topic_en strings are stable handles used for cross-snapshot comparison. Use the SAME topic_en for the same ongoing storyline across snapshots when possible.
 - Return ONLY the JSON object matching the provided schema. No prose, no preamble.`;
 
@@ -63,17 +66,32 @@ const SNAPSHOT_SCHEMA = {
       items: {
         type: "object",
         additionalProperties: false,
-        required: ["rank", "topic_en", "topic_ko", "summary", "salience"],
+        required: [
+          "rank",
+          "topic_en",
+          "topic_ko",
+          "summary",
+          "salience",
+          "sentiment_dpk",
+          "sentiment_score_dpk",
+          "sentiment_ppp",
+          "sentiment_score_ppp",
+        ],
         properties: {
           rank: { type: "integer" },
           topic_en: { type: "string" },
           topic_ko: { type: "string" },
           summary: { type: "string" },
-          sentiment: {
+          sentiment_dpk: {
             type: "string",
             enum: ["positive", "negative", "neutral", "mixed"],
           },
-          sentiment_score: { type: "number" },
+          sentiment_score_dpk: { type: "number" },
+          sentiment_ppp: {
+            type: "string",
+            enum: ["positive", "negative", "neutral", "mixed"],
+          },
+          sentiment_score_ppp: { type: "number" },
           salience: { type: "number" },
           issue_tag: { type: "string", pattern: "^[a-z][a-z0-9_]*$" },
           evidence_headlines: {
@@ -143,8 +161,10 @@ Produce the salience snapshot per your instructions. Use web_search to find curr
       topic_en: string;
       topic_ko: string;
       summary: string;
-      sentiment?: string;
-      sentiment_score?: number;
+      sentiment_dpk: string;
+      sentiment_score_dpk: number;
+      sentiment_ppp: string;
+      sentiment_score_ppp: number;
       salience: number;
       issue_tag?: string;
       evidence_headlines?: Array<{
