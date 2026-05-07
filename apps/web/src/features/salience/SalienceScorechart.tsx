@@ -42,15 +42,15 @@ function PartySentimentRow({
       ? (score >= 0 ? "+" : "") + score.toFixed(2)
       : null;
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center gap-2 whitespace-nowrap">
       <span
-        className="inline-flex items-center gap-1.5 rounded-sm border px-1.5 py-0.5 text-[11px] font-medium text-neutral-900"
-        style={{ borderColor: cfg.color, backgroundColor: "#FFFFFF" }}
+        className="inline-flex h-6 w-12 shrink-0 items-center justify-center rounded-sm border bg-white"
+        style={{ borderColor: cfg.color }}
         title={cfg.nameKo}
+        aria-label={cfg.nameKo}
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={cfg.logo} alt="" className="h-3.5 w-auto" />
-        <span lang="ko">{cfg.nameKo}</span>
+        <img src={cfg.logo} alt="" className="max-h-4 w-auto" />
       </span>
       {badge ? (
         <span
