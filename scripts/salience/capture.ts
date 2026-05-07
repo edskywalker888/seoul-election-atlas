@@ -1,6 +1,6 @@
 #!/usr/bin/env tsx
 /**
- * Captures a salience snapshot of top Korean political topics every 12 hours.
+ * Captures a salience snapshot of top Korean political topics once daily.
  * Calls the Anthropic API with Sonnet 4.6 + web_search to fetch current
  * headlines, extract ranked topics, and score sentiment + salience.
  *
@@ -14,7 +14,7 @@
  * - web_search_20260209 has dynamic filtering built in (no separate code_execution
  *   tool, no beta header)
  * - System prompt is frozen and marked cache_control:ephemeral so the prefix
- *   caches across the twice-daily runs
+ *   can cache within a run (TTL ~5min); cross-day caching is not expected
  * - output_config.format with json_schema constrains the response to the
  *   project's salience-snapshot schema
  */
@@ -132,7 +132,7 @@ Produce the salience snapshot per your instructions. Use web_search to find curr
       {
         type: "text",
         text: SYSTEM_PROMPT,
-        // Frozen system prompt — caches across the twice-daily runs
+        // Frozen system prompt — eligible for ephemeral cache within a run
         cache_control: { type: "ephemeral" },
       },
     ],

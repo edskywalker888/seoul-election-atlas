@@ -2,8 +2,8 @@ name: Signals capture
 
 on:
   schedule:
-    # 00:00 and 12:00 UTC = 09:00 and 21:00 KST
-    - cron: "0 0,12 * * *"
+    # 00:00 UTC = 09:00 KST (once daily — morning catch-up)
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:

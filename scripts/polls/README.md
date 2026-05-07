@@ -19,12 +19,12 @@ ANTHROPIC_API_KEY=sk-ant-... npm run polls:scrape
 If the scraper can't parse the model's JSON, finds no candidates, or hits a refusal, it **exits non-zero without overwriting** `aggregate.json`. Better to keep the previous good data than write empty real data.
 
 ## Cadence
-Wired into `.github/workflows/salience.yml`. The same workflow that captures salience and markets every 12h also runs `polls:scrape`. Polls move on roughly weekly cycles, so 12h is generous, but the LLM call is cheap relative to the total signal cadence.
+Wired into `.github/workflows/salience.yml`. The same workflow that captures salience and markets once daily also runs `polls:scrape`. Polls move on roughly weekly cycles, so daily is generous, but the LLM call is cheap relative to the total signal cadence.
 
 ## Cost notes
-- Model: `claude-sonnet-4-6` with adaptive thinking + `effort: high`. Sonnet handles "browse two sites and extract a table" cleanly; Opus 4.7 was overkill for this and ~5× more expensive per run. Bump to Opus 4.7 if extraction accuracy regresses on real Korean sources. The system prompt is `cache_control: ephemeral`, so across twice-daily runs the prefix is cached.
+- Model: `claude-sonnet-4-6` with adaptive thinking + `effort: high`. Sonnet handles "browse two sites and extract a table" cleanly; Opus 4.7 was overkill for this and ~5× more expensive per run. Bump to Opus 4.7 if extraction accuracy regresses on real Korean sources. The system prompt is `cache_control: ephemeral` for in-run caching only.
 - Server-side tools (`web_search_20260209`, `web_fetch_20260209`) — billed at the published Anthropic rate; no separate API key needed.
-- Estimated cost at 12h cadence: roughly $5–10/month for this script alone.
+- Estimated cost at daily cadence: roughly $2–5/month for this script alone.
 
 ## Why an agent and not a static scraper?
 NESDC's interface is form-driven and varies. Pollster summary pages each have their own layouts. Korean news outlets re-aggregate filings inconsistently. A traditional scraper would need bespoke parsing per source and would break frequently. An LLM agent can adapt its source and parsing on each run; the cost is tolerable at this cadence.

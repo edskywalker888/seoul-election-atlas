@@ -19,7 +19,7 @@ npm run salience:capture
 - **No streaming:** `max_tokens` is small (~4096), well below the SDK timeout threshold.
 
 ## Scheduled runs
-GitHub Actions runs this every 12 hours (`0 0,12 * * *` UTC = 09:00 + 21:00 KST) and commits the new snapshot back to `main`. See `.github/workflows/salience.yml`. Requires the repo secret `ANTHROPIC_API_KEY`.
+GitHub Actions runs this once daily (`0 0 * * *` UTC = 09:00 KST) and commits the new snapshot back to `main`. See `.github/workflows/salience.yml`. Requires the repo secret `ANTHROPIC_API_KEY`.
 
 ## Future direction
 The "method" field is an enum (`llm_synthesis | rule_based | manual_demo | bigkinds | datalab`) so the salience layer can swap fetchers without changing consumers. The natural next step is BigKinds (Korea Press Foundation's news analytics — gold standard for media salience) or Naver DataLab (search-attention curves). Both need API credentials we don't yet have. When credentials land, drop in a new fetcher that emits the same schema and the UI continues to work.

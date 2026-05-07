@@ -63,7 +63,7 @@ function PartySentimentRow({
       ) : (
         <span
           className="font-mono text-xs text-neutral-500"
-          title="next 12h capture will populate per-party sentiment"
+          title="next daily capture will populate per-party sentiment"
         >
           —
         </span>
@@ -171,7 +171,7 @@ export function SalienceScorechart({ view }: Props) {
   const { current, previous, ranked, dropped } = view;
   const now = new Date();
   const next = new Date(
-    new Date(current.captured_at).getTime() + 12 * 3_600_000,
+    new Date(current.captured_at).getTime() + 24 * 3_600_000,
   ).toISOString();
 
   return (

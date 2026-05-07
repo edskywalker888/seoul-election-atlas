@@ -22,7 +22,7 @@ npm run markets:capture
 No env vars needed. Output goes to the directories above.
 
 ## Cadence
-Wired into `.github/workflows/salience.yml` to run alongside the salience capture every 12 hours. Markets move faster than salience does, so a finer cadence may be worth it later — change the cron to `0 */6 * * *` for every 6h.
+Wired into `.github/workflows/salience.yml` to run alongside the salience capture once daily. Markets move faster than salience does, so a finer cadence may be worth it later — change the cron to `0 */6 * * *` for every 6h.
 
 ## Why side-by-side
 Polymarket is USD-stablecoin-denominated, deeper liquidity, generally more global participation. Kalshi is CFTC-regulated, US-based, narrower participant pool. They price the same event from different liquidity pools, so spread between them is itself a signal: small spread = consensus, large spread = real disagreement. The UI surfaces the consensus / divergence call directly.

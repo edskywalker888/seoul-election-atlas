@@ -140,7 +140,7 @@ export default async function Home() {
                 Today's political topics
               </h2>
               <p className="mt-0.5 text-sm text-neutral-700">
-                Top-ranked Korean political stories, captured every 12 hours.
+                Top-ranked Korean political stories, captured once daily.
                 Δ shows movement vs the previous capture.
               </p>
             </div>
