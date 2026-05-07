@@ -1,0 +1,232 @@
+{
+  "captured_at": "2026-05-07T14:22:41.731Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.news1.kr/politics/assembly/6159743",
+    "https://biz.heraldcorp.com/article/10733126",
+    "https://dgmbc.com/NewsArticle/839207",
+    "https://www.newspim.com/news/view/20260507000693",
+    "https://www.infogoodman.com/2026/05/lee-jae-myung-special-prosecutor-opposition-signature-campaign.html",
+    "https://www.newspim.com/news/view/20260505000057",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819242_37004.html",
+    "https://issue.daum.net/election/2026",
+    "https://issue.cyberbabarian.com/june-3-local-election-forecast-2026/",
+    "https://www.fnnews.com/news/202604250602083647",
+    "https://www.ytn.co.kr/_ln/0101_202605070759362628",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6814916_37004.html",
+    "https://www.seoul.co.kr/news/politics/local-election2026/2026/04/14/20260414006004",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008547259",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://www.fnnews.com/news/202604141153365848",
+    "https://www.newspim.com/news/view/20260506000319",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003224936"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Constitutional Amendment Vote Fails in Assembly",
+      "topic_ko": "개헌안 국회 표결 불성립",
+      "summary": "On May 7, a constitutional amendment bill backed by six parties — including martial law restriction clauses and enshrinement of the May 18 Gwangju Uprising — failed to reach the required two-thirds quorum (191 votes) after PPP lawmakers collectively boycotted the plenary session; the National Assembly speaker announced a re-vote attempt for May 8.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 1,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "39년만의 개헌, 국힘 불참에 처리 불발…내일 재시도(종합)",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6159743"
+        },
+        {
+          "title": "李정부 첫 개헌안 '투표 불성립'…국민의힘 불참(종합)",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10733126"
+        },
+        {
+          "title": "'계엄 통제 강화' 개헌안, 국회 본회의 '불성립'···국민의힘 불참으로 의결정족수 미달",
+          "outlet": "대구MBC",
+          "url": "https://dgmbc.com/NewsArticle/839207"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Lee Jae-myung Prosecution Dismissal Special Counsel Bill",
+      "topic_ko": "이재명 공소취소 특검법 논란",
+      "summary": "The ruling Democratic Party is advancing a special prosecutor bill that could lead to the dismissal of pending charges against President Lee Jae-myung; the PPP staged a rally in front of the presidential office, calling the bill a 'self-pardon' that violates the rule of law, while also launching a public signature campaign against it.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "국민의힘, 靑 앞서 최고위 개최...장동혁 '공소취소 특검으로 李 독재 시작'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260507000693"
+        },
+        {
+          "title": "李대통령 공소취소 특검 반대 국민 서명운동 사이트 안내",
+          "outlet": "인포굿맨",
+          "url": "https://www.infogoodman.com/2026/05/lee-jae-myung-special-prosecutor-opposition-signature-campaign.html"
+        },
+        {
+          "title": "송언석 '이재명, 공소취소 특검 공식화…조삼모사 사기극' 비판",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260505000057"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "June 3 Local Elections Campaign Heats Up",
+      "topic_ko": "6·3 지방선거 판세",
+      "summary": "With the nationwide local elections one month away, polls show the Democratic Party with a commanding lead across most regions including traditionally conservative Daegu, drawing comparisons to the 2018 blowout; the PPP is struggling to mount a competitive campaign amid leadership instability and low national approval.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 0.8,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "[MBC여론조사] 이 대통령 지지율, 서울·부산·대구 60% 넘겨‥대구는 '견제론' 팽팽",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819242_37004.html"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요",
+          "outlet": "다음이슈",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "2026년 6월 지방선거 판세 재편, 권력지도 재편 분수령·3가지 핵심 변수",
+          "outlet": "21세기이슈",
+          "url": "https://issue.cyberbabarian.com/june-3-local-election-forecast-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "PPP Leadership Crisis Under Jang Dong-hyeok",
+      "topic_ko": "국민의힘 장동혁 지도부 위기",
+      "summary": "PPP leader Jang Dong-hyeok faces intensifying calls to resign from pro-Han Dong-hoon factions ahead of the local elections, with critics accusing him of lacking leadership and rumored 2027 presidential ambitions; the intra-party rift is widely seen as undermining the party's electoral prospects.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.72,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "장동혁 사퇴론 확산, 버티는 張…지방선거 코앞 혼돈의 국힘",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604250602083647"
+        },
+        {
+          "title": "국힘 박정하 '장동혁, 친한계 징계 시사? 전혀 두렵지않아... 대선 출마한다더라'",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605070759362628"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Han Dong-hoon Busan By-Election Independent Run",
+      "topic_ko": "한동훈 부산 북구갑 무소속 출마",
+      "summary": "Former PPP leader Han Dong-hoon has officially registered as an independent candidate in the Busan Buk-gu Gap by-election running alongside the June 3 local elections, creating a three-way race against DP candidate Ha Jeong-woo and PPP's Park Min-sik; polls show Han trailing in a three-way contest but posing a spoiler threat.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.1,
+      "salience": 0.63,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "한동훈 부산북갑·조국 평택을‥미니 총선 출마 윤곽",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6814916_37004.html"
+        },
+        {
+          "title": "한동훈 부산 북구갑 출마, 친한계 지원 채비… 국힘 '무공천 안 돼'",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/local-election2026/2026/04/14/20260414006004"
+        },
+        {
+          "title": "하정우 38% 박민식 26% 한동훈 21%…양자대결 묻자 [여론조사]",
+          "outlet": "SBS",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008547259"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Yoon Suk-yeol Insurrection Trial Approaching Verdict",
+      "topic_ko": "윤석열 내란 재판 선고 임박",
+      "summary": "Former President Yoon Suk-yeol's primary insurrection trial (1st instance) is scheduled to deliver its verdict on May 28; separately, an appellate court in late April upgraded his sentence on arrest-obstruction charges to seven years, and special prosecutors have filed additional indictments on related counts.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "salience": 0.56,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Lee Jae-myung Presidential Approval Remains High",
+      "topic_ko": "이재명 대통령 국정 지지율",
+      "summary": "President Lee Jae-myung's approval rating has held at 61.9% for five consecutive weeks according to Realmeter surveys, supported by economic stabilization signals and energy security measures; the Democratic Party's party support stands at 50.6% versus the PPP's 30.0%.",
+      "sentiment": "positive",
+      "sentiment_score": 0.6,
+      "salience": 0.45,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 5주 연속 60%대‥민주 50.6%·국민의힘 30.0% [리얼미터]",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6814717_36911.html"
+        },
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Cho Kuk Pyeongtaek By-Election Candidacy",
+      "topic_ko": "조국 평택을 재보궐 출마",
+      "summary": "Cho Kuk, leader of the Rebuilding Korea Party, has declared his candidacy in the Pyeongtaek-eul by-election concurrent with the June 3 local elections, framing his run around completing prosecutorial reform; the race is drawing national attention as a test of progressive coalition politics.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.05,
+      "salience": 0.35,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "조국, 경기 평택을 재선거 출마 선언…'與 무공천이 책임정치'(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604141153365848"
+        },
+        {
+          "title": "조국 '평택을 보선, 평택 혁신과 검찰개혁 완수에 중대한 영향 미칠 선거'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260506000319"
+        },
+        {
+          "title": "'대선 후보감이 왜 여기에?' '당선 확률 엄청 높죠'...평택을 민심이 본 조국 출마",
+          "outlet": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003224936"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
