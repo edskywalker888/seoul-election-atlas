@@ -1,0 +1,259 @@
+{
+  "captured_at": "2026-05-07T17:18:31.511Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.news1.kr/politics/assembly/6159743",
+    "https://www.fnnews.com/news/202605071814543765",
+    "https://imnews.imbc.com/news/2026/politics/article/6820701_36911.html",
+    "https://www.newspim.com/news/view/20260507000693",
+    "https://www.dt.co.kr/article/12061142",
+    "https://www.fnnews.com/news/202605061445261322",
+    "https://www.newspim.com/news/view/20260507000670",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008550265",
+    "https://www.fnnews.com/news/202605071134464508",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://www.dt.co.kr/article/12061228",
+    "https://issue.daum.net/election/2026",
+    "https://www.joongangenews.com/news/articleView.html?idxno=516854",
+    "https://imnews.imbc.com/news/2026/politics/article/6796840_36911.html",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008547259",
+    "https://www.fnnews.com/news/202605051854061009",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260505010000600",
+    "https://www.fnnews.com/news/202605021011586179",
+    "https://www.ajunews.com/view/20260505141641091",
+    "https://biz.heraldcorp.com/article/10731498",
+    "https://www.newspim.com/news/view/20260505000007"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Constitutional Amendment Vote Blocked by PPP Boycott",
+      "topic_ko": "국민의힘 불참으로 개헌안 표결 불성립",
+      "summary": "On May 7, the National Assembly held a plenary vote on a constitutional amendment bill—incorporating martial law reform, 5·18 and Busan-Masan democratic heritage in the preamble, and regional balance provisions—but the PPP boycotted en masse, causing the vote to fall short of the required two-thirds quorum. Speaker Woo Won-shik pleaded for participation and announced a re-vote attempt for May 8.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.95,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "39년만의 개헌, 국힘 불참에 처리 불발…내일 재시도(종합)",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6159743"
+        },
+        {
+          "title": "국힘 보이콧에 개헌안 '투표 불성립'… 우 의장 '8일 재상정'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605071814543765"
+        },
+        {
+          "title": "\"왜 안 들어와?\" 의장 폭발‥\"양심과 소신 짓밟지 마\" [현장영상]",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6820701_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Lee Jae-myung Prosecution Dismissal Special Counsel Bill",
+      "topic_ko": "이재명 대통령 공소취소 특검법 추진 논란",
+      "summary": "The ruling DPK is advancing legislation to retroactively dismiss criminal charges against President Lee Jae-myung, framing it as correcting alleged prosecutorial misconduct; the PPP staged a field supreme council meeting outside Cheong Wa Dae, calling it a 'self-acquittal bill' and a gateway to one-man rule, and vowed to oppose it alongside civic groups and opposition parties.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.55,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "국민의힘, 靑 앞서 최고위 개최...장동혁 \"공소취소 특검으로 李 독재 시작\"",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260507000693"
+        },
+        {
+          "title": "국힘 \"李대통령 공소취소 반대하는 모든 정당·시민단체와 함께 투쟁\"",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061142"
+        },
+        {
+          "title": "국민의힘, '반특검' 결집..한동훈發 내홍 조짐이 변수",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605061445261322"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Han Deok-su Appeal Sentence 15 Years for Insurrection",
+      "topic_ko": "한덕수 전 총리 항소심 징역 15년 선고",
+      "summary": "The Seoul High Court on May 7 sentenced former Prime Minister Han Deok-su to 15 years in prison on appeal for key participation in the December 3 insurrection, reducing the first-instance 23-year sentence but upholding the conviction; the ruling found he failed to stop the unlawful martial law declaration and participated in planning it.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.8,
+      "salience": 0.82,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "[종합] 한덕수, 2심도 '내란 가담' 인정…형량은 대폭 감형돼 '징역 15년'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260507000670"
+        },
+        {
+          "title": "한덕수 2심 징역 15년 선고…1심보다 형량 8년 줄어",
+          "outlet": "SBS",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008550265"
+        },
+        {
+          "title": "[일지] 12·3 계엄부터 한덕수 前총리 2심 징역 15년까지",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605071134464508"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Yoon Seok-yeol Insurrection Trial Verdict Approaching",
+      "topic_ko": "윤석열 내란죄 1심 선고 임박",
+      "summary": "Yoon Seok-yeol's insurrection trial is heading toward a May 28 verdict; he was separately sentenced to 7 years on appeal in late April for obstructing his own arrest, and the PPP has formally declined to issue any leadership comment on the proceedings.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.72,
+      "salience": 0.72,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 내란 재판/전개 - 선고기일 (2026년 5월 28일)",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "June 3 Local Elections Party Support Gap Widens",
+      "topic_ko": "6·3 지방선거 민주당-국민의힘 지지율 격차 심화",
+      "summary": "With the June 3 nationwide local elections less than a month away, polling shows DPK at 46% versus PPP at 18% nationally; PPP faces particular difficulty in Seoul and the Busan-Gyeongnam region, and the party's recent low of 15% has only partially recovered to 18% despite conservative consolidation efforts.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.65,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "[속보] 국힘 18%로 반등했지만 서울·PK 패색 더 짙어져…TK 1당 탈환도 못해 [NBS]",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061228"
+        },
+        {
+          "title": "전국지표조사 5월 1주차, 민주 46% 국힘 18%",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061228"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "PPP Internal Split Over Han Dong-hoon Independent Run",
+      "topic_ko": "한동훈 무소속 출마로 국민의힘 내홍 격화",
+      "summary": "Former PPP leader Han Dong-hoon is running as an independent in the Busan Buk-Gap by-election, drawing support from pro-Han PPP lawmakers against party leadership's wishes; PPP leader Jang Dong-hyuk has warned of disciplinary action against any member who campaigns for Han, while Seoul PPP councillors have publicly criticized the prolonged intra-party conflict.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.55,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "장동혁 \"한동훈 지원, 필요한 조치할 것\"...국민의힘 내홍 격화 조짐",
+          "outlet": "중앙이코노미뉴스",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=516854"
+        },
+        {
+          "title": "국힘 서울시의원·당원들, '한동훈 제명' 당내 갈등 비판‥\"지선 승리할 마지막 골든타임\"",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6796840_36911.html"
+        },
+        {
+          "title": "하정우 38% 박민식 26% 한동훈 21%…양자대결 묻자 [여론조사]",
+          "outlet": "SBS",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008547259"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Hormuz Strait Deployment Pressure from Trump",
+      "topic_ko": "트럼프 호르무즈 해협 파병 요구 대응",
+      "summary": "The Lee government is deliberating whether to commit warships to the Hormuz Strait after Trump again demanded Korea join 'Project Freedom' following the alleged Iranian attack on a Korean-flagged bulk carrier; Cheong Wa Dae stated it is reviewing the request against domestic legal constraints and Korean Peninsula readiness requirements.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.44,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "靑 \"美 호르무즈 파병 요청, 국내법 등 감안해 검토\"",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605051854061009"
+        },
+        {
+          "title": "호르무즈에 파병시 어떤 군함 보내나",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260505010000600"
+        },
+        {
+          "title": "정부, 호르무즈 해협 '통항 기여' 고심…군함 투입 등 다각도 검토 관측",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605021011586179"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "US USTR Section 301 Hearings Target Korea Trade Practices",
+      "topic_ko": "미국 무역법 301조 조사 공청회 한국 참여",
+      "summary": "The US Trade Representative held Section 301 hearings on structural overcapacity practices from May 5–8, with Korea sending officials to defend its industrial policies; the hearings are seen as groundwork for potential new tariffs to replace the previously struck-down reciprocal tariffs, adding uncertainty to Korea-US trade relations.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.15,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.33,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "美 USTR, 5일부터 한국 등 16개국과 무역법 301조 공청회…'과잉 생산 관련'",
+          "outlet": "아주경제",
+          "url": "https://www.ajunews.com/view/20260505141641091"
+        },
+        {
+          "title": "美, 대체관세 사전작업 '301조 공청회' 실시…韓 \"과잉생산 품목 자발적 구조조정\" 해명",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10731498"
+        },
+        {
+          "title": "美 USTR '301조 과잉생산 조사' 본격화… 韓, '정당성' 방어 나선다",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260505000007"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
