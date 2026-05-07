@@ -1,0 +1,228 @@
+{
+  "captured_at": "2026-05-07T03:30:55.377Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.fnnews.com/news/202605021715553629",
+    "https://www.koreatimes.co.kr/amp/southkorea/law-crime/20260504/lee-urges-careful-deliberation-on-special-probe-over-fabricated-charges-against-him-under-yoon",
+    "https://issue.daum.net/election/2026",
+    "https://thediplomat.com/2026/05/south-koreas-ruling-party-has-a-jung-chung-rae-risk/",
+    "https://issue.cyberbabarian.com/june-3-local-election-forecast-2026/",
+    "https://www.insight.co.kr/news/552946",
+    "https://www.koreaherald.com/article/10644164",
+    "https://www.sideview.co.kr/news/articleView.html?idxno=16778",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003198204",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://dailyen.co.kr/article/69305",
+    "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html",
+    "https://www.washingtontimes.com/news/2026/feb/6/south-korea-us-tariff-strife-threatens-affect-security-domain/",
+    "https://www.koreaherald.com/article/10502380",
+    "https://keia.org/the-peninsula/u-s-south-korea-relations-in-2026-key-issues-to-watch/",
+    "https://www.aei.org/articles/korean-peninsula-update-may-5-2026/",
+    "https://thediplomat.com/2026/05/north-korea-puts-its-medium-term-plan-on-track/",
+    "https://en.sedaily.com/finance/2026/05/04/opposition-slams-government-over-shifting-stance-on",
+    "https://en.sedaily.com/finance/2026/05/04/cheong-wa-dae-weighs-differentiated-property-taxes-by"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Lee Jae-myung Prosecution Dismissal Special Counsel Bill",
+      "topic_ko": "이재명 공소취소 특검법 논란",
+      "summary": "The ruling Democratic Party is pushing a bill that would allow a special counsel — appointed by President Lee himself — to take over and potentially drop the multiple corruption cases against him. The opposition PPP and legal community have condemned the measure as unconstitutional 'self-acquittal,' and opposition lawmakers rallied outside Cheong Wa Dae to protest.",
+      "sentiment": "negative",
+      "sentiment_score": -0.75,
+      "salience": 0.95,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "'공소취소 특검법'은 중대한 위헌"
+        },
+        {
+          "title": "국힘 \"'공소취소 특검'은 죄 지우개 특검…李 침묵, 법안 지시 주체 시인\"",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605021715553629"
+        },
+        {
+          "title": "Lee urges careful deliberation on special probe over 'fabricated' charges against him under Yoon",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/amp/southkorea/law-crime/20260504/lee-urges-careful-deliberation-on-special-probe-over-fabricated-charges-against-him-under-yoon"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "June 3 Local Elections Campaign and Outlook",
+      "topic_ko": "6·3 지방선거 판세 및 선거운동",
+      "summary": "With roughly 30 days until the June 3 nationwide local elections, the ruling Democratic Party is heavily favored to sweep at least 15 of 17 metropolitan governorships. The conservative opposition bloc — PPP and Gaehyeok Party — is forming an anti-DP coalition in Seoul and Gyeonggi, rallying around opposition to the special counsel bill and property tax policy.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.1,
+      "salience": 0.88,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "다양한 지방선거 기사 – '조작기소 특검법' 저지 위해 뭉친 수도권 보수 야권 후보들",
+          "outlet": "Daum Issue",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "South Korea's Ruling Party Has a Jung Chung-rae Risk",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/05/south-koreas-ruling-party-has-a-jung-chung-rae-risk/"
+        },
+        {
+          "title": "2026년 6월 지방선거 판세 재편, 권력지도 재편 분수령·3가지 핵심 변수",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/june-3-local-election-forecast-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "DP Chair Jung Chung-rae Campaign Conduct Controversy",
+      "topic_ko": "정청래 대표 '오빠' 호칭 요구 논란",
+      "summary": "Democratic Party chair Jung Chung-rae sparked a controversy on May 3 when footage showed him prompting an elementary school girl to call a 49-year-old DP candidate 'oppa' during a Busan campaign event. Apologies from Jung and the candidate were criticized as deflective, and prior similar incidents resurfaced, creating a self-inflicted political liability ahead of local elections.",
+      "sentiment": "negative",
+      "sentiment_score": -0.65,
+      "salience": 0.78,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "South Korea's Ruling Party Has a Jung Chung-rae Risk",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/05/south-koreas-ruling-party-has-a-jung-chung-rae-risk/"
+        },
+        {
+          "title": "'오빠 논란' 정청래, 과거에도 젊은 여성 손 잡고 '청래 오빠' 호칭 요구",
+          "outlet": "인사이트",
+          "url": "https://www.insight.co.kr/news/552946"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Kim Byung-kee Floor Leader Graft Scandal and DP Reshuffle",
+      "topic_ko": "김병기 원내대표 비위 의혹 및 민주당 원내 재편",
+      "summary": "Former Democratic Party floor leader Kim Byung-kee was expelled from the party in January over bribery and misconduct allegations including nomination money, improper use of staff budgets, and silencing former aides with political funds. On May 6, Han Byung-do was re-elected as DP floor leader in a rare consecutive term, pledging to support stable governance under the Lee administration.",
+      "sentiment": "negative",
+      "sentiment_score": -0.55,
+      "salience": 0.68,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "Ruling party chair apologizes for floor leader's graft scandal",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10644164"
+        },
+        {
+          "title": "[365 인물전망대] 5월 6일 – 한병도 더불어민주당 원내대표",
+          "outlet": "사이드뷰",
+          "url": "https://www.sideview.co.kr/news/articleView.html?idxno=16778"
+        },
+        {
+          "title": "손 맞잡은 장동혁·이준석 \"통일교·공천 뇌물 특검\" 한목소리",
+          "outlet": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003198204"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Lee Jae-myung Approval Rating and DP Political Dominance",
+      "topic_ko": "이재명 대통령 지지율 및 민주당 우위",
+      "summary": "President Lee Jae-myung's approval rating stands at approximately 60–67% in recent polls, with the Democratic Party polling around 46–50% versus the PPP's 21%, reflecting a commanding governing advantage. Coverage frames this as the backdrop for the local election campaign, though party scandals risk eroding the margin.",
+      "sentiment": "positive",
+      "sentiment_score": 0.55,
+      "salience": 0.58,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "이재명 대통령 지지율 67%…민주당 48% 2주 연속 '최고치'",
+          "outlet": "일간환경",
+          "url": "https://dailyen.co.kr/article/69305"
+        },
+        {
+          "title": "이재명 대통령 지지율, 64%‥민주당 46%·국민의힘 21%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "US-South Korea Tariff Negotiations and Trade Pressure",
+      "topic_ko": "한미 관세 협상 및 무역 갈등",
+      "summary": "The Trump administration has threatened to raise tariffs on South Korean exports from 15% to 25%, prompting President Lee to dispatch trade and foreign ministers to Washington. The 26.2-trillion-won supplementary budget passed in April was partly designed to offset the domestic economic impact of high oil prices and tariff exposure.",
+      "sentiment": "negative",
+      "sentiment_score": -0.45,
+      "salience": 0.5,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "South Korea-U.S. tariff strife threatens to affect security domain",
+          "outlet": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/feb/6/south-korea-us-tariff-strife-threatens-affect-security-domain/"
+        },
+        {
+          "title": "Lee Jae-myung faces first major test as US tariff deadline looms",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10502380"
+        },
+        {
+          "title": "U.S.-South Korea Relations in 2026: Key Issues to Watch",
+          "outlet": "Korea Economic Institute of America",
+          "url": "https://keia.org/the-peninsula/u-s-south-korea-relations-in-2026-key-issues-to-watch/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Inter-Korean Policy Shift Toward Peaceful Coexistence",
+      "topic_ko": "대북 정책 전환: 평화공존론",
+      "summary": "South Korea's Ministry of Unification is moving away from reunification language toward a 'peaceful coexistence' framework, now referring to North Korea by its official DPRK title as a conciliatory gesture. Meanwhile, Kim Jong Un has hardened Pyongyang's nuclear stance, declaring nuclear weapons the only way to deter aggression, and analysts warn the shift could be read by North Korea as validating its preferred regional order.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.2,
+      "salience": 0.42,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "Korean Peninsula Update, May 5, 2026",
+          "outlet": "AEI",
+          "url": "https://www.aei.org/articles/korean-peninsula-update-may-5-2026/"
+        },
+        {
+          "title": "North Korea Puts Its Medium-Term Plan on Track",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/05/north-korea-puts-its-medium-term-plan-on-track/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Government Housing and Property Tax Policy Confusion",
+      "topic_ko": "부동산 장기보유 특별공제 정책 혼선",
+      "summary": "The Lee administration sent conflicting signals over the long-term holding special deduction for property taxes, with Cheong Wa Dae ruling out abolishing the deduction while separately exploring differentiated tax rates by ownership type. The PPP demanded President Lee personally clarify his position, framing the policy confusion as evidence of government inconsistency ahead of elections.",
+      "sentiment": "negative",
+      "sentiment_score": -0.4,
+      "salience": 0.33,
+      "issue_tag": "housing",
+      "evidence_headlines": [
+        {
+          "title": "Opposition Slams Government Over Shifting Stance on Property Tax Deduction",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/04/opposition-slams-government-over-shifting-stance-on"
+        },
+        {
+          "title": "Cheong Wa Dae Weighs Differentiated Property Taxes by Ownership Type",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/04/cheong-wa-dae-weighs-differentiated-property-taxes-by"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
