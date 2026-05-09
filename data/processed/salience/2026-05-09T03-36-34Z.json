@@ -1,0 +1,264 @@
+{
+  "captured_at": "2026-05-09T03:36:34.281Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://en.sedaily.com/finance/2026/05/07/constitutional-amendment-fails-as-opposition-boycotts-vote",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260508/ruling-party-fails-to-push-through-constitutional-amendment-bill-amid-opposition-boycott",
+    "https://www.fnnews.com/news/202605081713412007",
+    "https://www.dt.co.kr/article/12061037",
+    "https://www.dt.co.kr/article/12061133",
+    "https://www.munhwa.com/article/11587694",
+    "https://www.ytn.co.kr/_ln/0101_202605080056499201",
+    "https://www.mt.co.kr/politics/2026/05/08/2026050815314275192",
+    "https://www.bworldonline.com/world/2026/05/08/748412/south-korea-heads-to-local-elections-under-shadow-of-disgraced-former-president/",
+    "https://www.koreatimes.co.kr/southkorea/law-crime/20260507/appeals-court-cuts-ex-pms-sentence-to-15-years-but-upholds-insurrection-conviction",
+    "https://www.mt.co.kr/society/2026/05/08/2026050719584919335",
+    "https://www.upi.com/Top_News/World-News/2026/05/07/korea-Han-Duck-soo-sentence-reduced-15-years-appeals-court/9311778138598/",
+    "https://en.sedaily.com/finance/2026/04/30/divided-ppp-leadership-campaigns-separately-as-candidates",
+    "https://www.khan.co.kr/article/202605051618001/",
+    "https://www.visiontimes.com/2026/04/30/yoon-suk-yeol-sentenced-to-additional-7-years-in-prison-by-seoul-high-court.html",
+    "https://imnews.imbc.com/news/2026/society/article/6801803_36918.html",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747",
+    "https://www.khan.co.kr/article/202605011055001",
+    "https://issue.cyberbabarian.com/seoul-jeonse-value-2026-highest/",
+    "https://econmingle.com/economy/seoul-villa-jeonse-price-surge-2026/",
+    "https://www.cliktoday.com/2026/05/20260508-today-news.html"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Constitutional Amendment Collapse, PPP Boycott",
+      "topic_ko": "개헌안 부결, 국민의힘 보이콧",
+      "summary": "The ruling DPK-led coalition's push to hold a constitutional referendum alongside the June 3 local elections collapsed on May 7–8 after the PPP boycotted the National Assembly vote, leaving the chamber 11 votes short of the required two-thirds quorum. National Assembly Speaker Woo Won-shik suspended the amendment process and publicly wept, blasting the PPP's filibuster as a 'hostage-taking of people's livelihoods.'",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.45,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.92,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "Constitutional Amendment Fails as Opposition Boycotts Vote",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/07/constitutional-amendment-fails-as-opposition-boycotts-vote"
+        },
+        {
+          "title": "Ruling party fails to push through constitutional amendment bill amid opposition boycott",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260508/ruling-party-fails-to-push-through-constitutional-amendment-bill-amid-opposition-boycott"
+        },
+        {
+          "title": "6·3 지선 개헌 동시 투표 무산…우원식 '국힘에 강력 유감', 눈물 훔치기도",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605081713412007"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Fabricated Indictment Special Counsel Bill Controversy",
+      "topic_ko": "조작기소 특검법 논란",
+      "summary": "The ruling DPK introduced a 'fabricated indictment special counsel' bill that critics say would allow a new special prosecutor to drop charges in cases including those against President Lee Jae-myung himself, triggering fierce PPP accusations of a 'self-acquittal scheme' and prompting debate about whether it constitutes an impeachable offense. The bill has become a flashpoint galvanizing conservative voters ahead of the June 3 elections.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.5,
+      "sentiment_ppp": "positive",
+      "sentiment_score_ppp": 0.4,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "여야 조작기소 특검 충돌…'희생자 공소취소'·'대통령 무죄세탁'",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061037"
+        },
+        {
+          "title": "공소취소 특검법에 汎野 각개전투…한동훈 '국회 들어가 이재명 탄핵'",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061133"
+        },
+        {
+          "title": "'공소취소'가 불댕긴 보수결집… '압승론' 균열에 민주 당혹",
+          "outlet": "문화일보",
+          "url": "https://www.munhwa.com/article/11587694"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "June 3 Local Elections Campaign and Polling",
+      "topic_ko": "6·3 지방선거 선거전 및 여론조사",
+      "summary": "With the June 3 nationwide local elections 26 days away, the DPK holds a commanding 46%–18% party support lead over the PPP, but recent polling shows conservative consolidation narrowing individual race gaps, especially in Yeongnam. The PPP's Jang Dong-hyuk resolved internal candidate conflicts and launched a nationwide campaign blitz starting May 9.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.2,
+      "salience": 0.85,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "[정치] 이 대통령 지지율 67%...민주 46%·국민의힘 18% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        },
+        {
+          "title": "'공천 리스크' 해소 장동혁, 본격 선거 모드 전환...보수 결집 총력전",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/08/2026050815314275192"
+        },
+        {
+          "title": "South Korea heads to local elections under shadow of disgraced former president",
+          "outlet": "BusinessWorld Online",
+          "url": "https://www.bworldonline.com/world/2026/05/08/748412/south-korea-heads-to-local-elections-under-shadow-of-disgraced-former-president/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Han Duck-soo Insurrection Appeal Verdict",
+      "topic_ko": "한덕수 내란 항소심 선고",
+      "summary": "The Seoul High Court on May 7 reduced former Prime Minister Han Duck-soo's sentence from 23 years to 15 years in the December 2024 martial law insurrection case, upholding his conviction for complicity in insurrection while citing his five decades of public service as a mitigating factor. Both the defense and special prosecutors indicated they would appeal to the Supreme Court.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.75,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "Appeals court cuts ex-PM's sentence to 15 years, but upholds insurrection conviction",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260507/appeals-court-cuts-ex-pms-sentence-to-15-years-but-upholds-insurrection-conviction"
+        },
+        {
+          "title": "한덕수, 항소심서 징역 23년 → 15년",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/08/2026050719584919335"
+        },
+        {
+          "title": "Appeals court reduces sentence for ex-PM Han to 15 yrs in insurrection trial",
+          "outlet": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2026/05/07/korea-Han-Duck-soo-sentence-reduced-15-years-appeals-court/9311778138598/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "PPP Fragmentation and Han Dong-hoon Independent Candidacy",
+      "topic_ko": "국민의힘 분열과 한동훈 무소속 출마",
+      "summary": "Expelled former PPP leader Han Dong-hoon, running as an independent in the Busan Buk-gu Gap by-election, publicly declared that President Lee would face impeachment if the fabricated-indictment special counsel bill passes, intensifying intra-conservative rivalry. The PPP's leadership under Jang Dong-hyuk is attempting to suppress factional conflict and present a united front heading into June 3.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 0.65,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "Divided PPP Leadership Campaigns Separately as Candidates Go Solo",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/04/30/divided-ppp-leadership-campaigns-separately-as-candidates"
+        },
+        {
+          "title": "공소취소 특검법에 汎野 각개전투…한동훈 '국회 들어가 이재명 탄핵'",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061133"
+        },
+        {
+          "title": "보수결집 '동남풍'에 자신감 붙은 장동혁, 공개 행보 넓힌다···'5곳 이기면 선전'",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605051618001/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Yoon Suk-yeol Insurrection Trials Continuing",
+      "topic_ko": "윤석열 내란 재판 진행",
+      "summary": "Yoon Suk-yeol received a life sentence for insurrection in February 2026 and an additional 7-year term for obstruction of arrest in the appeals court on April 29; multiple related proceedings remain active, and the special prosecution announced further indictments, keeping the martial law scandal in the news cycle as a persistent backdrop to the June elections.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.7,
+      "salience": 0.6,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "Yoon Suk Yeol Sentenced to Additional 7 Years in Prison by Seoul High Court",
+          "outlet": "Vision Times",
+          "url": "https://www.visiontimes.com/2026/04/30/yoon-suk-yeol-sentenced-to-additional-7-years-in-prison-by-seoul-high-court.html"
+        },
+        {
+          "title": "법원 '내란 우두머리' 윤석열 1심 무기징역 선고",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6801803_36918.html"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Lee Jae-myung Approval Rating Slight Decline",
+      "topic_ko": "이재명 대통령 지지율 소폭 하락",
+      "summary": "President Lee Jae-myung's approval rating edged down 2 percentage points to 67% in the May 4–6 NBS poll, remaining at an elevated level but showing the first sustained dip since taking office, attributed partly to public discomfort over the fabricated-indictment special counsel bill and the failed constitutional amendment push.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.15,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.5,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 지지율 67%…민주당 2%p↓·국민의힘 3%p↑",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747"
+        },
+        {
+          "title": "[정치] 이 대통령 지지율 67%...민주 46%·국민의힘 18% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        },
+        {
+          "title": "이 대통령 지지율 64%, 3%P↓···'지방선거 승리 기대' 여당 46%",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605011055001"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Seoul Jeonse Housing Crisis and Supply Cliff",
+      "topic_ko": "서울 전세난 및 공급절벽",
+      "summary": "Seoul's jeonse (lease-deposit) prices hit record highs in April–May 2026 as apartment supply dropped to historically low levels, with new units 50–70% below the prior year; a looming expiry of the capital-gains tax exemption for multi-homeowners in May is adding market uncertainty and pressure on the Lee government's housing policy.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.4,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.38,
+      "issue_tag": "housing",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 서울 전세값 역대 최고 수준, 전세 구하기 어려워진 이유와 해결방안",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/seoul-jeonse-value-2026-highest/"
+        },
+        {
+          "title": "서울 전세난, 2021년 악몽 재현?… 빌라 공급 83% 급감",
+          "outlet": "econmingle",
+          "url": "https://econmingle.com/economy/seoul-villa-jeonse-price-surge-2026/"
+        },
+        {
+          "title": "2026년 5월 8일 오늘의 주요 뉴스(개헌 대립부터 서울 아파트 전세 대란 및 삼성전자 중국 사업 철수까지 총정리)",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260508-today-news.html"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
