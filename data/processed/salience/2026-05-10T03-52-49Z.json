@@ -1,0 +1,259 @@
+{
+  "captured_at": "2026-05-10T03:52:49.800Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.koreatimes.co.kr/southkorea/politics/20260508/ruling-party-fails-to-push-through-constitutional-amendment-bill-amid-opposition-boycott",
+    "https://en.sedaily.com/finance/2026/05/07/people-power-party-to-launch-filibuster-against",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7163328",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260424/main-opposition-party-struggles-to-find-june-election-candidates-bringing-back-old-guards",
+    "https://www.bworldonline.com/world/2026/05/08/748412/south-korea-heads-to-local-elections-under-shadow-of-disgraced-former-president/",
+    "https://polymarket.com/event/2026-south-korean-local-elections-party-winner",
+    "https://www.aljazeera.com/news/2026/1/16/south-koreas-former-president-yoon-sentenced-to-five-years-what-we-know",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://issue.daum.net/focus/241203investigation",
+    "https://www.ytn.co.kr/_ln/0101_202605080056499201",
+    "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747",
+    "https://issue.daum.net/election/2026",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001667",
+    "https://www.cliktoday.com/2026/05/20260508-today-news.html",
+    "https://ccej.or.kr/posts/70te95X",
+    "https://think.ing.com/articles/korea-outlook-2026-6-questions-for-korea-in-2026/",
+    "https://www.koreaherald.com/article/10502380",
+    "https://seoul.co.kr/news/international/2026/05/08/20260508500013",
+    "https://www.ajunews.com/view/20260128083416368",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260115/leadership-rift-widens-in-ppp-as-expulsion-of-former-leader-is-delayed",
+    "https://carnegieendowment.org/emissary/2026/02/south-korea-yoon-conservative-party-ppp-what-next",
+    "https://namu.wiki/w/%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98/2026%EB%85%84"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Constitutional Amendment Vote Blocked by PPP",
+      "topic_ko": "개헌안 국민의힘 반대로 무산",
+      "summary": "On May 7–8, the People Power Party boycotted the National Assembly plenary session and threatened a filibuster, forcing Speaker Woo Won-shik to withdraw the constitutional amendment bill that would have tightened martial law restrictions and enshrined democratic uprising movements. The deadline to hold a concurrent referendum with the June 3 local elections has now passed, effectively killing the amendment until after the vote.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.95,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "Ruling party fails to push through constitutional amendment bill amid opposition boycott",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260508/ruling-party-fails-to-push-through-constitutional-amendment-bill-amid-opposition-boycott"
+        },
+        {
+          "title": "People Power Party to Launch Filibuster Against Constitutional Amendment Revote",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/07/people-power-party-to-launch-filibuster-against"
+        },
+        {
+          "title": "39년 만의 개헌 무산…국민의힘 '필리버스터' 예고에 절차 중단",
+          "outlet": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7163328"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "June 3 Local Elections Final Campaign Phase",
+      "topic_ko": "6·3 지방선거 선거운동 본격화",
+      "summary": "South Korea's June 3 simultaneous local elections and legislative by-elections enter their final campaign stretch, with the DPK holding a dominant position in polling (DPK 46% vs PPP 18% party support) and prediction markets giving the DPK 97% odds of winning the most seats. The PPP is struggling to recruit viable candidates in many districts, while by-election races featuring expelled former PPP leader Han Dong-hoon and Cho Guk running as independents are drawing intense attention.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.7,
+      "salience": 0.88,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "Main opposition party struggles to find June election candidates, bringing back old guards",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260424/main-opposition-party-struggles-to-find-june-election-candidates-bringing-back-old-guards"
+        },
+        {
+          "title": "South Korea heads to local elections under shadow of disgraced former president",
+          "outlet": "BusinessWorld Online",
+          "url": "https://www.bworldonline.com/world/2026/05/08/748412/south-korea-heads-to-local-elections-under-shadow-of-disgraced-former-president/"
+        },
+        {
+          "title": "2026 South Korean Local Elections: Party Winner Prediction",
+          "outlet": "Polymarket",
+          "url": "https://polymarket.com/event/2026-south-korean-local-elections-party-winner"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Insurrection Trials and Ongoing Special Counsel",
+      "topic_ko": "윤석열 내란 재판·특검 수사 진행",
+      "summary": "Former President Yoon Suk-yeol, already sentenced to life in prison for insurrection in February 2026, faces an upcoming second insurrection trial sentencing scheduled for May 28. His separate arrest-obstruction case resulted in a 7-year sentence at appeal (April 29), which both sides have now appealed to the Supreme Court. The special counsel continues to investigate additional charges, keeping the martial-law saga prominent in pre-election coverage.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.8,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "South Korea's former President Yoon sentenced to five years: What we know",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/1/16/south-koreas-former-president-yoon-sentenced-to-five-years-what-we-know"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "특검, 尹 '체포방해' 사건 항소심 무죄 부문 대법원에 상고",
+          "outlet": "다음뉴스 내란재판 현황",
+          "url": "https://issue.daum.net/focus/241203investigation"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Lee Jae-myung Approval Dips from Record High",
+      "topic_ko": "이재명 대통령 지지율 소폭 하락",
+      "summary": "President Lee Jae-myung's approval rating dipped two percentage points to 67% (NBS, May 4–6), retreating from three consecutive record-highs of 69%, amid concerns over rising housing prices, the controversial 'fabricated prosecution' special counsel bill, and minor verbal gaffes. DPK party support also slipped two points to 46%, while PPP edged up to 18%.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.3,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.72,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 67%...민주 46%·국민의힘 18% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        },
+        {
+          "title": "이재명 대통령 지지율 67%…민주당 2%p↓·국민의힘 3%p↑",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747"
+        },
+        {
+          "title": "부동산부터 조작기소 특검, 말실수까지…좁혀지는 지지율에 與긴장",
+          "outlet": "뉴스1 (다음 지방선거)",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "'Fabricated Prosecution' Special Counsel Bill Controversy",
+      "topic_ko": "조작기소 특검법 논란",
+      "summary": "The DPK introduced a special counsel bill on April 30 to investigate prosecutors accused of fabricating charges against President Lee Jae-myung; the PPP has labeled it a 'self-amnesty' bill and is using it to rally conservative voters ahead of June 3. The DPK is now slowing the bill's passage until after the election to limit electoral damage, but the controversy has narrowed polling gaps in key swing districts.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.4,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.2,
+      "salience": 0.63,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "선거 돌발변수된 '조작기소 특검', 보수결집 카드될까",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001667"
+        },
+        {
+          "title": "부동산부터 조작기소 특검, 말실수까지…좁혀지는 지지율에 與긴장",
+          "outlet": "뉴스1",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Seoul Housing Price Surge Threatens DPK Lead",
+      "topic_ko": "서울 부동산 집값 급등 이슈화",
+      "summary": "Seoul apartment prices have risen sharply since Lee Jae-myung took office, with a projected 50–70% drop in new apartment supply in 2026 compounding a 'supply cliff' narrative. Opposition critics and civic groups are pressuring the government over affordability, and the issue is beginning to erode DPK support in metropolitan battleground constituencies ahead of the local elections.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.45,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.15,
+      "salience": 0.55,
+      "issue_tag": "housing",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 8일 오늘의 주요 뉴스(개헌 대립부터 서울 아파트 전세 대란 총정리)",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260508-today-news.html"
+        },
+        {
+          "title": "끝없이 오르는 부동산 가격 이재명 정부는 잡을 수 있을까?",
+          "outlet": "경제정의실천시민연합",
+          "url": "https://ccej.or.kr/posts/70te95X"
+        },
+        {
+          "title": "Korea local elections: keeping the housing market stable is critical",
+          "outlet": "ING Think",
+          "url": "https://think.ing.com/articles/korea-outlook-2026-6-questions-for-korea-in-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "US-Korea Tariff Deal Under Parliamentary Scrutiny",
+      "topic_ko": "한미 관세 협상·통상 합의 국회 논란",
+      "summary": "The Lee government's trade framework agreement with the Trump administration, which averted 25% reciprocal tariffs on South Korea, is facing opposition attack over whether the MOU-level deal requires National Assembly ratification; PPP has branded it a 'tariff disaster' lacking proper legislative oversight. Uncertainty has grown further after a US federal trade court ruled Trump's 10% global tariff illegal, clouding the bilateral trade outlook.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.47,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "Lee Jae-myung faces first major test as US tariff deadline looms",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10502380"
+        },
+        {
+          "title": "상호관세 이어 글로벌 관세도 위법 판결…트럼프 관세정책 잇따라 제동",
+          "outlet": "서울신문",
+          "url": "https://seoul.co.kr/news/international/2026/05/08/20260508500013"
+        },
+        {
+          "title": "여야, 한미 협상 '비준' 공방…'비준 사항 아냐' vs '헌법에 명시'",
+          "outlet": "아주경제",
+          "url": "https://www.ajunews.com/view/20260128083416368"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "PPP Rebranding and Structural Collapse",
+      "topic_ko": "국민의힘 당명 변경·당 쇄신 난항",
+      "summary": "The People Power Party, having already voted to change its name earlier in 2026 as part of post-Yoon rehabilitation, continues to struggle with record-low 18% party support, inability to recruit credible local election candidates, and internal fallout from the expulsion of former leader Han Dong-hoon, who is now running as an independent. The rebranding effort has yet to produce a visible polling rebound ahead of June 3.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.38,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "Leadership rift widens in PPP as expulsion of former leader is delayed",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260115/leadership-rift-widens-in-ppp-as-expulsion-of-former-leader-is-delayed"
+        },
+        {
+          "title": "What Happens When a Conservative Movement Continues on Without a Leader?",
+          "outlet": "Carnegie Endowment for International Peace",
+          "url": "https://carnegieendowment.org/emissary/2026/02/south-korea-yoon-conservative-party-ppp-what-next"
+        },
+        {
+          "title": "국민의힘/2026년 – 당명 변경 및 쇄신안 추진",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98/2026%EB%85%84"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
