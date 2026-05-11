@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-10T12:00:00Z",
+  "captured_at": "2026-05-11T12:00:00Z",
   "method": "nesdc_scrape",
-  "method_notes": "Ten head-to-head (양자대결) polls sourced from Korean news outlets (MBC, SBS, CBS, 경향신문, 스트레이트뉴스, 한국일보) covering Dec 2025–May 2026 via Korea Research/MBC, Gallup Korea/세계일보, ResearchView/KPI뉴스, 여론조사꽃, 조원씨앤아이/스트레이트뉴스, KSOI/CBS, and IPSOS/SBS; multi-candidate pre-Dec polls and the March 2026 gap are excluded as no head-to-head data was accessible for those periods; all figures are NESDC-registered per article attribution.",
+  "method_notes": "All series use head-to-head (양자대결) polls only; 7 distinct pollsters across 8 ISO weeks Dec 2025–May 2026, sourced from MBC, KBS, SBS, Munhwa, Herald, StraightNews, and Mindlenews reporting NESDC-filed results. Multi-candidate (다자대결) polls from Nov–Jan (여론조사공정/펜앤마이크 series) are excluded as methodologically incomparable; 여론조사꽃 weeks (2026-03-30, 2026-04-13) are single-pollster and show consistently larger DPK margins than concurrent polls from other firms.",
   "interval": "1w",
   "candidates": [
     {
@@ -19,7 +19,7 @@
           ]
         },
         {
-          "t": "2025-12-22T00:00:00Z",
+          "t": "2025-12-29T00:00:00Z",
           "p": 0.34,
           "n_polls": 1,
           "sources": [
@@ -27,27 +27,29 @@
           ]
         },
         {
-          "t": "2026-01-19T00:00:00Z",
-          "p": 0.453,
-          "n_polls": 1,
-          "sources": [
-            "other-yeoronjosakoch"
-          ]
-        },
-        {
           "t": "2026-02-09T00:00:00Z",
-          "p": 0.4,
-          "n_polls": 1,
+          "p": 0.4067,
+          "n_polls": 3,
           "sources": [
-            "korea-research"
+            "other-kstat",
+            "korea-research",
+            "other-ipsos"
           ]
         },
         {
-          "t": "2026-04-06T00:00:00Z",
+          "t": "2026-03-30T00:00:00Z",
           "p": 0.52,
           "n_polls": 1,
           "sources": [
-            "gallup-korea"
+            "other-kkot"
+          ]
+        },
+        {
+          "t": "2026-04-13T00:00:00Z",
+          "p": 0.552,
+          "n_polls": 1,
+          "sources": [
+            "other-kkot"
           ]
         },
         {
@@ -92,35 +94,37 @@
           ]
         },
         {
-          "t": "2025-12-22T00:00:00Z",
+          "t": "2025-12-29T00:00:00Z",
           "p": 0.36,
           "n_polls": 1,
           "sources": [
             "korea-research"
-          ]
-        },
-        {
-          "t": "2026-01-19T00:00:00Z",
-          "p": 0.321,
-          "n_polls": 1,
-          "sources": [
-            "other-yeoronjosakoch"
           ]
         },
         {
           "t": "2026-02-09T00:00:00Z",
-          "p": 0.36,
-          "n_polls": 1,
+          "p": 0.3433,
+          "n_polls": 3,
           "sources": [
-            "korea-research"
+            "other-kstat",
+            "korea-research",
+            "other-ipsos"
           ]
         },
         {
-          "t": "2026-04-06T00:00:00Z",
-          "p": 0.37,
+          "t": "2026-03-30T00:00:00Z",
+          "p": 0.273,
           "n_polls": 1,
           "sources": [
-            "gallup-korea"
+            "other-kkot"
+          ]
+        },
+        {
+          "t": "2026-04-13T00:00:00Z",
+          "p": 0.292,
+          "n_polls": 1,
+          "sources": [
+            "other-kkot"
           ]
         },
         {
