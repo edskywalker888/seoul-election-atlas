@@ -176,7 +176,7 @@ export function SalienceScorechart({ view }: Props) {
 
   return (
     <div>
-      <div className="flex flex-wrap items-center gap-x-6 gap-y-1 rounded-md border border-neutral-200 bg-white px-4 py-3 text-xs">
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-1.5 rounded-md border border-neutral-200 bg-white px-4 py-3 text-xs sm:gap-x-6 sm:gap-y-1">
         <div>
           <span className="uppercase tracking-wide text-neutral-600">
             Last capture
@@ -219,7 +219,12 @@ export function SalienceScorechart({ view }: Props) {
         ) : null}
       </div>
 
-      <div className="mt-3 overflow-hidden rounded-md border border-neutral-200 bg-white">
+      {/* Desktop: dense table with all six columns visible. Hidden below sm
+          (640px) because the Summary column alone needs ~30ch to be readable
+          and the Sentiment column is two rows tall — together they crush the
+          layout on a phone. The mobile branch below renders the same data as
+          stacked cards instead. */}
+      <div className="mt-3 hidden overflow-hidden rounded-md border border-neutral-200 bg-white sm:block">
         <table className="w-full text-sm">
           <thead className="border-b border-neutral-200 bg-neutral-50 text-left text-xs uppercase tracking-wide text-neutral-600">
             <tr>
@@ -279,6 +284,52 @@ export function SalienceScorechart({ view }: Props) {
           </tbody>
         </table>
       </div>
+
+      {/* Mobile: stacked cards, one per topic. Same data, vertically flowed
+          so summary text can wrap freely and per-party sentiment rows have
+          room. */}
+      <ul className="mt-3 space-y-2 sm:hidden">
+        {ranked.map((t) => (
+          <li
+            key={t.topic_en}
+            className="rounded-md border border-neutral-200 bg-white px-3 py-3 text-sm"
+          >
+            <div className="flex items-baseline justify-between gap-2">
+              <div className="flex items-baseline gap-2">
+                <span className="font-mono text-neutral-900">#{t.rank}</span>
+                <span className="text-xs">
+                  <RankDelta topic={t} />
+                </span>
+              </div>
+              {t.issue_tag ? (
+                <span className="font-mono text-[10px] text-neutral-600">
+                  {t.issue_tag}
+                </span>
+              ) : null}
+            </div>
+            <div className="mt-1 font-medium text-neutral-900" lang="ko">
+              {t.topic_ko}
+            </div>
+            <div className="text-xs text-neutral-600">{t.topic_en}</div>
+            <div className="mt-2">
+              <SalienceBar value={t.salience} />
+            </div>
+            <div className="mt-2 flex flex-col gap-1.5">
+              <PartySentimentRow
+                party="dpk"
+                sentiment={t.sentiment_dpk ?? t.sentiment}
+                score={t.sentiment_score_dpk ?? t.sentiment_score}
+              />
+              <PartySentimentRow
+                party="ppp"
+                sentiment={t.sentiment_ppp}
+                score={t.sentiment_score_ppp}
+              />
+            </div>
+            <p className="mt-2 text-xs text-neutral-700">{t.summary}</p>
+          </li>
+        ))}
+      </ul>
 
       {dropped.length > 0 ? (
         <div className="mt-3 rounded-md border border-neutral-200 bg-white p-4">
