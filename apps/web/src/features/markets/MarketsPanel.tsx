@@ -198,6 +198,136 @@ function MarketCard({
   );
 }
 
+// Match candidates across Polymarket and Kalshi by canonical Korean name
+// (English fallback), then surface the per-candidate price gap. Gives a
+// quick read on which contracts the two venues disagree on most — the
+// raw input to any cross-venue arb thesis.
+function CrossVenueGaps({
+  polymarket,
+  kalshi,
+  parties,
+}: {
+  polymarket: MarketSnapshot;
+  kalshi: MarketSnapshot;
+  parties: Record<string, Party>;
+}) {
+  const kalshiByKey = new Map<string, MarketCandidate>();
+  for (const c of kalshi.candidates) {
+    kalshiByKey.set(c.name_ko ?? c.name, c);
+    kalshiByKey.set(c.name, c);
+  }
+
+  const pairs = polymarket.candidates
+    .map((p) => {
+      const k =
+        kalshiByKey.get(p.name_ko ?? p.name) ?? kalshiByKey.get(p.name);
+      if (!k) return null;
+      return {
+        name: p.name,
+        name_ko: p.name_ko,
+        party_id: p.party_id ?? k.party_id,
+        poly: p.prob,
+        kalshi: k.prob,
+        gap: p.prob - k.prob, // signed: + means Polymarket prices higher
+      };
+    })
+    .filter((x): x is NonNullable<typeof x> => x !== null)
+    // Drop sub-0.2pp gaps as noise from rounding / capture timing skew.
+    .filter((x) => Math.abs(x.gap) >= 0.002)
+    .sort((a, b) => Math.abs(b.gap) - Math.abs(a.gap));
+
+  if (pairs.length === 0) return null;
+
+  return (
+    <section className="mt-4 rounded-md border border-neutral-200 bg-white p-4">
+      <header>
+        <h3 className="text-sm font-medium uppercase tracking-wide text-neutral-900">
+          Cross-venue pricing gaps
+        </h3>
+        <p className="mt-1 text-xs text-neutral-700">
+          Per-candidate difference in implied win probability between
+          Polymarket and Kalshi for the same outcome. Larger gaps =
+          more disagreement on the same underlying event.
+        </p>
+      </header>
+      <div className="mt-3 overflow-x-auto">
+        <table className="w-full min-w-[320px] text-sm">
+          <thead className="border-b border-neutral-200 text-left text-xs uppercase tracking-wide text-neutral-600">
+            <tr>
+              <th className="py-2 pr-2 font-medium">Candidate</th>
+              <th className="px-2 py-2 text-right font-medium">Polymarket</th>
+              <th className="px-2 py-2 text-right font-medium">Kalshi</th>
+              <th className="py-2 pl-2 text-right font-medium">Gap</th>
+            </tr>
+          </thead>
+          <tbody>
+            {pairs.map((p) => {
+              const color = partyColor(p.party_id, parties);
+              const partyLabel = p.party_id
+                ? parties[p.party_id]?.display_name_en ?? p.party_id
+                : null;
+              return (
+                <tr
+                  key={p.name_ko ?? p.name}
+                  className="border-b border-neutral-100 last:border-0"
+                >
+                  <td className="py-2 pr-2">
+                    <div className="flex items-baseline gap-2">
+                      <span
+                        className="inline-block h-2 w-2 shrink-0 rounded-full"
+                        style={{ backgroundColor: color }}
+                        aria-hidden="true"
+                      />
+                      <span
+                        className="font-medium text-neutral-900"
+                        lang="ko"
+                      >
+                        {p.name_ko ?? p.name}
+                      </span>
+                      {p.name_ko ? (
+                        <span className="hidden text-xs text-neutral-600 sm:inline">
+                          {p.name}
+                        </span>
+                      ) : null}
+                      {partyLabel ? (
+                        <span className="hidden text-[10px] uppercase tracking-wide text-neutral-500 sm:inline">
+                          {partyLabel}
+                        </span>
+                      ) : null}
+                    </div>
+                  </td>
+                  <td className="px-2 py-2 text-right font-mono tabular-nums text-neutral-800">
+                    {(p.poly * 100).toFixed(1)}%
+                  </td>
+                  <td className="px-2 py-2 text-right font-mono tabular-nums text-neutral-800">
+                    {(p.kalshi * 100).toFixed(1)}%
+                  </td>
+                  <td
+                    className={`py-2 pl-2 text-right font-mono font-medium tabular-nums ${
+                      p.gap >= 0 ? "text-blue-700" : "text-red-700"
+                    }`}
+                  >
+                    {p.gap >= 0 ? "+" : ""}
+                    {(p.gap * 100).toFixed(1)}pp
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      <p className="mt-3 text-xs text-neutral-600">
+        Positive (blue): Polymarket prices the candidate higher. Negative
+        (red): Kalshi prices higher. Strict arb would short the higher venue
+        and long the lower one — but {pairs.length === 1 ? "this gap" : "these gaps"}{" "}
+        usually compress once fees, capital lockup, and venue access
+        restrictions (Polymarket: no-US; Kalshi: US-only) are accounted for.
+        Gaps under 0.2pp omitted as capture-timing noise.
+      </p>
+    </section>
+  );
+}
+
 interface Props {
   view: MarketEventView;
   parties: Record<string, Party>;
@@ -271,6 +401,14 @@ export function MarketsPanel({ view, parties, polls }: Props) {
           />
         ) : null}
       </div>
+
+      {polymarket && kalshi ? (
+        <CrossVenueGaps
+          polymarket={polymarket}
+          kalshi={kalshi}
+          parties={parties}
+        />
+      ) : null}
     </section>
   );
 }
