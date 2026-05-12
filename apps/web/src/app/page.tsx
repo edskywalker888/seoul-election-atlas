@@ -48,9 +48,9 @@ export default async function Home() {
   const featuredYear = featuredElection?.date.slice(0, 4) ?? "2024";
 
   return (
-    <main className="mx-auto max-w-6xl px-6 py-10">
+    <main className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
       <header>
-        <h1 className="text-3xl font-semibold tracking-tight text-neutral-900">
+        <h1 className="text-2xl font-semibold tracking-tight text-neutral-900 sm:text-3xl">
           Seoul Election Atlas
         </h1>
         <p className="mt-2 text-sm text-neutral-700">
@@ -60,10 +60,10 @@ export default async function Home() {
       </header>
 
       {marketsView.polymarket || marketsView.kalshi ? (
-        <section className="mt-8" aria-label="Live prediction markets">
+        <section className="mt-6 sm:mt-8" aria-label="Live prediction markets">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <div>
-              <h2 className="text-2xl font-semibold tracking-tight text-neutral-900">
+              <h2 className="text-xl font-semibold tracking-tight text-neutral-900 sm:text-2xl">
                 Live prediction markets — Seoul Mayor 2026
               </h2>
               <p className="mt-1 text-sm text-neutral-700">
@@ -101,7 +101,7 @@ export default async function Home() {
       ) : null}
 
       {featuredElection && featuredBoundary ? (
-        <section className="mt-12" aria-label="Seoul district map">
+        <section className="mt-8 sm:mt-12" aria-label="Seoul district map">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <div>
               <h2 className="text-xl font-medium tracking-tight text-neutral-900">
@@ -133,7 +133,7 @@ export default async function Home() {
       ) : null}
 
       {salienceView ? (
-        <section className="mt-12" aria-label="Salience tracker">
+        <section className="mt-8 sm:mt-12" aria-label="Salience tracker">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <div>
               <h2 className="text-xl font-medium tracking-tight text-neutral-900">
@@ -155,7 +155,7 @@ export default async function Home() {
         </section>
       ) : null}
 
-      <section className="mt-12" aria-label="All elections">
+      <section className="mt-8 sm:mt-12" aria-label="All elections">
         <h2 className="text-xl font-medium tracking-tight text-neutral-900">
           All elections
         </h2>

@@ -44,7 +44,7 @@ export function UpcomingElectionsBar({ elections }: Props) {
       aria-label="Upcoming Korean elections"
       className="border-b border-neutral-200 bg-white"
     >
-      <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-5 gap-y-1 px-6 py-2 text-xs">
+      <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-3 gap-y-1 px-4 py-2 text-xs sm:gap-x-5 sm:px-6">
         <span className="font-medium uppercase tracking-wide text-neutral-600">
           Upcoming
         </span>
@@ -66,10 +66,13 @@ export function UpcomingElectionsBar({ elections }: Props) {
               D-{e.daysUntil}
             </span>
             <span className="text-neutral-700">{TYPE_LABEL[e.type]}</span>
-            <span className="text-neutral-600">·</span>
-            <span className="text-neutral-600">{e.date}</span>
+            {/* Date + estimated marker hidden on mobile so each chip stays
+                a tight "dot D-N type" line. Long-press still surfaces the
+                full date via title attr. */}
+            <span className="hidden text-neutral-600 sm:inline">·</span>
+            <span className="hidden text-neutral-600 sm:inline">{e.date}</span>
             {e.estimated ? (
-              <span className="text-neutral-500">(est.)</span>
+              <span className="hidden text-neutral-500 sm:inline">(est.)</span>
             ) : null}
           </span>
         ))}
