@@ -1,0 +1,254 @@
+{
+  "captured_at": "2026-05-13T03:56:04.056Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.fnnews.com/news/202605081713412007",
+    "https://www.fnnews.com/news/202605081224221282",
+    "https://www.goodkyung.com/news/articleView.html?idxno=286772",
+    "https://imnews.imbc.com/news/2026/society/article/6801803_36918.html",
+    "https://www.fnnews.com/news/202604270500244450",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://www.khan.co.kr/article/202604302056015/",
+    "https://www.etoday.co.kr/news/view/2582883",
+    "https://www.fnnews.com/news/202605081125484544",
+    "https://www.pennmike.com/news/articleView.html?idxno=120295",
+    "https://busanmbc.co.kr/01_new/new01_view.asp?idx=285019",
+    "https://www.asiae.co.kr/article/2026050414565920153",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260512010003115",
+    "https://www.newspim.com/news/view/20260512001327",
+    "https://biz.heraldcorp.com/article/10736479",
+    "https://www.mt.co.kr/economy/2026/05/12/2026051115214375594",
+    "https://news.nate.com/view/20260511n15981",
+    "https://www.mt.co.kr/politics/2026/05/13/2026051215304428436",
+    "https://www.fnnews.com/news/202605130500499137",
+    "https://www.newspim.com/news/view/20260512001142",
+    "https://www.ytn.co.kr/_ln/0101_202605080056499201",
+    "https://www.newspim.com/news/view/20260511000064"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Constitutional Amendment Vote Fails in National Assembly",
+      "topic_ko": "개헌안 부결·무산",
+      "summary": "The DPK-led constitutional amendment bill — which would have embedded anti-martial-law provisions and triggered a simultaneous June 3 national referendum — collapsed on May 7–8 when the PPP boycotted the plenary vote, preventing the supermajority quorum. National Assembly Speaker Wu Won-sik declared the process dead and voiced sharp criticism of the PPP's filibuster threat, with minority parties blaming the PPP for blocking democratic reform.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.45,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.92,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "6·3 지선 개헌 동시 투표 무산…우원식 '국힘에 강력 유감', 눈물 훔치기도(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605081713412007"
+        },
+        {
+          "title": "국민의힘, 개헌안 필리버스터 예고..'투표불성립은 부결'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605081224221282"
+        },
+        {
+          "title": "6·3 지방선거 때 개헌안 투표 무산…국힘, 필버 예고에 재상정 불발",
+          "outlet": "굿모닝경제",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=286772"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Suk-yeol Insurrection Trial Proceeds to Appeal",
+      "topic_ko": "윤석열 내란 재판·항소심 진행",
+      "summary": "Yoon Suk-yeol, who received a life sentence (무기징역) at first instance for the December 3 insurrection, began his appeal proceedings on April 27; separately, his arrest-obstruction sentence was raised to 7 years on appeal on April 29. The insurrection special counsel's main trial sentencing is scheduled for May 28, keeping the story in daily headlines.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.78,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "법원 '내란 우두머리' 윤석열 1심 무기징역 선고",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6801803_36918.html"
+        },
+        {
+          "title": "尹 '내란 우두머리' 2심 오늘 시작…1심 '무기징역' 선고 67일만",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604270500244450"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Lee Jae-myung Prosecution Dismissal Special Counsel Bill",
+      "topic_ko": "이재명 공소취소 특검법 논란",
+      "summary": "The DPK introduced a 'fabricated prosecution' special counsel bill that critics say would effectively allow dismissal of all criminal charges against President Lee Jae-myung; the PPP and some opposition parties called it an unconstitutional self-pardon scheme. Facing public backlash and internal dissent from DPK legislators in competitive regions, party leadership delayed processing the bill until after the June 3 elections.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.52,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.2,
+      "salience": 0.82,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "민주당 주도 '조작기소' 특검법 발의, 이 대통령 사건에 '공소취소권' 부여",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604302056015/"
+        },
+        {
+          "title": "與 조작기소 특검법 수정론 확산…野 총공세 박차",
+          "outlet": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2582883"
+        },
+        {
+          "title": "與, 개헌안 내세워 '내란 청산' 공세… 野, 공소취소 특검법 강공 맞불",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605081125484544"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "June 3 Local Elections Campaign and Polling",
+      "topic_ko": "6·3 지방선거 판세·후보 경쟁",
+      "summary": "With three weeks until the June 3 nationwide local elections and by-elections, party support polls show DPK at ~44% versus PPP at ~37%, a narrowing gap. The Busan Bukgu-gap by-election — a three-way race between DPK's Ha Jung-woo, independent Han Dong-hoon (former PPP leader), and PPP's Park Min-sik — is drawing national attention as a referendum on opposition cohesion.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.42,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.25,
+      "salience": 0.78,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "[6.3 지방선거 여론조사] 민주당 44%·국민의힘 37%…양당 격차 7%",
+          "outlet": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=120295"
+        },
+        {
+          "title": "북구갑, 하정우 34.3%·한동훈 33.5%·박민식 21.5% 2026-05",
+          "outlet": "부산MBC",
+          "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=285019"
+        },
+        {
+          "title": "한동훈, 북구갑 재보궐 예비후보 등록…'선거 승리로 보수 재건'",
+          "outlet": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026050414565920153"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "US-China Trade Envoys Visit Seoul Ahead of Summit",
+      "topic_ko": "미중 외교 조율·베센트·허리펑 방한",
+      "summary": "On May 13, President Lee held back-to-back meetings with US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng, both in Seoul to coordinate ahead of a US-China summit. Coverage frames the visits as recognition of Korea's diplomatic role as a bridge between the two powers, with tariff negotiations and the $350 billion Korean-US investment package also on the agenda.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.7,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "李, 13일 美베센트·中허리펑 접견…미중회담 앞두고 정세 논의",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260512010003115"
+        },
+        {
+          "title": "李대통령, 오늘 美 베센트·中 허리펑 면담…경제·통상·국제 정세 논의",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260512001327"
+        },
+        {
+          "title": "靑 '李대통령, 13일 스콧 베센트 美 재무장관 접견'",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10736479"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Korea-US Tariff Talks and Investment Package Progress",
+      "topic_ko": "한미 관세협상·대미투자 추진",
+      "summary": "The Korean government is advancing the $350 billion US investment framework from the Lee-Trump summit, with Industry Minister Kim Jeong-gwan returning from Washington after signing a shipbuilding partnership MOU. Key projects in shipbuilding (MASGA), LNG, and nuclear energy are being finalized before the US Investment Special Act takes effect in June, while questions persist over the scale and feasibility of the cash commitment.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.18,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": -0.1,
+      "salience": 0.58,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "흔들리는 트럼프 관세 전략…500조 대미 투자 이대로 GO?",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/05/12/2026051115214375594"
+        },
+        {
+          "title": "구체화 돼가는 대미투자 프로젝트…美 관세압박 벗어날까",
+          "outlet": "네이트뉴스",
+          "url": "https://news.nate.com/view/20260511n15981"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "National Assembly Speaker Election Three-Way DPK Race",
+      "topic_ko": "국회 후반기 의장 선출 경선",
+      "summary": "The DPK held an internal caucus vote on May 13 to select its candidate for the second-half National Assembly Speaker, with a three-way contest among Park Ji-won, Jo Jeong-sik, and Kim Tae-nyeon. The winner will be formally elected by the full plenary session on May 20, determining the direction of Assembly leadership for the remainder of the 22nd National Assembly term.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.47,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "조정식·박지원·김태년…차기 국회의장, 오늘 결정된다",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/13/2026051215304428436"
+        },
+        {
+          "title": "與, 차기 국회의장 후보 선출…박지원·조정식·김태년 대결",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605130500499137"
+        },
+        {
+          "title": "민주, 오늘 국회의장 후보자 선출 의총 개최…조정식·김태년·박지원 3파전",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260512001142"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "President Lee Approval Ratings Show Gradual Decline",
+      "topic_ko": "이재명 대통령 국정 지지율 동향",
+      "summary": "Polls released in early May show President Lee Jae-myung's approval rating ranging from 59.7% (Realmeter) to 67% (NBS), with DPK party support at 44–46%. The numbers reflect a mild downward trajectory over several weeks, attributed by analysts to controversies including the prosecution dismissal bill and broader political turbulence, though the rating stabilized slightly in the most recent survey.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.38,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "[정치]이 대통령 지지율 67%...민주 46%·국민의힘 18% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        },
+        {
+          "title": "李대통령 지지율 59.7%…3주 만에 하락세 멈춤 [리얼미터]",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260511000064"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
