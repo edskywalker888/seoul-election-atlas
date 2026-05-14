@@ -1,0 +1,265 @@
+{
+  "captured_at": "2026-05-14T03:55:22.024Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://issue.daum.net/election/2026",
+    "https://www.pennmike.com/news/articleView.html?idxno=120295",
+    "https://www.newspim.com/news/view/20260514000029",
+    "https://segye.com/newsView/20260513515701",
+    "https://www.pressian.com/pages/articles/2026051315295492677",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260514010003554",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://www.fnnews.com/news/202512311906500786",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html",
+    "https://www.fnnews.com/news/202604302228109417",
+    "https://www.mt.co.kr/politics/2026/05/04/2026050320015389599",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0",
+    "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88",
+    "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747",
+    "https://www.ytn.co.kr/_ln/0101_202605080056499201",
+    "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html",
+    "https://www.newdaily.co.kr/site/data/html/2026/05/12/2026051200150.html",
+    "https://www.fnnews.com/news/202605121207035528",
+    "https://www.seoul.co.kr/news/society/accident/2026/05/07/20260507010001",
+    "https://news.daum.net/north",
+    "https://www.cliktoday.com/2026/05/20260513-today-news.html",
+    "https://www.fki.or.kr/webzine/K05/sub_20.html"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Campaign Heats Up",
+      "topic_ko": "6·3 지방선거 선거전 본격화",
+      "summary": "With 20 days until the June 3 local elections, the DPK leads in Seoul and Busan while the PPP is competitive in Daegu and Gyeongnam. Party-support polls show DPK at 44–46% versus PPP at 18–37% depending on the pollster, and candidate registration officially opened this week.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.4,
+      "salience": 0.95,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "대구·경남은 접전, 서울·부산은 민주당 우위… 국정 지지율은 소폭 하락[여론조사 '경향']",
+          "outlet": "경향신문",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "[6.3 지방선거 여론조사] 민주당 44%·국민의힘 37%…양당 격차 7%",
+          "outlet": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=120295"
+        },
+        {
+          "title": "[오늘의 정치일정] 5월 14일(목)",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260514000029"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "PPP Election Committee Launch Fractures Internally",
+      "topic_ko": "국민의힘 선대위 출범 내홍",
+      "summary": "The PPP officially launched its central election committee on May 13 under chairman Jang Dong-hyeok, but the launch immediately exposed internal fractures: key senior figures refused to join, Youth Supreme Council member Woo Jae-jun publicly complained he was not consulted, and regional candidates have been demanding Jang step back.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.85,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "원팀 외쳤는데… 국힘 선대위 출발부터 삐걱 [6·3 지방선거]",
+          "outlet": "세계일보",
+          "url": "https://segye.com/newsView/20260513515701"
+        },
+        {
+          "title": "국민의힘 선대위, 결국 장동혁이 전면에…당내 반발 계속",
+          "outlet": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026051315295492677"
+        },
+        {
+          "title": "닻 올린 장동혁 원톱 선대위… '중앙이슈·지역현안' 이원화",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260514010003554"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Insurrection Trial First-Instance Sentencing",
+      "topic_ko": "윤석열 내란 1심 선고 임박",
+      "summary": "The first-instance verdict in Yoon Seok-yeol's insurrection trial is scheduled for May 28. The special prosecutor has signaled it will appeal, and a separate arrest-obstruction appellate ruling already increased his sentence to 7 years, keeping the legal proceedings at the center of political discourse ahead of the local elections.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.82,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 내란 재판/전개 – 선고기일 (2026년 5월 28일)",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "특검 끝나고 법원의 시간… 윤석열·김건희 이달 1심 선고",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202512311906500786"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "DPK Pushes 'Fabricated Prosecution' Special Prosecutor Bill",
+      "topic_ko": "조작기소 특검법 추진 논란",
+      "summary": "The DPK filed a special prosecutor bill targeting alleged fabricated prosecutions under the Yoon government, controversially granting the special prosecutor power to withdraw existing public indictments—including cases against President Lee Jae-myung. The PPP is framing this as a 'self-acquittal law' and pledging to block it, making it a central flashpoint in the pre-election legislative calendar.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.25,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.3,
+      "salience": 0.75,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "민주당 '조작기소 바로잡을 특검 필요' vs 국민의힘 '셀프 면죄부'",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html"
+        },
+        {
+          "title": "與, '공소취소권 부여' 조작기소 특검법 발의…野 '셀프면죄'(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604302228109417"
+        },
+        {
+          "title": "지방선거 앞 '조작기소 특검법' 추진… 6·3 '표심' 변수 되나",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/04/2026050320015389599"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Constitutional Amendment Referendum Collapses",
+      "topic_ko": "개헌 국민투표 무산",
+      "summary": "A cross-party constitutional amendment proposal—focused on strengthening parliamentary control over martial law and enshrining the May 18 spirit—collapsed after the PPP boycotted the National Assembly vote. Speaker Woo Won-sik declared on May 8 he would not re-table the bill, ending hopes for a simultaneous referendum on June 3, despite polls showing 59% public support for the joint vote.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.65,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "87년 체제 종식 헌법 개정안 국민의힘 보이콧에 '무산'",
+          "outlet": "위키백과 인용 (연합뉴스)",
+          "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0"
+        },
+        {
+          "title": "제10차 개헌/제22대 국회 개헌안 – 표결 불성립 및 재상정 불가 선언",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88"
+        },
+        {
+          "title": "'개헌 필요' 58%…'지방선거 동시 국민투표' 59% 찬성 [NBS]",
+          "outlet": "NBS 여론조사 (머니투데이)",
+          "url": "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Jae-myung Approval Rating Edges Lower",
+      "topic_ko": "이재명 대통령 지지율 소폭 하락",
+      "summary": "President Lee Jae-myung's approval rating dipped slightly to 64–67% in early May polls (down 2–3 pp from recent highs), with welfare spending and fiscal concerns cited as emerging criticisms. The DPK retains a commanding party-support lead of 46% versus the PPP's 18–21%, but the softening trend is being watched closely ahead of the June 3 vote.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.35,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.55,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "[정치]이 대통령 지지율 67%...민주 46%·국민의힘 18% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        },
+        {
+          "title": "이재명 대통령 지지율 64%‥민주당 46%·국민의힘 21%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6819388_36911.html"
+        },
+        {
+          "title": "이재명 대통령 지지율 67%…민주당 2%p↓·국민의힘 3%p↑",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Comprehensive Special Prosecutor Expands Kim Geon-hee Probe",
+      "topic_ko": "종합특검 관저이전 특혜 의혹 수사 확대",
+      "summary": "The second Comprehensive Special Prosecutor team raided the Public Procurement Service on May 12, expanding its probe into alleged preferential contracting for presidential residence renovation work linked to former First Lady Kim Geon-hee's acquaintance. Separately, Kim Geon-hee's stock manipulation case reached the Supreme Court after both sides appealed the appellate ruling.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.45,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "종합특검, '관저 이전 특혜' 의혹 수사 확대 … 조달청 압수수색",
+          "outlet": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/05/12/2026051200150.html"
+        },
+        {
+          "title": "특검, '관저 이전 의혹' 조달청 등 압수수색…공사계약 자료 확보(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605121207035528"
+        },
+        {
+          "title": "'김건희 유죄' 항소심 판사 숨진 채 발견",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/accident/2026/05/07/20260507010001"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "North Korea Hostility and US-Korea Trade Tensions",
+      "topic_ko": "북한 적대 행보 및 한미 통상 외교",
+      "summary": "North Korea maintained its hostile posture toward Seoul—Kim Yo-jong declared 'no reason to meet Japan,' while Pyongyang showed no signs of inter-Korean engagement. Simultaneously, Korea's Lee government is managing ongoing US tariff pressure (Trump threatened a hike to 25%) and navigating US-China summit dynamics, with semiconductor exports up 43.7% year-on-year providing some economic buffer.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.35,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "미국엔 신중, 한국엔 '무조건적 분노'…노선 전환 없는 北의 평행선 외교",
+          "outlet": "뉴스1",
+          "url": "https://news.daum.net/north"
+        },
+        {
+          "title": "2026년 5월 13일 오늘의 주요 뉴스(삼성전자 노조 협상 결렬 및 반도체 수출 급증과 미중 경제 외교)",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260513-today-news.html"
+        },
+        {
+          "title": "한미 관세 협상 합의",
+          "outlet": "전국경제인연합회",
+          "url": "https://www.fki.or.kr/webzine/K05/sub_20.html"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
