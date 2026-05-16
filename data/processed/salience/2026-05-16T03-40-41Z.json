@@ -1,0 +1,257 @@
+{
+  "captured_at": "2026-05-16T03:40:41.254Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.news1.kr/politics/assembly/6164622",
+    "https://www.seoul.co.kr/news/politics/2026/05/14/20260514500113",
+    "https://issue.daum.net/election/2026",
+    "https://news.tf.co.kr/read/life/2319701.htm",
+    "https://www.fnnews.com/news/202605011315538052",
+    "https://www.newspim.com/news/view/20260513000947",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://www.ilyo.co.kr/?ac=article_view&entry_id=510785",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0",
+    "https://www.ytn.co.kr/_ln/0101_202605080056499201",
+    "https://weekly.khan.co.kr/article/202605151648001/",
+    "https://biz.heraldcorp.com/article/10660454",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747",
+    "https://www.ceomagazine.co.kr/ko-kr/articles/34738",
+    "https://homedubu.com/7878/",
+    "https://v.daum.net/v/Fr6RvfYcSY?f=p",
+    "https://www.minplusnews.com/news/articleView.html?idxno=16986",
+    "https://www.cliktoday.com/2026/05/20260513-today-news.html"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Stretch",
+      "topic_ko": "6·3 지방선거 막판 전초전",
+      "summary": "With less than 20 days until the June 3 nationwide local elections, candidates officially registered on May 14. DPK holds a commanding lead in party support (45–50% vs. PPP's 18–23%), though the gap has narrowed by roughly 4 percentage points over four weeks. Key battleground races include Daegu mayor (DPK's Kim Bu-gyeom 44% vs. PPP's Choo Kyung-ho 41%), Busan, and South Gyeongnam.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.95,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "대구 김부겸 44% vs 추경호 41%…한 달 전 17%p 격차서 3%p 차로 좁혀져",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6164622"
+        },
+        {
+          "title": "김부겸 '외연 확장' vs 추경호 '정권 심판'…대구시장 선거 본격 개막",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/2026/05/14/20260514500113"
+        },
+        {
+          "title": "느릿느릿 '2주새 3%P' 좁혀진 지지율 격차… 국힘 '애간장' 민주 '긴장'",
+          "outlet": "다음 이슈 (SBS)",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Lee's Prosecution Cancellation Special Counsel Bill",
+      "topic_ko": "이재명 공소취소 특검법 논란",
+      "summary": "The DPK tabled the '조작기소 의혹 특검법' in late April, a bill critics say would effectively allow a new special prosecutor to drop the ongoing criminal charges against President Lee Jae-myung himself. The PPP named its entire local election campaign committee after opposing the bill, while the legal community widely condemned the measure as unconstitutional.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.55,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.2,
+      "salience": 0.85,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "'이 대통령 공소취소' 특검 논란…법조계 '당연히 위헌·위법'",
+          "outlet": "더팩트",
+          "url": "https://news.tf.co.kr/read/life/2319701.htm"
+        },
+        {
+          "title": "국힘 '與 공소취소 특검, 국민 배신이자 날강도 짓…표로 심판해야'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605011315538052"
+        },
+        {
+          "title": "[6·3 지선] 국민의힘, '공소취소 저지 선대위' 출범…'李 독재·폭주 심판'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260513000947"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Insurrection Trial Verdict Imminent",
+      "topic_ko": "윤석열 내란 재판 선고 임박",
+      "summary": "The court has scheduled Yoon Suk-yeol's insurrection verdict for May 28, just days before the local elections. Yoon was already sentenced to 7 years in April at the appellate level for obstructing his own arrest, and the special prosecutor has filed additional charges. The PPP has officially refused to take any leadership-level position on the expected verdict.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.8,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 내란 재판/전개 – 선고기일 2026년 5월 28일",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "국민의힘 원내대변인 논평 '선고 결과 앞으로의 재판 진행에 관해 지도부가 낼 입장은 없다'",
+          "outlet": "나무위키 (국민의힘 반응)",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Constitutional Amendment Referendum Collapse",
+      "topic_ko": "개헌 국민투표 동시 실시 무산",
+      "summary": "The DPK and six other parties had pushed to hold a constitutional amendment referendum simultaneously with the June 3 local elections, but the PPP boycotted the National Assembly vote on May 8, causing the effort to fail. Polls showed 59% of the public supported holding the referendum alongside the local elections, making the PPP's obstruction a campaign liability.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 0.72,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "혹시나 했는데 역시나…6·3 지방선거 동시 개헌 국민투표 무산 여파는?",
+          "outlet": "일요신문",
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=510785"
+        },
+        {
+          "title": "87년 체제 종식 헌법 개정안 국민의힘 보이콧에 '무산'",
+          "outlet": "위키백과 인용 (연합뉴스)",
+          "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0"
+        },
+        {
+          "title": "개헌안 국민투표 지방선거와 동시 실시 찬성 59%…반대 27% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Kim Keon-hee Trial Sentencing Demand",
+      "topic_ko": "김건희 재판 징역 7년 6개월 구형",
+      "summary": "On May 15, the special prosecutor demanded a 7-year-6-month prison sentence for former first lady Kim Keon-hee on charges including abuse of power and nepotism ('매관매직'). The trial continues as the special counsel team shifts from investigation to prosecution-support mode following completion of its main inquiry.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.62,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "특검, '매관매직' 김건희에 징역 7년 6개월 구형",
+          "outlet": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202605151648001/"
+        },
+        {
+          "title": "수사 마친 김건희 특검, 반 년간 68억 더 쓴다",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10660454"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Jae-myung Approval Hits New High",
+      "topic_ko": "이재명 대통령 지지율 역대 최고치",
+      "summary": "Multiple polls in the week of May 13–17 show President Lee Jae-myung's approval at 65–67%, with one Realmeter survey recording a post-inauguration high of 65.5%. Analysts attribute the rise to energy-security achievements and a recovering KOSPI. DPK party support reached 50.5% while PPP sat at 23% or below depending on the pollster.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.7,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.3,
+      "salience": 0.55,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "[정치] 이 대통령 지지율 67%...민주 46%·국민의힘 18% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        },
+        {
+          "title": "이재명 대통령 지지율 67%…민주당 2%p↓·국민의힘 3%p↑",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Housing Policy and Capital Gains Tax Revival",
+      "topic_ko": "다주택자 양도세 중과 부활 및 부동산 논란",
+      "summary": "The government's deferral of the capital gains surcharge on multi-home owners expired on May 9, reinstating a maximum effective tax rate of up to 82.5%. The PPP and critics warn of market distortions, while the Lee administration couples the measure with a 135-million-unit supply plan and the '5극 3특' regional rebalancing initiative aimed at reducing Seoul-centric demand.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.45,
+      "issue_tag": "housing",
+      "evidence_headlines": [
+        {
+          "title": "[창간특집] 2026 부동산 대진단 – 다주택자 양도세 중과 유예 종료 초읽기",
+          "outlet": "CEO매거진",
+          "url": "https://www.ceomagazine.co.kr/ko-kr/articles/34738"
+        },
+        {
+          "title": "이재명 정부 부동산 정책 분석: 장특공제 폐지 파장과 2026 전망",
+          "outlet": "homedubu.com",
+          "url": "https://homedubu.com/7878/"
+        },
+        {
+          "title": "보유세 인상·장특공제 폐지 등 이재명식 부동산 정책 비판",
+          "outlet": "뉴스핌 (장동혁 발언)",
+          "url": "https://www.newspim.com/news/view/20260513000947"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "US Defense Cost Demands and Korea-US-China Diplomacy",
+      "topic_ko": "미국 방위비 증액 압박 및 한미중 외교",
+      "summary": "Washington has pressed Seoul for a roughly 50% increase in defense spending and a near-doubling of the troop-stationing cost-sharing payment, framing demands in part around deterring China. The Lee government is pursuing 'strategic autonomy,' having also agreed to a $330-billion support package for the US; progressive parties have criticized the deal as capitulation.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.35,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "韓국방비 50% 증액···美청구서 나왔다",
+          "outlet": "다음(원문 매체)",
+          "url": "https://v.daum.net/v/Fr6RvfYcSY?f=p"
+        },
+        {
+          "title": "팩트시트, 트럼프가 그린 한국의 대미 종속 로드맵",
+          "outlet": "민플러스",
+          "url": "https://www.minplusnews.com/news/articleView.html?idxno=16986"
+        },
+        {
+          "title": "2026년 5월 13일 오늘의 주요 뉴스 – 반도체 수출 43.7% 급증과 미중 경제 외교",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260513-today-news.html"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
