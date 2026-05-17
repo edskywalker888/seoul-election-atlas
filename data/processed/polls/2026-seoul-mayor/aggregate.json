@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-16T03:55:00Z",
+  "captured_at": "2026-05-17T04:14:07Z",
   "method": "nesdc_scrape",
-  "method_notes": "Covers 6 weekly ISO buckets from 2025-W52 through 2026-W20 using head-to-head (양자대결) and near-binary polls; multi-candidate (다자대결) polls from Dec 8–22 2025 excluded as non-comparable. No head-to-head polls found for Jan 2026 or Mar 2026 (series gaps). The 2026-05-04 and 2026-05-11 buckets mix some multi-candidate polls (Gallup Korea, 여론조사공정, 여론조사꽃) with head-to-head polls; undecided/no-answer categories excluded from reported p values. Sources: MBC/Korea Research (3 polls), StraightNews/WonC&I (2 polls), CBS/KSOI (2 polls), 뉴스1/Gallup Korea (1 poll), SBS/IPSOS (1 poll), 여론조사꽃 (1 poll), PennMike/여론조사공정 (1 poll).",
+  "method_notes": "Seven weekly buckets from 2025-W53 (Dec 29) through 2026-W20 (May 11) drawn from 14 confirmed head-to-head (양자대결) polls filed with or reported under NESDC guidelines; sources include Korea Research (MBC/KBS), IPSOS (SBS), Research&Research (Donga-ilbo), JwonCnI (StraightNews), KSOI (CBS), Gallup Korea (News1), and 여론조사공정 (PennMike). Multi-candidate (다자대결) polls from Nov–Dec 2025 were excluded as incomparable with head-to-head data; Donga 신년 poll bucket (2025-12-29) uses approximate fieldwork dates (~Dec 29–31). Gaps in coverage: Jan 5–Feb 8 and Feb 14–Mar 22.",
   "interval": "1w",
   "candidates": [
     {
@@ -11,27 +11,37 @@
       "party_id": "dpk",
       "series": [
         {
-          "t": "2025-12-22T00:00:00Z",
-          "p": 0.34,
-          "n_polls": 1,
+          "t": "2025-12-29T00:00:00Z",
+          "p": 0.322,
+          "n_polls": 2,
           "sources": [
-            "korea-research"
+            "korea-research",
+            "other-rnr"
           ]
         },
         {
           "t": "2026-02-09T00:00:00Z",
-          "p": 0.4,
+          "p": 0.39,
+          "n_polls": 2,
+          "sources": [
+            "korea-research",
+            "other-ipsos"
+          ]
+        },
+        {
+          "t": "2026-03-23T00:00:00Z",
+          "p": 0.426,
           "n_polls": 1,
           "sources": [
-            "korea-research"
+            "other-rnr"
           ]
         },
         {
           "t": "2026-04-20T00:00:00Z",
-          "p": 0.477,
+          "p": 0.4765,
           "n_polls": 2,
           "sources": [
-            "other-wonc-and-i",
+            "other-jowon",
             "other-ksoi"
           ]
         },
@@ -46,20 +56,20 @@
         },
         {
           "t": "2026-05-04T00:00:00Z",
-          "p": 0.47,
+          "p": 0.4697,
           "n_polls": 3,
           "sources": [
-            "other-wonc-and-i",
             "gallup-korea",
-            "other-yoronsajogong"
+            "other-jowon",
+            "other-yeronjosakong"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.475,
+          "p": 0.4395,
           "n_polls": 2,
           "sources": [
-            "other-yoronsajokot",
+            "korea-research",
             "other-ksoi"
           ]
         }
@@ -71,27 +81,37 @@
       "party_id": "ppp",
       "series": [
         {
-          "t": "2025-12-22T00:00:00Z",
-          "p": 0.36,
-          "n_polls": 1,
+          "t": "2025-12-29T00:00:00Z",
+          "p": 0.3345,
+          "n_polls": 2,
           "sources": [
-            "korea-research"
+            "korea-research",
+            "other-rnr"
           ]
         },
         {
           "t": "2026-02-09T00:00:00Z",
           "p": 0.36,
+          "n_polls": 2,
+          "sources": [
+            "korea-research",
+            "other-ipsos"
+          ]
+        },
+        {
+          "t": "2026-03-23T00:00:00Z",
+          "p": 0.28,
           "n_polls": 1,
           "sources": [
-            "korea-research"
+            "other-rnr"
           ]
         },
         {
           "t": "2026-04-20T00:00:00Z",
-          "p": 0.356,
+          "p": 0.3565,
           "n_polls": 2,
           "sources": [
-            "other-wonc-and-i",
+            "other-jowon",
             "other-ksoi"
           ]
         },
@@ -106,20 +126,20 @@
         },
         {
           "t": "2026-05-04T00:00:00Z",
-          "p": 0.395,
+          "p": 0.3953,
           "n_polls": 3,
           "sources": [
-            "other-wonc-and-i",
             "gallup-korea",
-            "other-yoronsajogong"
+            "other-jowon",
+            "other-yeronjosakong"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.351,
+          "p": 0.359,
           "n_polls": 2,
           "sources": [
-            "other-yoronsajokot",
+            "korea-research",
             "other-ksoi"
           ]
         }

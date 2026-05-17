@@ -1,0 +1,266 @@
+{
+  "captured_at": "2026-05-17T03:59:45.701Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.fnnews.com/news/202605170600428273",
+    "https://seoul.co.kr/news/politics/local-election2026/local-election2026-poll/2026/05/13/20260513500079",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6819326_37012.html",
+    "https://www.edaily.co.kr/News/Read?newsId=07291446645449248&mediaCodeNo=257",
+    "https://imnews.imbc.com/news/2026/society/article/6822793_36918.html",
+    "https://weekly.khan.co.kr/article/202605151648001/",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html",
+    "https://www.fnnews.com/news/202605041435254519",
+    "https://www.fnnews.com/news/202604302228109417",
+    "https://www.ytn.co.kr/_ln/0101_202604260534375317",
+    "https://busanmbc.co.kr/01_new/new01_view.asp?idx=285019",
+    "https://namu.wiki/w/2026%EB%85%84%20%EC%9E%AC%EB%B3%B4%EA%B6%90%EC%84%A0%EA%B1%B0",
+    "https://www.fnnews.com/news/202605131537513150",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6822306_37012.html",
+    "https://www.rfa.org/korean/in-focus/2026/05/14/us-china-summit-2026/",
+    "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html",
+    "https://www.newspim.com/news/view/20260515000530",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003234437&PAGE_CD=N0002&CMPT_CD=M0111",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0",
+    "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88",
+    "https://www.yna.co.kr/view/AKR20260505038400001"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Race Tightening",
+      "topic_ko": "6·3 지방선거 판세 격전",
+      "summary": "With 17 days until the June 3 local elections, polls show DPK leading in Seoul (Jeong Won-o 46% vs. PPP's Oh Se-hun 38%) but margins narrowing sharply in Busan and Daegu to within the margin of error. PPP party approval has risen four consecutive weeks to 23%, while DPK holds 45%.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 1,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "6·3 지선 격전지 여야 격차 줄어…서울·부산·대구 등 판세 주목",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605170600428273"
+        },
+        {
+          "title": "서울 정원오 46%-오세훈 38%…부산·대구는 오차범위 내 접전 [한국갤럽]",
+          "outlet": "서울신문",
+          "url": "https://seoul.co.kr/news/politics/local-election2026/local-election2026-poll/2026/05/13/20260513500079"
+        },
+        {
+          "title": "[MBC여론조사] 정원오 48% VS 오세훈 32%‥\"구청장도 여당을\"",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6819326_37012.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Kim Keon-hee 'Selling Offices' Trial Sentencing",
+      "topic_ko": "김건희 매관매직 혐의 구형·선고",
+      "summary": "On May 15, the special counsel demanded a 7-year-6-month sentence for former first lady Kim Keon-hee on charges of receiving luxury gifts in exchange for public appointment favors; the court set a sentencing date of June 26, just one week before the local elections. Kim apologized in her final statement but denied the most serious allegations.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.8,
+      "salience": 0.88,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "특검, '매관매직' 김건희에 징역 7년 6개월 구형…6월 26일 선고",
+          "outlet": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=07291446645449248&mediaCodeNo=257"
+        },
+        {
+          "title": "특검, '매관매직' 김건희에 징역 7년 6개월 구형‥\"대통령 영향력 거래 수단으로 이용\"",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6822793_36918.html"
+        },
+        {
+          "title": "특검, '매관매직' 김건희에 징역 7년 6개월 구형",
+          "outlet": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202605151648001/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Suk-yeol Insurrection Trials Ongoing",
+      "topic_ko": "윤석열 내란 재판 진행",
+      "summary": "Yoon Suk-yeol was sentenced to life imprisonment for insurrection in February 2026, and received 7 years on an arrest-obstruction appeal in late April; a further insurrection-related sentencing is scheduled for May 28. The PPP continues to distance itself from Yoon but faces internal pressure from pro-Yoon factions that received by-election nominations.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.85,
+      "salience": 0.82,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "Yoon Suk Yeol: Former South Korean President handed life sentence for leading insurrection",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "DPK 'Fabricated Prosecution' Special Counsel Bill",
+      "topic_ko": "조작기소 특검법 논란",
+      "summary": "The Democratic Party introduced legislation to appoint a special counsel to investigate alleged fabricated prosecutions by the Yoon-era justice apparatus, including cases against President Lee Jae-myung; the bill controversially grants the special counsel power to withdraw indictments (공소취소권). Legal scholars, the PPP, and some within the DPK itself have raised constitutional objections, and the controversy contributed to a 3-point dip in Lee's approval rating.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.74,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "민주당 \"조작기소 바로잡을 특검 필요\" vs 국민의힘 \"셀프 면죄부\"",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html"
+        },
+        {
+          "title": "조작기소 특검 논란 확산…법조계·학계 \"거꾸로 특검\" \"헌정 질서 훼손\"",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605041435254519"
+        },
+        {
+          "title": "與, '공소취소권 부여' 조작기소 특검법 발의…野 \"셀프면죄\"(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604302228109417"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "PPP Internal Divisions Ahead of Elections",
+      "topic_ko": "국민의힘 내분 및 친윤 공천 논란",
+      "summary": "PPP leader Jang Dong-hyuk faces resignation calls from within the party as the 'jeol-yun' (severing ties with Yoon) declaration collides with by-election nominations awarded to pro-Yoon figures. Former PPP leader Han Dong-hoon is running in a Busan by-election in a three-way statistical tie, with some pro-Han lawmakers openly defying party leadership.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.65,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "[정치]지방선거 앞 '장동혁 사퇴론'...혼란의 국민의힘",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202604260534375317"
+        },
+        {
+          "title": "북구갑, 하정우 34.3%·한동훈 33.5%·박민식 21.5%",
+          "outlet": "부산MBC",
+          "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=285019"
+        },
+        {
+          "title": "2026년 재보궐선거",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/2026%EB%85%84%20%EC%9E%AC%EB%B3%B4%EA%B6%90%EC%84%A0%EA%B1%B0"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Korea Diplomacy US-China Trade Summit",
+      "topic_ko": "미중 무역협상과 한국의 외교적 역할",
+      "summary": "Seoul served as the venue for pre-summit talks between US Treasury Secretary Bessent and China's Vice Premier He Lifeng on May 13, ahead of the Trump-Xi summit in Beijing (May 14-15). President Lee Jae-myung met both delegations, proposed a Korea-US currency swap, and framed Korea as a constructive middle-ground diplomatic actor.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.55,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "미중 무역협상 무대 된 韓…李대통령, 美엔 공급망·中엔 실질협력 강조",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605131537513150"
+        },
+        {
+          "title": "미중 회담 서울서 전초전‥이 대통령 잇단 접견",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6822306_37012.html"
+        },
+        {
+          "title": "미중 정상회담 종료...트럼프 \"회담 훌륭했다\"",
+          "outlet": "RFA 한국어",
+          "url": "https://www.rfa.org/korean/in-focus/2026/05/14/us-china-summit-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Lee Jae-myung Approval Slips to 61 Percent",
+      "topic_ko": "이재명 대통령 지지율 61%로 소폭 하락",
+      "summary": "The latest Gallup Korea poll (May 12-14) shows President Lee Jae-myung's approval at 61%, down 3 points from two weeks prior, with analysts attributing the slip to public ambivalence over the fabricated-prosecution special counsel bill; the DPK trails at 45% party support versus 23% for the PPP, which has risen for four consecutive weeks.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.3,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.15,
+      "salience": 0.45,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 지지율 61%, 민주당 45%·국민의힘 23%",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html"
+        },
+        {
+          "title": "李대통령 지지율, 3%p 떨어진 61%…민주 45%·국민의힘 23% [한국갤럽]",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260515000530"
+        },
+        {
+          "title": "이 대통령 지지율 61%...TK 10%p 하락, 조작기소 특검 탓?",
+          "outlet": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003234437&PAGE_CD=N0002&CMPT_CD=M0111"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Constitutional Amendment Referendum Blocked by PPP",
+      "topic_ko": "개헌 국민투표 무산 논란",
+      "summary": "A multi-party constitutional amendment bill—featuring stronger martial-law restrictions and enshrining the May 18 Gwangju democracy movement—failed to pass because the PPP boycotted the National Assembly vote needed to schedule a simultaneous referendum on June 3; surveys showed 59% of the public supported the concurrent vote, and the DPK is using the blockade as an election-season narrative against the PPP.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.35,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "제9회 전국동시지방선거 — 개헌 국민투표 동시실시 무산",
+          "outlet": "위키백과",
+          "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0"
+        },
+        {
+          "title": "제10차 개헌/제22대 국회 개헌안",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88"
+        },
+        {
+          "title": "\"개헌 필요\" 58%…\"지방선거 동시 국민투표\" 59% 찬성 [NBS]",
+          "outlet": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260505038400001"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
