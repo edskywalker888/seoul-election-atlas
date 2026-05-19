@@ -1,0 +1,266 @@
+{
+  "captured_at": "2026-05-19T04:06:35.602Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://segye.com/newsView/20260518509583",
+    "https://issue.daum.net/election/2026",
+    "https://namu.wiki/w/%EC%A0%9C9%ED%9A%8C%20%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://imnews.imbc.com/replay/2026/nw1400/article/6801773_36974.html",
+    "https://issue.daum.net/focus/241203investigation",
+    "https://www.hankyung.com/article/202605182475i",
+    "https://www.hankyung.com/article/2026051844371",
+    "https://www.newspim.com/news/view/20260518000916",
+    "https://www.youtube.com/watch?v=U6Le7IbTZwE",
+    "https://biz.heraldcorp.com/article/10660454",
+    "https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC",
+    "https://www.newspim.com/news/view/20260519000020",
+    "https://www.newspim.com/news/view/20260519000063",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260518010004617",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6815519_37004.html",
+    "https://www.korea.kr/",
+    "https://www.cliktoday.com/2026/05/20260516-today-news.html",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148954739",
+    "https://ws.or.kr/article/38692",
+    "https://www.fki.or.kr/webzine/K05/sub_20.html",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260515010004174",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6822855_37004.html",
+    "https://biz.heraldcorp.com/article/10738567"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Campaign Sprint",
+      "topic_ko": "6·3 지방선거 막판 선거전",
+      "summary": "With the 9th nationwide local elections just two weeks away on June 3, both parties have entered final campaign mode. DPK holds a commanding lead nationally but is facing unexpected polling slippage, particularly a 14.3-percentage-point drop in its Honam stronghold amid nomination controversies, while PPP is battling to limit losses after the insurrection fallout.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.2,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.95,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "'공천 후폭풍에 민심 흔들리나'…민주당 호남 지지율 '급락' [6·3의 선택]",
+          "outlet": "세계일보",
+          "url": "https://segye.com/newsView/20260518509583"
+        },
+        {
+          "title": "경기북부 시장·군수 선거 대진표 완성…지역 발전 이끌 적임자 누구?",
+          "outlet": "이데일리",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "제9회 전국동시지방선거 후보자 등록 마감·대진표 확정",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%A0%9C9%ED%9A%8C%20%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Suk-yeol Insurrection Trial Approaching Verdict",
+      "topic_ko": "윤석열 내란 1심 선고 임박",
+      "summary": "The first-instance verdict in Yoon Suk-yeol's insurrection (내란) trial is scheduled for May 28; a separate arrest-obstruction appeal has already produced a 7-year sentence. Multiple parallel prosecutions by the special counsel continue, keeping the case at the center of political debate.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.85,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 내란 재판 선고기일 2026년 5월 28일 확정",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "[내란 1심 선고] '반성없는 윤석열 감형사유 없어‥내란죄 사형해야'",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6801773_36974.html"
+        },
+        {
+          "title": "고위공직자범죄수사처 체포방해 항소심 징역 7년 선고…윤석열 상고",
+          "outlet": "더팩트",
+          "url": "https://issue.daum.net/focus/241203investigation"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "DPK Honam Support Collapse and Nomination Fallout",
+      "topic_ko": "민주당 호남 지지율 급락·공천 갈등",
+      "summary": "A RealMeter poll released May 18 showed DPK support in Gwangju and Jeonla collapsing by 14.3 percentage points in a single week, driven by nomination controversies including the expelled Jeonbuk governor running as an independent and backlash over a presidential advisor's 'national dividend' proposal. The PPP, which had been unable to capitalize on DPK weaknesses, gained 7.4 points in the same region.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.6,
+      "sentiment_ppp": "positive",
+      "sentiment_score_ppp": 0.35,
+      "salience": 0.78,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "민주당 지지율 호남서 14.3%p 급락…공천 잡음에 텃밭 흔들렸나",
+          "outlet": "한국경제",
+          "url": "https://www.hankyung.com/article/202605182475i"
+        },
+        {
+          "title": "與, 이런 공천 어디있나 들끓는 호남",
+          "outlet": "한국경제",
+          "url": "https://www.hankyung.com/article/2026051844371"
+        },
+        {
+          "title": "정희용 '민주당 호남 지지율 하락…정쟁보다 필요한 건 집안 수습'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260518000916"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Kim Gun-hee Trial Sentencing and Special Counsel",
+      "topic_ko": "김건희 재판 선고·특검 수사",
+      "summary": "Prosecutors on May 15 sought a 7-year-6-month sentence against Kim Gun-hee on charges including bribery and abuse of power; an appeal court had already sentenced her to 4 years on separate stock manipulation charges on April 28. The special counsel's mandate runs through June, with budget projections showing nearly 158 billion won total expenditure.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.8,
+      "salience": 0.72,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "[속보] 특검, '매관매직 혐의' 김건희 징역 7년6개월 구형…'경솔한 처신 반성'",
+          "outlet": "MBC뉴스 (YouTube)",
+          "url": "https://www.youtube.com/watch?v=U6Le7IbTZwE"
+        },
+        {
+          "title": "수사 마친 김건희 특검, 반 년간 68억 더 쓴다…최순실 특검 7년 예산 1년 만에 소진 전망",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10660454"
+        },
+        {
+          "title": "김건희 항소심 선고 4년…자본시장법 사기적 부정거래 혐의",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Korea-Japan Andong Summit and Shuttle Diplomacy",
+      "topic_ko": "한일 안동 정상회담·셔틀외교",
+      "summary": "President Lee Jae-myung hosts Japanese PM Takachi Sanae in Andong on May 19–20 for their sixth bilateral summit, notable for being the first exchange of reciprocal hometown visits between the two leaders. The agenda includes joint oil stockpiling cooperation and broader economic and security issues amid Middle East instability.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.63,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "李대통령, 오늘 고향 안동에서 다카이치 日총리와 3번째 정상회담",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260519000020"
+        },
+        {
+          "title": "韓日, 원유 공동비축 협력 추진…19일 정상회담서 합의 전망",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260519000063"
+        },
+        {
+          "title": "李대통령 고향 찾는 다카이치…여섯 번째 셔틀외교",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260518010004617"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Middle East Oil Crisis and Korea Energy Diplomacy",
+      "topic_ko": "중동 원유 위기·에너지 외교",
+      "summary": "With Brent crude topping $109/barrel and Hormuz Strait passage at risk, President Lee convened a senior staff meeting on May 19 stressing urgent oil procurement. A presidential special envoy team returned having secured supply commitments of 273 million barrels from Saudi Arabia, Kazakhstan, and Oman through year-end via alternative routes.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.25,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": -0.05,
+      "salience": 0.55,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "중동 산유국 돌고 온 청와대 특사단 '원유 2억 7천만 배럴 온다'",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6815519_37004.html"
+        },
+        {
+          "title": "이 대통령 '중동 전황 불투명성 확대…단 한 방울의 석유라도 더 확보' 강조",
+          "outlet": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/"
+        },
+        {
+          "title": "2026년 5월 16일 오늘의 주요 뉴스: 중동 긴장·브렌트유 $109 돌파",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260516-today-news.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "US-Korea Tariff and Trade Deal Controversy",
+      "topic_ko": "한미 관세·무역 협상 논란",
+      "summary": "The Lee government announced a joint fact-sheet trade-and-security deal with the Trump administration on May 14, covering shipbuilding, energy, semiconductors, and AI investment. While the government frames it as a diplomatic achievement, critics question the scale of concessions—including a reported $350 billion in US-directed investment commitments—and the durability of tariff relief given a US court ruling against the tariffs.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.45,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.2,
+      "salience": 0.47,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령과 도널드 트럼프 대통령 간 회담 공동 설명자료 전문",
+          "outlet": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148954739"
+        },
+        {
+          "title": "미국 대법원 상호관세 위법 판결: 계속되는 트럼프 관세 압박과 이재명 정부의 순응",
+          "outlet": "노동자 연대",
+          "url": "https://ws.or.kr/article/38692"
+        },
+        {
+          "title": "한미 관세 협상 합의",
+          "outlet": "전국경제인연합회",
+          "url": "https://www.fki.or.kr/webzine/K05/sub_20.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "PPP Accuses Lee of Pre-Election Campaign Interference",
+      "topic_ko": "국민의힘, 대통령 '관권선거' 비판·법적대응 경고",
+      "summary": "The PPP has accused President Lee of illegally campaigning through presidential field visits to traditional markets in Ulsan, Seongnam, and Seoul ahead of the June 3 elections, threatening legal action. Media commentary noted the double standard given that PPP defended former President Yoon's similar pre-election 'people's livelihood' tours in 2024.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.35,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.15,
+      "salience": 0.38,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "국힘 '李대통령 시장 방문은 선거개입…한번 더 하면 법적조치'",
+          "outlet": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260515010004174"
+        },
+        {
+          "title": "윤석열은 '민생행보' 이재명은 '선거운동'?",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6822855_37004.html"
+        },
+        {
+          "title": "李대통령 분주한 현장행보…野 '선거개입 넘은 선거운동 법적조치할 것'",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10738567"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
