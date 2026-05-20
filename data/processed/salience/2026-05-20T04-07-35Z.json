@@ -1,0 +1,265 @@
+{
+  "captured_at": "2026-05-20T04:07:35.004Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://imnews.imbc.com/replay/2026/nw1400/article/6801773_36974.html",
+    "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003223883",
+    "https://issue.daum.net/election/2026",
+    "https://m.ytn.co.kr/news_view.php?key=202604121112581121&s_mcd=0101",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6820749_37004.html",
+    "https://www.tjb.co.kr/real-time-news/category/view/id/98000",
+    "https://www.ytn.co.kr/_ln/0101_202605091241002595",
+    "https://segye.com/newsView/20260518509583",
+    "https://www.hankyung.com/article/202605182475i",
+    "https://namu.wiki/w/%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9%20%EC%A0%9C9%ED%9A%8C%20%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0%20%EA%B3%B5%EC%B2%9C%20%EA%B0%88%EB%93%B1",
+    "https://www.seoul.co.kr/news/politics/2026/05/17/20260517500118",
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4054740",
+    "https://www.insight.co.kr/news/554308",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html",
+    "https://www.fnnews.com/news/202604302228109417",
+    "https://www.peoplepowerparty.kr/news/comment_view/BBSDD0001/113600",
+    "https://www.newdaily.co.kr/site/data/html/2026/05/13/2026051300268.html",
+    "https://www.edaily.co.kr/News/Read?newsId=03063526645449576&mediaCodeNo=257",
+    "https://biz.sbs.co.kr/amp/article/20000310059",
+    "https://www.news1.kr/amp/diplomacy/defense-diplomacy/6161789",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6821656_37012.html"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "Yoon Insurrection Trial Verdict Imminent",
+      "topic_ko": "윤석열 내란죄 1심 선고 임박",
+      "summary": "The primary insurrection (내란우두머리) verdict against former President Yoon Suk-yeol is scheduled for May 28, 2026, just days before the June 3 local elections. An earlier appeal on the arrest-obstruction charge already yielded a 7-year sentence in late April, and special prosecutors have filed additional charges, keeping the trial at the center of political coverage.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.85,
+      "salience": 0.95,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 내란 재판/전개 – 5월 28일 오전 10시 선고 예고",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지 – 징역 7년 선고",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "[내란 1심 선고] '반성없는 윤석열 감형사유 없어‥내란죄 사형해야'",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6801773_36974.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "June 3 Local Elections Final Campaign",
+      "topic_ko": "6·3 지방선거 선거운동 돌입",
+      "summary": "The 9th nationwide local elections are scheduled for June 3, 2026, with candidate registration now complete. DPK leads in most metropolitan races, while PPP defends incumbent positions in several regions; turnout dynamics and strategic voting are dominant storylines with two weeks remaining.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.45,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.35,
+      "salience": 0.88,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "[6.3 지방선거] 단체장 공천…여당은 '현역 탈락', 국힘은 '구인난'",
+          "outlet": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003223883"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요 – 후보 등록 완료·판세 분석",
+          "outlet": "다음 이슈",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "지방선거 대진표 속속 윤곽...'공천 잡음'도 계속",
+          "outlet": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202604121112581121&s_mcd=0101"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Constitutional Amendment Blocked by PPP Boycott",
+      "topic_ko": "국민의힘 불참으로 개헌안 표결 불성립",
+      "summary": "A cross-party constitutional amendment—backed by six parties and aimed at enshrining the spirit of the May 18 Gwangju Uprising and tightening martial-law requirements—failed to reach the required two-thirds quorum on May 7–8 after PPP legislators boycotted the vote. The PPP's refusal to participate has drawn sharp public criticism ahead of the local elections.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.2,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.8,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "'5·18 정신 수록' 39년 만의 개헌‥국힘 불참으로 끝내 '불성립'",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6820749_37004.html"
+        },
+        {
+          "title": "개헌안 국회 본회의 상정됐지만 국민의힘 불참…표결 불성립",
+          "outlet": "TJB 대전방송",
+          "url": "https://www.tjb.co.kr/real-time-news/category/view/id/98000"
+        },
+        {
+          "title": "[정치] 39년 만의 개헌 시도 무산...지방선거 D-25, 판세는?",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605091241002595"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "DPK Nomination Scandal Erodes Honam Support",
+      "topic_ko": "민주당 공천 내홍으로 호남 지지율 급락",
+      "summary": "DPK's support in its Honam (Jeolla) heartland dropped 14.3 percentage points in a single week to 57.2%, driven by nomination controversies including the expulsion and independent candidacy of North Jeolla Governor Kim Gwan-young over a cash-distribution scandal, along with illegal primary operations in multiple districts.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.6,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.72,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "'공천 후폭풍에 민심 흔들리나'…민주당 호남 지지율 '급락' [6·3의 선택]",
+          "outlet": "세계일보",
+          "url": "https://segye.com/newsView/20260518509583"
+        },
+        {
+          "title": "민주당 지지율 호남서 14.3%p 급락…공천 잡음에 텃밭 흔들렸나",
+          "outlet": "한국경제",
+          "url": "https://www.hankyung.com/article/202605182475i"
+        },
+        {
+          "title": "더불어민주당 제9회 전국동시지방선거 공천 갈등",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9%20%EC%A0%9C9%ED%9A%8C%20%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0%20%EA%B3%B5%EC%B2%9C%20%EA%B0%88%EB%93%B1"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Korea-US Trade and Defense Deal Confirmed",
+      "topic_ko": "한미 관세·안보 합의 이행 재확인",
+      "summary": "President Lee Jae-myung held a phone call with President Trump on May 17 to reaffirm the landmark Korea-US trade and security deal, which includes a $150 billion Korean shipbuilding investment in the US, tariff relief, and US approval for South Korea to build nuclear-powered submarines. Implementation details and a nuclear submarine roadmap are imminent.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.7,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.63,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "한미 정상 통화, 관세 합의 이행 재확인…'동맹 새롭게 업그레이드한 것'",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/2026/05/17/20260517500118"
+        },
+        {
+          "title": "이재명 '한미 안보·관세 협상 타결 팩트시트 최종 합의'",
+          "outlet": "불교방송",
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4054740"
+        },
+        {
+          "title": "K-핵잠수함 시대 열린다... 정부, 이르면 이달 말 '10년 로드맵' 발표",
+          "outlet": "인사이트",
+          "url": "https://www.insight.co.kr/news/554308"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Prosecution Manipulation Special Counsel Bill",
+      "topic_ko": "조작기소 특검법 추진 및 여야 충돌",
+      "summary": "The DPK introduced a special counsel bill targeting alleged prosecutorial misconduct under the Yoon government, covering 12 cases including the Daejang-dong and Seongnam FC probes that implicated President Lee Jae-myung. PPP is denouncing the bill as a self-pardoning device for Lee, while the DPK aims to pass it through the National Assembly in May.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.54,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "민주당 '조작기소 바로잡을 특검 필요' vs 국민의힘 '셀프 면죄부'",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html"
+        },
+        {
+          "title": "與, '공소취소권 부여' 조작기소 특검법 발의…野 '셀프면죄'(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604302228109417"
+        },
+        {
+          "title": "국민의힘 5월 14일 최고위 – 조작기소 특검법은 이재명 면죄부",
+          "outlet": "국민의힘",
+          "url": "https://www.peoplepowerparty.kr/news/comment_view/BBSDD0001/113600"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "National Dividend Proposal Sparks Economic Debate",
+      "topic_ko": "국민배당금 발언 파장 및 경제 논쟁",
+      "summary": "A comment by Presidential Policy Chief Kim Yong-beom proposing a 'national dividend' drawn from AI and semiconductor windfall tax revenues ignited a fierce debate; the Blue House distanced itself by calling it a personal opinion, but PPP accused the government of populist wealth redistribution. The controversy contributed to a dip in DPK's mid-May polling numbers.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.3,
+      "salience": 0.44,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "김용범 '국민배당금' 파장 … AI 호황 업고 돌아온 '기본소득 시즌2'",
+          "outlet": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/05/13/2026051300268.html"
+        },
+        {
+          "title": "'국민배당금' 논란 뒤 남은 질문…반도체 초과세수, 어디에 쓸 것인가",
+          "outlet": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03063526645449576&mediaCodeNo=257"
+        },
+        {
+          "title": "[집중진단] '국민배당금' 논란 커지자 李 대통령 직접 진화…'초과이윤 아닌 초과세수 배당'",
+          "outlet": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/amp/article/20000310059"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "OPCON Transfer and Nuclear Submarine Autonomy Push",
+      "topic_ko": "전작권 전환·핵잠수함 자주국방 추진",
+      "summary": "The Lee government is pushing to recover wartime operational control (OPCON) by 2028, one year ahead of the US-preferred 2029 timeline, and is expected to release a 10-year nuclear-powered submarine acquisition roadmap by end of May. Defense autonomy is framed as a complement to the Korea-US alliance modernization deal.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.35,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "한미, 이번 주에 핵잠·전작권 전환 집중 논의…'방식·시점이 관건'",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/amp/diplomacy/defense-diplomacy/6161789"
+        },
+        {
+          "title": "'한국 주도 한반도 방위'‥'미국에 협력하길'",
+          "outlet": "MBC 뉴스투데이",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6821656_37012.html"
+        },
+        {
+          "title": "K-핵잠수함 시대 열린다... 정부, 이르면 이달 말 '10년 로드맵' 발표",
+          "outlet": "인사이트",
+          "url": "https://www.insight.co.kr/news/554308"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
