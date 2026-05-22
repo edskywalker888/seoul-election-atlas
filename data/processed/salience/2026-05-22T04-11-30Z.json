@@ -1,0 +1,266 @@
+{
+  "captured_at": "2026-05-22T04:11:30.384Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.koreatimes.co.kr/southkorea/2026localelections/20260521/campaign-officially-begins-for-june-3-elections-with-7800-candidates",
+    "https://en.sedaily.com/finance/2026/05/13/seoul-race-tightens-busan-neck-and-neck-independent-surges",
+    "https://www.koreaherald.com/article/10742649",
+    "https://thediplomat.com/2026/02/yoon-denounces-insurrection-verdict-as-ppp-clings-to-ousted-leader",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6812690_37004.html",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=277836",
+    "https://en.sedaily.com/politics/2026/05/15/lees-approval-rating-hits-61-percent-democratic-party-at-45",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819242_37004.html",
+    "https://en.sedaily.com/politics/2026/05/07/opposition-slams-prosecution-special-counsel-bill-ruling",
+    "https://www.koreatimes.co.kr/southkorea/politics/20260504/explainer-special-counsel-bill-sparks-debate-over-power-to-drop-ongoing-trials",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html",
+    "https://en.sedaily.com/politics/2026/05/08/koreas-first-constitutional-amendment-bid-in-39-years",
+    "https://en.sedaily.com/finance/2026/05/07/constitutional-amendment-fails-as-opposition-boycotts-vote",
+    "https://www.news1.kr/amp/politics/assembly/6158743",
+    "https://busanmbc.co.kr/01_new/new01_view.asp?idx=285019",
+    "https://biz.heraldcorp.com/article/10743393",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6823775_37004.html",
+    "https://www.president.go.kr/president/speeches/lu7JcVrb",
+    "https://namu.wiki/w/2025%EB%85%84%20%EC%84%B8%EA%B3%84%20%EB%AC%B4%EC%97%AD%20%EC%A0%84%EC%9F%81/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD",
+    "https://keia.org/the-peninsula/q1-2026-u-s-korea-trade-investment-and-diplomacy-ledger/",
+    "https://eiec.kdi.re.kr/policy/materialView.do?num=281126",
+    "https://namu.wiki/w/%EA%B3%A0%EC%9C%A0%EA%B0%80%20%ED%94%BC%ED%95%B4%EC%A7%80%EC%9B%90%EA%B8%88",
+    "https://www.ngonews.kr/news/articleView.html?idxno=227992"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Campaign Kickoff",
+      "topic_ko": "6·3 지방선거 공식 선거운동 시작",
+      "summary": "Official campaigning for the June 3 nationwide local elections began on May 21 with over 7,800 candidates. The DPK holds leads in most major races but the PPP has narrowed the gap significantly, with the Seoul mayoral race tightening to a single-digit spread (DPK's Chong Won-o at 40% vs PPP's Oh Se-hoon at 37%).",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.1,
+      "salience": 1,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "Campaign officially begins for June 3 elections with over 7,800 candidates",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/2026localelections/20260521/campaign-officially-begins-for-june-3-elections-with-7800-candidates"
+        },
+        {
+          "title": "Seoul Race Tightens, Busan Neck-and-Neck, Independent Surges in Jeonbuk",
+          "outlet": "Seoul Economic Daily (English)",
+          "url": "https://en.sedaily.com/finance/2026/05/13/seoul-race-tightens-busan-neck-and-neck-independent-surges"
+        },
+        {
+          "title": "Official campaigning for June 3 local elections begins",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10742649"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Insurrection Trial Appeal Verdict Imminent",
+      "topic_ko": "윤석열 내란 항소심 선고 임박",
+      "summary": "The appeals court verdict in Yoon Suk-yeol's insurrection trial is scheduled for May 28, just six days away, drawing intense media focus ahead of local elections. Yoon was sentenced to life imprisonment at first instance in February 2026; the PPP has officially stated it will issue no leadership position on the verdict.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "Yoon Denounces Insurrection Verdict as PPP Clings to Ousted Leader",
+          "outlet": "The Diplomat",
+          "url": "https://thediplomat.com/2026/02/yoon-denounces-insurrection-verdict-as-ppp-clings-to-ousted-leader"
+        },
+        {
+          "title": "무기징역에도 반성 없는 尹‥심판은 진행 중",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6812690_37004.html"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Lee Jae-myung Approval Rating One-Year Mark",
+      "topic_ko": "이재명 대통령 취임 1년 지지율",
+      "summary": "A Gallup Korea poll released May 22 puts President Lee Jae-myung's approval at 64%, up 3 points from the prior week, with DPK party support at 46% versus PPP's 21%. The upcoming local elections are widely framed as the first national verdict on the Lee government's first year in office.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.8,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 취임 1년 지지율 64%...역대 2위 [한국갤럽]",
+          "outlet": "여성신문",
+          "url": "https://www.womennews.co.kr/news/articleView.html?idxno=277836"
+        },
+        {
+          "title": "Lee's Approval Rating Hits 61%, Democratic Party at 45%, People Power 23%",
+          "outlet": "Seoul Economic Daily (English)",
+          "url": "https://en.sedaily.com/politics/2026/05/15/lees-approval-rating-hits-61-percent-democratic-party-at-45"
+        },
+        {
+          "title": "[MBC여론조사] 이 대통령 지지율, 서울·부산·대구 60% 넘겨",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819242_37004.html"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Fabricated Prosecution Special Counsel Bill Controversy",
+      "topic_ko": "조작기소 특검법 논란",
+      "summary": "The DPK is pushing a 'fabricated prosecution special counsel' bill through the National Assembly in May that includes a power to withdraw charges from cases initiated under the Yoon administration, potentially including charges against President Lee himself. The PPP calls it a self-pardon bill and has vowed to block it; even some minor progressive parties have expressed opposition.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.7,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "Opposition Slams Prosecution Special Counsel Bill; Ruling Party Weighs Revisions",
+          "outlet": "Seoul Economic Daily (English)",
+          "url": "https://en.sedaily.com/politics/2026/05/07/opposition-slams-prosecution-special-counsel-bill-ruling"
+        },
+        {
+          "title": "[EXPLAINER] Special counsel bill sparks debate over power to drop ongoing trials",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260504/explainer-special-counsel-bill-sparks-debate-over-power-to-drop-ongoing-trials"
+        },
+        {
+          "title": "민주당 '조작기소 바로잡을 특검 필요' vs 국민의힘 '셀프 면죄부'",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Constitutional Amendment Bill Blocked by PPP Boycott",
+      "topic_ko": "개헌안 국민의힘 반대로 무산",
+      "summary": "A six-party constitutional amendment bill that would have required National Assembly approval before martial law could be imposed was blocked in May 7–8 National Assembly votes after the PPP boycotted the sessions. The proposal, backed by the DPK and five other parties, had aimed for a simultaneous referendum with the June 3 local elections.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.35,
+      "salience": 0.6,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "Korea's First Constitutional Amendment Bid in 39 Years Collapses Amid Partisan Clash",
+          "outlet": "Seoul Economic Daily (English)",
+          "url": "https://en.sedaily.com/politics/2026/05/08/koreas-first-constitutional-amendment-bid-in-39-years"
+        },
+        {
+          "title": "Constitutional Amendment Fails as Opposition Boycotts Vote",
+          "outlet": "Seoul Economic Daily (English)",
+          "url": "https://en.sedaily.com/finance/2026/05/07/constitutional-amendment-fails-as-opposition-boycotts-vote"
+        },
+        {
+          "title": "개헌안 표결 '디데이'…'국힘 반대 당론'에 처리 불투명",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/amp/politics/assembly/6158743"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Busan Buk-A By-Election Conservative Vote Split",
+      "topic_ko": "부산 북갑 보선 보수 단일화 갈등",
+      "summary": "The Busan Buk-A parliamentary by-election, running alongside the local elections, has become a flashpoint for PPP internal divisions: former PPP leader Han Dong-hoon is running as an independent against PPP candidate Park Min-sik, splitting the conservative vote. Polls show DPK's Ha Jung-woo leading with Han and Park in close competition behind him; Park refused any candidacy unification on May 22.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.5,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "부산 북갑 기호 나왔다…하정우 1번, 박민식 2번, 한동훈 6번",
+          "outlet": "부산MBC",
+          "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=285019"
+        },
+        {
+          "title": "박민식 '단일화 없다…부산 북구 주민에 대한 배신 행위'",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10743393"
+        },
+        {
+          "title": "[MBC여론조사] 부산 북구갑 하정우 38% 한동훈 33%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6823775_37004.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Korea-US Tariff Deal Ratification Dispute",
+      "topic_ko": "한미 관세협상 국회 비준 논란",
+      "summary": "The PPP and minor parties have intensified criticism of the Lee government's US tariff deal, arguing it constitutes a treaty requiring National Assembly ratification that the executive has bypassed. With Korea's effective tariff rate still elevated at around 12%, the opposition frames the deal as legally and economically deficient.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.25,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.38,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "미국과의 관세협상을 타결했습니다",
+          "outlet": "대통령실",
+          "url": "https://www.president.go.kr/president/speeches/lu7JcVrb"
+        },
+        {
+          "title": "2025년 세계 무역 전쟁/대한민국",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/2025%EB%85%84%20%EC%84%B8%EA%B3%84%20%EB%AC%B4%EC%97%AD%20%EC%A0%84%EC%9F%81/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"
+        },
+        {
+          "title": "Q1 2026 U.S.-Korea Trade, Investment, and Diplomacy Ledger",
+          "outlet": "Korea Economic Institute of America",
+          "url": "https://keia.org/the-peninsula/q1-2026-u-s-korea-trade-investment-and-diplomacy-ledger/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "High Oil Prices Economy Supplementary Budget",
+      "topic_ko": "고유가 민생 추경 경제 대응",
+      "summary": "Prolonged Middle East conflict has kept oil prices elevated, prompting the Lee government to pass a first supplementary budget in April 2026 providing energy subsidies to lower-income households. KDI's May economic outlook notes a continued recovery trend but flagged high-oil-price inflation as a significant downside risk.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.35,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": -0.05,
+      "salience": 0.28,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "2026년 5월 최근 경제동향",
+          "outlet": "KDI 경제교육·정보센터",
+          "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=281126"
+        },
+        {
+          "title": "고유가 피해지원금",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EA%B3%A0%EC%9C%A0%EA%B0%80%20%ED%94%BC%ED%95%B4%EC%A7%80%EC%9B%90%EA%B8%88"
+        },
+        {
+          "title": "국민 61% '지방선거 동시 개헌 국민투표 찬성'",
+          "outlet": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=227992"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
