@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-22T12:00:00Z",
+  "captured_at": "2026-05-23T00:00:00Z",
   "method": "nesdc_scrape",
-  "method_notes": "Polls sourced from Korean news agencies (MBC/코리아리서치, KBS/한국리서치, SBS/Ipsos, 뉴스1/한국갤럽, CBS/KSOI, 스트레이트뉴스/조원씨앤아이, 뉴시스/에이스리서치, 펜앤마이크/여론조사공정, 중앙일보/케이스탯리서치); 20 polls total covering Dec 2025–May 2026. Dec 2025 여론조사공정 polls are multi-candidate preference (not two-way); Jan, Mar 2026 data gaps reflect no major filed polls found for those months.",
+  "method_notes": "Coverage from 8 weekly buckets spanning Dec 2025–May 2026; sourced from MBC/Korea Research International (5 CATI waves), SBS/IPSOS (2 waves), StraightNews/JoWon C&I (3 waves), Korea Gallup for Segye Ilbo & News1 (2 waves), KBS/Hanguk Research, 뉴시스/Ace Research, 뉴데일리/ResearchWell, and PennMike/여론조사공정 (ARS). No polls found for Nov 2025, Jan 2026, or Mar 2026; mix of head-to-head and multi-candidate question formats may cause week-to-week comparability differences.",
   "interval": "1w",
   "candidates": [
     {
@@ -10,22 +10,6 @@
       "name_ko": "정원오",
       "party_id": "dpk",
       "series": [
-        {
-          "t": "2025-12-15T00:00:00Z",
-          "p": 0.23,
-          "n_polls": 1,
-          "sources": [
-            "other-yeoron-gongjeong"
-          ]
-        },
-        {
-          "t": "2025-12-22T00:00:00Z",
-          "p": 0.258,
-          "n_polls": 1,
-          "sources": [
-            "other-yeoron-gongjeong"
-          ]
-        },
         {
           "t": "2025-12-29T00:00:00Z",
           "p": 0.34,
@@ -44,12 +28,19 @@
           ]
         },
         {
-          "t": "2026-04-20T00:00:00Z",
-          "p": 0.4765,
-          "n_polls": 2,
+          "t": "2026-04-06T00:00:00Z",
+          "p": 0.52,
+          "n_polls": 1,
           "sources": [
-            "other-jowoncni",
-            "other-ksoi"
+            "gallup-korea"
+          ]
+        },
+        {
+          "t": "2026-04-20T00:00:00Z",
+          "p": 0.497,
+          "n_polls": 1,
+          "sources": [
+            "other-jowon-cni"
           ]
         },
         {
@@ -66,30 +57,28 @@
           "p": 0.481,
           "n_polls": 2,
           "sources": [
-            "gallup-korea",
-            "other-jowoncni"
+            "other-jowon-cni",
+            "gallup-korea"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.439,
-          "n_polls": 4,
+          "p": 0.4357,
+          "n_polls": 3,
           "sources": [
-            "korea-research",
-            "other-ksoi",
-            "other-yeoron-gongjeong"
+            "other-yeoron-gongjong",
+            "other-hanguk-research",
+            "korea-research"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.4442,
-          "n_polls": 5,
+          "p": 0.4223,
+          "n_polls": 3,
           "sources": [
-            "korea-research",
             "other-ace-research",
-            "other-jowoncni",
-            "other-ksoi",
-            "other-kstat"
+            "other-jowon-cni",
+            "other-researchwell"
           ]
         }
       ]
@@ -99,22 +88,6 @@
       "name_ko": "오세훈",
       "party_id": "ppp",
       "series": [
-        {
-          "t": "2025-12-15T00:00:00Z",
-          "p": 0.292,
-          "n_polls": 1,
-          "sources": [
-            "other-yeoron-gongjeong"
-          ]
-        },
-        {
-          "t": "2025-12-22T00:00:00Z",
-          "p": 0.294,
-          "n_polls": 1,
-          "sources": [
-            "other-yeoron-gongjeong"
-          ]
-        },
         {
           "t": "2025-12-29T00:00:00Z",
           "p": 0.36,
@@ -133,12 +106,19 @@
           ]
         },
         {
-          "t": "2026-04-20T00:00:00Z",
-          "p": 0.3565,
-          "n_polls": 2,
+          "t": "2026-04-06T00:00:00Z",
+          "p": 0.37,
+          "n_polls": 1,
           "sources": [
-            "other-jowoncni",
-            "other-ksoi"
+            "gallup-korea"
+          ]
+        },
+        {
+          "t": "2026-04-20T00:00:00Z",
+          "p": 0.359,
+          "n_polls": 1,
+          "sources": [
+            "other-jowon-cni"
           ]
         },
         {
@@ -155,30 +135,28 @@
           "p": 0.38,
           "n_polls": 2,
           "sources": [
-            "gallup-korea",
-            "other-jowoncni"
+            "other-jowon-cni",
+            "gallup-korea"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.3735,
-          "n_polls": 4,
+          "p": 0.3653,
+          "n_polls": 3,
           "sources": [
-            "korea-research",
-            "other-ksoi",
-            "other-yeoron-gongjeong"
+            "other-yeoron-gongjong",
+            "other-hanguk-research",
+            "korea-research"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.3882,
-          "n_polls": 5,
+          "p": 0.43,
+          "n_polls": 3,
           "sources": [
-            "korea-research",
             "other-ace-research",
-            "other-jowoncni",
-            "other-ksoi",
-            "other-kstat"
+            "other-jowon-cni",
+            "other-researchwell"
           ]
         }
       ]

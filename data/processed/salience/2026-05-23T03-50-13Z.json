@@ -1,0 +1,264 @@
+{
+  "captured_at": "2026-05-23T03:50:13.009Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.koreatimes.co.kr/amp/southkorea/politics/20260521/campaign-officially-begins-for-june-3-elections-with-7800-candidates",
+    "https://en.sedaily.com/finance/2026/05/21/democrats-lead-in-25-seoul-district-chief-races-ppp-defends",
+    "https://www.koreaherald.com/article/10730339",
+    "https://www.koreaherald.com/article/10742649",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6823775_37004.html",
+    "https://news.nate.com/view/20260512n32150",
+    "https://www.koreaherald.com/article/10699292",
+    "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk",
+    "https://www.usnews.com/news/world/articles/2026-05-07/south-korea-heads-to-local-elections-under-shadow-of-disgraced-former-president",
+    "https://www.fnnews.com/news/202605081713412007",
+    "https://www.koreaherald.com/National/Politics",
+    "https://www.khan.co.kr/article/202605181748001/",
+    "https://www.khan.co.kr/article/202605182114005/",
+    "https://en.sedaily.com/finance/2026/05/22/korea-doubles-non-apartment-rental-housing-supply-to-tame",
+    "https://www.csmonitor.com/World/Asia-Pacific/2026/0522/seoul-housing-prices-south-korea-real-estate",
+    "https://www.koreatimes.co.kr/economy/policy/20251012/lee-administration-risks-repeating-moon-era-housing-policy-missteps-as-prices-climb",
+    "https://www.cnn.com/2026/01/26/economy/tariffs-trump-south-korea",
+    "https://www.stimson.org/2026/survival-in-the-new-age-of-trade-what-the-aftermath-of-the-supreme-court-ruling-on-ieepa-tariffs-means-for-south-korea/",
+    "https://keia.org/the-peninsula/q1-2026-u-s-korea-trade-investment-and-diplomacy-ledger/",
+    "https://www.aei.org/articles/korean-peninsula-update-may-12-2026/",
+    "https://www.koreaherald.com/article/10633063",
+    "https://www.rfa.org/korean/in-focus/2026/05/14/us-china-summit-2026/"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Campaign Kicks Off",
+      "topic_ko": "6·3 지방선거 공식 선거운동 개시",
+      "summary": "Official campaigning for South Korea's June 3 local elections and parliamentary by-elections began on May 21, with over 7,800 candidates competing nationwide. The Seoul mayoral race has tightened significantly, with DPK candidate Chong Won-o leading PPP incumbent Oh Se-hoon by single digits in recent polls.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 1,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "Campaign officially begins for June 3 elections with over 7,800 candidates",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/amp/southkorea/politics/20260521/campaign-officially-begins-for-june-3-elections-with-7800-candidates"
+        },
+        {
+          "title": "Democrats Lead in 25 Seoul District Chief Races, PPP Defends Gangnam",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/21/democrats-lead-in-25-seoul-district-chief-races-ppp-defends"
+        },
+        {
+          "title": "Elections are a month away. What are key battles to look out for?",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10730339"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Han Dong-hoon Independent Bid Rocks Busan By-Election",
+      "topic_ko": "한동훈 무소속 부산 북갑 재보선 출마",
+      "summary": "Former PPP leader Han Dong-hoon is running as an independent in Busan's Buk-A parliamentary by-election, splitting the conservative vote against DPK candidate Ha Jeong-woo. Polls show a three-way race within the margin of error, making it a bellwether for PPP's internal cohesion and post-Yoon identity.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.82,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "Han Dong-hoon, former chief of PPP, is running as an independent for his National Assembly seat in Busan",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10742649"
+        },
+        {
+          "title": "부산 북갑 하정우 38% 한동훈 33%… 오차범위 내 접전",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6823775_37004.html"
+        },
+        {
+          "title": "부산 북갑 '한동훈 스타일' 통했나···무소속 돌풍에 보수층 심장부 요동",
+          "outlet": "네이트 뉴스",
+          "url": "https://news.nate.com/view/20260512n32150"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Insurrection Trial Reaches Appeals Court",
+      "topic_ko": "윤석열 내란 항소심 개시",
+      "summary": "The Seoul High Court held its first hearing of former President Yoon Suk-yeol's insurrection appeal on May 13, following his life sentence in February 2026. The ongoing trial continues to dominate political discourse and weigh heavily on the PPP ahead of local elections.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.78,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "Appeals court set to hold 1st hearing of Yoon's insurrection trial",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10699292"
+        },
+        {
+          "title": "Former South Korean President Yoon Suk Yeol handed life sentence for leading insurrection",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk"
+        },
+        {
+          "title": "South Korea Heads to Local Elections Under Shadow of Disgraced Former President",
+          "outlet": "U.S. News / Reuters",
+          "url": "https://www.usnews.com/news/world/articles/2026-05-07/south-korea-heads-to-local-elections-under-shadow-of-disgraced-former-president"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Constitutional Amendment Referendum Blocked by PPP",
+      "topic_ko": "개헌 국민투표 국민의힘 보이콧으로 무산",
+      "summary": "A six-party push to hold a constitutional referendum alongside the June 3 local elections collapsed on May 8 after the PPP boycotted the National Assembly vote, leaving Speaker Woo Won-shik to abandon the process in tears. The proposed amendment would have tightened martial law restrictions and enshrined pro-democracy movements.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.72,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "6·3 지선 개헌 동시 투표 무산…우원식 '국힘에 강력 유감', 눈물 훔치기도",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605081713412007"
+        },
+        {
+          "title": "Speaker blasts PPP as Assembly suspends push for constitutional amendment",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/National/Politics"
+        },
+        {
+          "title": "Can Korea hold constitutional referendum on June 3?",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10699292"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Lee Government Prosecutorial and Judicial Overhaul",
+      "topic_ko": "이재명 정부 검찰청 폐지·사법개혁 3법",
+      "summary": "The Lee administration and DPK completed the abolition of the Prosecution Service (공소청법) and passed three major judicial reform laws — covering the crime of judicial distortion, constitutional complaints against rulings, and expansion of Supreme Court justices — drawing praise from reform advocates and sharp criticism from the PPP, which frames the moves as shielding President Lee from his suspended criminal trials.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.35,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.63,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "검찰청 폐지·대법관 증원…이재명 정부 1년 '검찰·사법개혁'",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605181748001/"
+        },
+        {
+          "title": "검찰청 폐지·사법개혁 3법 밀어붙여…'숙의 부족' 비판도",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605182114005/"
+        },
+        {
+          "title": "PPP leader claims Lee government's foreign and judicial agenda undermines rule of law",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/National/Politics"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Seoul Housing Crisis Drives Lee Policy War",
+      "topic_ko": "서울 집값 급등과 이재명 정부 부동산 대책",
+      "summary": "President Lee Jae-myung intensified his crackdown on property speculation as Seoul housing prices continue to surge, announcing on May 22 a plan to double non-apartment rental housing supply to 66,000 units. Critics, including opposition figures and some economists, warn the demand-side focus risks repeating the failures of the Moon Jae-in era.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.55,
+      "issue_tag": "housing",
+      "evidence_headlines": [
+        {
+          "title": "Korea Doubles Non-Apartment Rental Housing Supply to Tame Surging Rents",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/05/22/korea-doubles-non-apartment-rental-housing-supply-to-tame"
+        },
+        {
+          "title": "South Korea's president says property prices are an existential threat",
+          "outlet": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/World/Asia-Pacific/2026/0522/seoul-housing-prices-south-korea-real-estate"
+        },
+        {
+          "title": "Lee administration risks repeating Moon-era housing policy missteps as prices climb",
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/economy/policy/20251012/lee-administration-risks-repeating-moon-era-housing-policy-missteps-as-prices-climb"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "US Tariffs and Korea Trade Diplomacy Uncertainty",
+      "topic_ko": "미국 관세 압박과 한미 통상 외교",
+      "summary": "South Korea faces sustained economic pressure from US tariffs raised to 25% on Korean goods, though a US Supreme Court ruling against IEEPA tariffs has created new uncertainty about refunds and enforcement. The Lee government is managing trade negotiations while monitoring KOSPI volatility and sectoral impacts on Hyundai and exporters.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.1,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.45,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "Trump says he's raising tariffs on South Korea because it's 'not living up' to trade agreement",
+          "outlet": "CNN Business",
+          "url": "https://www.cnn.com/2026/01/26/economy/tariffs-trump-south-korea"
+        },
+        {
+          "title": "Survival in the New Age of Trade: What the Supreme Court Ruling on IEEPA Tariffs Means for South Korea",
+          "outlet": "Stimson Center",
+          "url": "https://www.stimson.org/2026/survival-in-the-new-age-of-trade-what-the-aftermath-of-the-supreme-court-ruling-on-ieepa-tariffs-means-for-south-korea/"
+        },
+        {
+          "title": "Q1 2026 U.S.-Korea Trade, Investment, and Diplomacy Ledger",
+          "outlet": "Korea Economic Institute of America",
+          "url": "https://keia.org/the-peninsula/q1-2026-u-s-korea-trade-investment-and-diplomacy-ledger/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Inter-Korean Policy Shift Under Lee Government",
+      "topic_ko": "이재명 정부 대북 정책 전환 논란",
+      "summary": "The Lee government's Ministry of Unification has begun referring to North Korea by its official name as a conciliatory gesture and is pursuing a 'two-state coexistence' engagement track, while North Korea continues to designate the South as its 'principal enemy.' The PPP accuses Lee of naive appeasement, while specialists debate whether structural inter-Korean estrangement can be reversed.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.15,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.35,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "Korean Peninsula Update, May 12, 2026",
+          "outlet": "American Enterprise Institute",
+          "url": "https://www.aei.org/articles/korean-peninsula-update-may-12-2026/"
+        },
+        {
+          "title": "Allies move to regularize N. Korea policy talks ahead of Lee's 2026 peace drive",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10633063"
+        },
+        {
+          "title": "미중 정상회담 종료 속 이재명 정부 외교·대북정책 1주년 토론회",
+          "outlet": "RFA 한국어",
+          "url": "https://www.rfa.org/korean/in-focus/2026/05/14/us-china-summit-2026/"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
