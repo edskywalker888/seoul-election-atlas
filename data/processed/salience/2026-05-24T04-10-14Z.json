@@ -1,0 +1,266 @@
+{
+  "captured_at": "2026-05-24T04:10:14.877Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6824402_37004.html",
+    "https://www.fnnews.com/news/202605240645150557",
+    "https://www.newspim.com/news/view/20260522001245",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://www.seoul.co.kr/news/politics/local-election2026/2026/05/21/20260521001005",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://www.seoul.co.kr/news/society/2026/05/06/20260506500041",
+    "https://www.seoul.co.kr/news/society/accident/2026/05/07/20260507010001",
+    "https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC-%EB%AA%85%ED%83%9C%EA%B7%A0-%EA%B1%B4%EC%A7%84%EB%B2%95%EC%82%AC%20%EA%B2%8C%EC%9D%B4%ED%8A%B8/%EC%9E%AC%ED%8C%90/%EA%B9%80%EA%B1%B4%ED%9D%AC",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6821072_37004.html",
+    "https://www.dt.co.kr/article/12061371",
+    "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html",
+    "https://www.fnnews.com/news/202604302228109417",
+    "https://www.koreaunionnews.com/2141382",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003202018",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6796680_37004.html",
+    "https://namu.wiki/w/2025%EB%85%84%20%EC%84%B8%EA%B3%84%20%EB%AC%B4%EC%97%AD%20%EC%A0%84%EC%9F%81/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://www.cliktoday.com/2026/05/20260523-today-news.html",
+    "https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85/%EC%A7%80%EC%A7%80%EC%9C%A8",
+    "https://www.mt.co.kr/politics/2026/05/23/2026052216131154595",
+    "https://www.ajunews.com/view/20260523155554820",
+    "https://www.dailybizon.com/news/articleView.html?idxno=67348"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Campaign Underway",
+      "topic_ko": "6·3 지방선거 및 재보궐선거 선거운동",
+      "summary": "Official campaigning began May 21 for the June 3 local elections and 14 by-elections, with the Seoul mayor race a statistical dead heat (DPK's Jeong Won-o at 43.0% vs PPP's Oh Se-hoon at 42.6%). DPK is running on an 'insurrection accountability and national normalization' frame while PPP counters with 'Lee Jae-myung government oversight' messaging.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.35,
+      "salience": 1,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "막 오른 지방선거‥여 \"일 잘하는 지방 정부\", 야 \"정권 독주 견제해야\"",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6824402_37004.html"
+        },
+        {
+          "title": "남은 열흘에 걸린 여야 대표 운명…선거 결과 따라 권력구도 재편",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605240645150557"
+        },
+        {
+          "title": "[6·3 지선] D-10 서울시장 선거…오세훈·정원오, 지지율 '초접전'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260522001245"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Suk-yeol Insurrection Verdict Imminent",
+      "topic_ko": "윤석열 내란 1심 선고 D-4 (5월 28일)",
+      "summary": "The first-instance verdict in former President Yoon Suk-yeol's insurrection trial is scheduled for May 28, just days before the June 3 elections. The PPP has declared it will issue no official response to the verdict, while the special prosecutor has filed additional charges against Yoon.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 내란 재판/전개 — 선고기일 2026년 5월 28일 예고",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "\"내란 심판\" \"독주 제동\"…6·3 공식 선거운동 돌입",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/local-election2026/2026/05/21/20260521001005"
+        },
+        {
+          "title": "윤석열 체포방해 항소심 징역 7년 선고",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Kim Gun-hee Conviction Appeal and Judge Death",
+      "topic_ko": "김건희 항소심 징역 4년 선고 및 담당 판사 사망",
+      "summary": "Former First Lady Kim Gun-hee was sentenced to four years in prison in her April 28 appeal ruling on stock price manipulation and gift-taking charges; the presiding judge was found dead near the courthouse on May 6. Both the defense and the special prosecutor have since appealed to the Supreme Court.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.7,
+      "salience": 0.78,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "김건희 2심 선고, 징역 4년으로 늘어…도이치 주가조작·통일교 금품수수 유죄",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/05/06/20260506500041"
+        },
+        {
+          "title": "'김건희 유죄' 항소심 판사 숨진 채 발견",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/accident/2026/05/07/20260507010001"
+        },
+        {
+          "title": "김건희-명태균-건진법사 게이트/재판/김건희 — 항소심 전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC-%EB%AA%85%ED%83%9C%EA%B7%A0-%EA%B1%B4%EC%A7%84%EB%B2%95%EC%82%AC%20%EA%B2%8C%EC%9D%B4%ED%8A%B8/%EC%9E%AC%ED%8C%90/%EA%B9%80%EA%B1%B4%ED%9D%AC"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Constitutional Amendment Referendum Collapse",
+      "topic_ko": "개헌 국민투표 무산 — 국민의힘 표결 보이콧",
+      "summary": "The PPP boycotted two consecutive National Assembly votes on a constitutional amendment in early May, causing the planned simultaneous constitutional referendum on June 3 to collapse. The amendment would have strengthened parliamentary oversight of martial law and enshrined the May 18 Gwangju uprising in the constitutional preamble; DPK blamed the PPP for election-year obstruction.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.2,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.65,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "39년 만의 개헌 무산‥\"선거용 반대\" vs \"상정 자체가 위헌\"",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6821072_37004.html"
+        },
+        {
+          "title": "국회, 오늘 개헌안 재표결…투표 무산 땐 '6·3 동시투표' 불발",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061371"
+        },
+        {
+          "title": "제10차 개헌/제22대 국회 개헌안 — 국민의힘 보이콧 경위",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Fabricated Prosecution Special Counsel Bill Dispute",
+      "topic_ko": "조작기소 특검법·공소취소권 논란",
+      "summary": "The DPK introduced a special counsel bill following its 'fabricated prosecution' parliamentary investigation, controversially including a power to drop charges in ongoing cases. The PPP is attacking the bill as an 'Lee Jae-myung self-pardon scheme,' and dissent has also emerged within the DPK; the ruling party aims to pass it in May.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.15,
+      "sentiment_ppp": "positive",
+      "sentiment_score_ppp": 0.2,
+      "salience": 0.57,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "민주당 \"조작기소 바로잡을 특검 필요\" vs 국민의힘 \"셀프 면죄부\"",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html"
+        },
+        {
+          "title": "與, '공소취소권 부여' 조작기소 특검법 발의…野 \"셀프면죄\"(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604302228109417"
+        },
+        {
+          "title": "민주당 내 첫 공개 반대…조작기소 특검법 '공소취소 권한' 논란 확산",
+          "outlet": "한국연합신문",
+          "url": "https://www.koreaunionnews.com/2141382"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Trump Tariff Pressure on Korea Trade Deal",
+      "topic_ko": "트럼프 한국 관세 25% 재인상 압박 및 대미투자법",
+      "summary": "Trump threatened to raise tariffs on Korean goods back to 25% from the negotiated 15%, citing the National Assembly's delay in passing a special bill to fund Korea's $350 billion US-investment commitment. The PPP has labeled the situation a 'tariff disaster' and blamed the Lee government for not seeking formal parliamentary ratification of the trade agreement.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.45,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.48,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "트럼프, 한국 관세 15%→25% 재인상 선언... 대미투자법 처리 압박",
+          "outlet": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003202018"
+        },
+        {
+          "title": "트럼프, 15→25% 날벼락 관세 인상‥대체 왜?",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6796680_37004.html"
+        },
+        {
+          "title": "2025년 세계 무역 전쟁/대한민국 — 관세 재인상 압박 경위",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/2025%EB%85%84%20%EC%84%B8%EA%B3%84%20%EB%AC%B4%EC%97%AD%20%EC%A0%84%EC%9F%81/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Lee Jae-myung Approval Rating Hits Record High",
+      "topic_ko": "이재명 대통령 국정 지지율 65.5% 최고치 기록",
+      "summary": "President Lee Jae-myung's job-approval rating reached a post-inauguration high of 65.5% in mid-May polling, with the DPK at 50.5% party support and the PPP at 31.4%. The strong numbers are shaping the DPK's confidence entering the June 3 elections.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.75,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.4,
+      "salience": 0.38,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC iMBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "이재명 대통령 국정수행 지지율 65.5% 기록 — 2026년 5월 23일 주요 뉴스",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260523-today-news.html"
+        },
+        {
+          "title": "이재명/지지율 — 5월 NBS 67% 포함 추이",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85/%EC%A7%80%EC%A7%80%EC%9C%A8"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Roh Moo-hyun 17th Memorial Shapes Election Mood",
+      "topic_ko": "노무현 전 대통령 서거 17주기 추도식 — 이재명 대통령 참석",
+      "summary": "President Lee Jae-myung attended the 17th memorial ceremony for former President Roh Moo-hyun at Bongha Village on May 23, the first sitting presidential attendance in nine years. The event drew leading DPK figures and was folded into the party's election-week narrative around democratic values and political continuity.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.5,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.28,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "오늘 노무현 전 대통령 17주기…與, 선거전 잠시 멈추고 '추모'",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/23/2026052216131154595"
+        },
+        {
+          "title": "노무현 전 대통령 17주기 추도식 봉하마을서 엄수",
+          "outlet": "아주경제",
+          "url": "https://www.ajunews.com/view/20260523155554820"
+        },
+        {
+          "title": "[D-BIZ 정치 리포트] 노무현 전 대통령 서거 17주기 추도식 봉하마을 개최",
+          "outlet": "데일리비즈온",
+          "url": "https://www.dailybizon.com/news/articleView.html?idxno=67348"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}

@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-23T00:00:00Z",
+  "captured_at": "2026-05-24T04:30:00Z",
   "method": "nesdc_scrape",
-  "method_notes": "Coverage from 8 weekly buckets spanning Dec 2025–May 2026; sourced from MBC/Korea Research International (5 CATI waves), SBS/IPSOS (2 waves), StraightNews/JoWon C&I (3 waves), Korea Gallup for Segye Ilbo & News1 (2 waves), KBS/Hanguk Research, 뉴시스/Ace Research, 뉴데일리/ResearchWell, and PennMike/여론조사공정 (ARS). No polls found for Nov 2025, Jan 2026, or Mar 2026; mix of head-to-head and multi-candidate question formats may cause week-to-week comparability differences.",
+  "method_notes": "Polls sourced from MBC/Korea Research, KBS/Korea Research, SBS/Ipsos, CBS/KSOI, Jowon C&I/Straight News, ACE Research/Newsis, ResearchWell/Newdaily, Research&Research/ChannelA, K-Stat/JoongAng, and Yelon-Gongjeong/PenNMike; fielded Nov 2025 – May 2026. CAUTION: Nov–Dec 2025 data (weeks 2025-W46 and 2025-W50) are from multi-candidate open-field preference polls so shares (≈11–29%) are not comparable to the head-to-head/양자대결 figures (≈32–50%) used in all 2026 weekly buckets. No polls were located for Jan–Mar 2026 or for early April prior to candidate confirmation on April 19.",
   "interval": "1w",
   "candidates": [
     {
@@ -10,6 +10,22 @@
       "name_ko": "정원오",
       "party_id": "dpk",
       "series": [
+        {
+          "t": "2025-11-10T00:00:00Z",
+          "p": 0.112,
+          "n_polls": 1,
+          "sources": [
+            "other-yelon-gongjeong"
+          ]
+        },
+        {
+          "t": "2025-12-08T00:00:00Z",
+          "p": 0.23,
+          "n_polls": 1,
+          "sources": [
+            "other-yelon-gongjeong"
+          ]
+        },
         {
           "t": "2025-12-29T00:00:00Z",
           "p": 0.34,
@@ -20,27 +36,20 @@
         },
         {
           "t": "2026-02-09T00:00:00Z",
-          "p": 0.39,
-          "n_polls": 2,
-          "sources": [
-            "korea-research",
-            "other-ipsos"
-          ]
-        },
-        {
-          "t": "2026-04-06T00:00:00Z",
-          "p": 0.52,
+          "p": 0.4,
           "n_polls": 1,
           "sources": [
-            "gallup-korea"
+            "korea-research"
           ]
         },
         {
           "t": "2026-04-20T00:00:00Z",
-          "p": 0.497,
-          "n_polls": 1,
+          "p": 0.461,
+          "n_polls": 3,
           "sources": [
-            "other-jowon-cni"
+            "korea-research",
+            "other-jowon",
+            "other-ksoi"
           ]
         },
         {
@@ -54,31 +63,33 @@
         },
         {
           "t": "2026-05-04T00:00:00Z",
-          "p": 0.481,
-          "n_polls": 2,
+          "p": 0.502,
+          "n_polls": 1,
           "sources": [
-            "other-jowon-cni",
-            "gallup-korea"
+            "other-jowon"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.4357,
+          "p": 0.4363,
           "n_polls": 3,
           "sources": [
-            "other-yeoron-gongjong",
-            "other-hanguk-research",
-            "korea-research"
+            "korea-research",
+            "other-ksoi"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.4223,
-          "n_polls": 3,
+          "p": 0.44,
+          "n_polls": 7,
           "sources": [
-            "other-ace-research",
-            "other-jowon-cni",
-            "other-researchwell"
+            "korea-research",
+            "other-ace",
+            "other-jowon",
+            "other-ksoi",
+            "other-kstat",
+            "other-researchwell",
+            "other-rnr"
           ]
         }
       ]
@@ -88,6 +99,22 @@
       "name_ko": "오세훈",
       "party_id": "ppp",
       "series": [
+        {
+          "t": "2025-11-10T00:00:00Z",
+          "p": 0.243,
+          "n_polls": 1,
+          "sources": [
+            "other-yelon-gongjeong"
+          ]
+        },
+        {
+          "t": "2025-12-08T00:00:00Z",
+          "p": 0.292,
+          "n_polls": 1,
+          "sources": [
+            "other-yelon-gongjeong"
+          ]
+        },
         {
           "t": "2025-12-29T00:00:00Z",
           "p": 0.36,
@@ -99,26 +126,19 @@
         {
           "t": "2026-02-09T00:00:00Z",
           "p": 0.36,
-          "n_polls": 2,
-          "sources": [
-            "korea-research",
-            "other-ipsos"
-          ]
-        },
-        {
-          "t": "2026-04-06T00:00:00Z",
-          "p": 0.37,
           "n_polls": 1,
           "sources": [
-            "gallup-korea"
+            "korea-research"
           ]
         },
         {
           "t": "2026-04-20T00:00:00Z",
-          "p": 0.359,
-          "n_polls": 1,
+          "p": 0.3443,
+          "n_polls": 3,
           "sources": [
-            "other-jowon-cni"
+            "korea-research",
+            "other-jowon",
+            "other-ksoi"
           ]
         },
         {
@@ -133,30 +153,32 @@
         {
           "t": "2026-05-04T00:00:00Z",
           "p": 0.38,
-          "n_polls": 2,
+          "n_polls": 1,
           "sources": [
-            "other-jowon-cni",
-            "gallup-korea"
+            "other-jowon"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.3653,
+          "p": 0.356,
           "n_polls": 3,
           "sources": [
-            "other-yeoron-gongjong",
-            "other-hanguk-research",
-            "korea-research"
+            "korea-research",
+            "other-ksoi"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.43,
-          "n_polls": 3,
+          "p": 0.3923,
+          "n_polls": 7,
           "sources": [
-            "other-ace-research",
-            "other-jowon-cni",
-            "other-researchwell"
+            "korea-research",
+            "other-ace",
+            "other-jowon",
+            "other-ksoi",
+            "other-kstat",
+            "other-researchwell",
+            "other-rnr"
           ]
         }
       ]
