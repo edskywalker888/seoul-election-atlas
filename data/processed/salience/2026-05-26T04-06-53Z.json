@@ -1,0 +1,252 @@
+{
+  "captured_at": "2026-05-26T04:06:53.232Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819240_37004.html",
+    "https://issue.daum.net/election/2026",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html",
+    "https://www.khan.co.kr/article/202605241742001",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6824935_37004.html",
+    "https://www.khan.co.kr/en/article/202605232140017",
+    "https://www.edaily.co.kr/News/Read?newsId=01453046645452200&mediaCodeNo=257",
+    "https://www.mt.co.kr/society/2026/05/25/2026052510044765918",
+    "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html",
+    "https://www.fnnews.com/news/202604302228109417",
+    "https://biz.heraldcorp.com/article/10732668",
+    "https://www.fnnews.com/news/202604250602083647",
+    "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6823775_37004.html",
+    "https://www.fnnews.com/news/202605151920479439",
+    "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul",
+    "https://www.aei.org/articles/korean-peninsula-update-may-12-2026/",
+    "https://www.ytn.co.kr/"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Stretch",
+      "topic_ko": "6·3 지방선거 막판 판세",
+      "summary": "With eight days until the June 3 local elections, DPK candidates lead in most major races—Seoul Mayor polling at 43–48% vs. PPP incumbent Oh Se-hun at 32%, Busan in a close contest—while conservative vote consolidation remains incomplete, with PPP party support stuck around 20–23%.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.95,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "[MBC여론조사] 서울시장 가상 양자 대결‥정원오 48% VS 오세훈 32%",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819240_37004.html"
+        },
+        {
+          "title": "6·3 지방선거 결과와 관련해 더불어민주당 후보를 지지한다는 여론이 다수",
+          "outlet": "Daum Issue",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "[여론M] 보수 결집이라는데 국민의힘 지지율은 제자리‥왜?",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Starbucks Tank Day 5.18 Desecration Scandal",
+      "topic_ko": "스타벅스 탱크데이 5·18 모욕 논란",
+      "summary": "Starbucks Korea's May 18 'Tank Day' promotional event was widely condemned as mocking the Gwangju Uprising; Shinsegae chairman Jung Yong-jin held a public apology press conference on May 26 after a boycott and criminal complaints spread, with the episode benefiting DPK and damaging PPP due to PPP leader Jang Dong-hyeok's framing around conservative mobilization.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.85,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "정용진 회장, 결국 직접 나선다···26일 '스벅 탱크데이 논란' 대국민 사과",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605241742001"
+        },
+        {
+          "title": "스타벅스 '탱크데이', 정용진이 대국민 사과한다‥자체 진상조사 결과도 발표",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6824935_37004.html"
+        },
+        {
+          "title": "\"An immoral act by a vicious huckster\"···President Lee Jae Myung harshly denounces the Starbucks '4·16 Siren Event'",
+          "outlet": "경향신문 (English)",
+          "url": "https://www.khan.co.kr/en/article/202605232140017"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Insurrection Trials Perjury Verdict Imminent",
+      "topic_ko": "윤석열 내란·위증 재판 선고 임박",
+      "summary": "Following his February 2026 life sentence for leading the December 2024 insurrection, former President Yoon Suk-yeol faces an additional first-instance verdict on May 28 for alleged perjury during the Han Deok-su insurrection trial, with the special prosecutor seeking a two-year sentence.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.7,
+      "salience": 0.75,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "'한덕수 재판 위증' 윤석열, 28일 1심 선고…특검 \"징역 2년 선고해달라\"",
+          "outlet": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01453046645452200&mediaCodeNo=257"
+        },
+        {
+          "title": "윤석열 '한덕수 재판 위증' 혐의 이번주 1심 선고",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/25/2026052510044765918"
+        },
+        {
+          "title": "Yoon Suk Yeol: Former South Korean President handed life sentence for leading insurrection",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/02/19/asia/south-korea-yoon-suk-yeol-verdict-insurrection-intl-hnk"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "DPK Prosecution Reform Special Prosecutor Bill",
+      "topic_ko": "조작기소 특검·공소취소 논란",
+      "summary": "The ruling DPK is pushing a special prosecutor bill targeting alleged prosecutorial misconduct under the Yoon government, which includes a provision allowing the special prosecutor to withdraw charges; the PPP is framing this as 'self-acquittal' legislation designed to erase President Lee Jae-myung's pending criminal cases.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.15,
+      "sentiment_ppp": "positive",
+      "sentiment_score_ppp": 0.3,
+      "salience": 0.65,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "민주당 \"조작기소 바로잡을 특검 필요\" vs 국민의힘 \"셀프면죄\"",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819457_37004.html"
+        },
+        {
+          "title": "與, '공소취소권 부여' 조작기소 특검법 발의…野 \"셀프면죄\"(종합)",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604302228109417"
+        },
+        {
+          "title": "청와대 달려간 국민의힘 '공소취소 특검법' 총공세",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10732668"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "PPP Leadership Crisis Incomplete Conservative Rally",
+      "topic_ko": "국민의힘 지도부 위기·보수 결집 미완",
+      "summary": "PPP chair Jang Dong-hyeok has weathered internal resignation calls but the party's national poll share remains stagnant at around 20–23%, well below the pre-presidential-election baseline, with analysts describing conservative mobilization as 'incomplete' ahead of the June 3 vote.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.55,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "장동혁 사퇴론 확산, 버티는 張…지방선거 코앞 혼돈의 국힘",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604250602083647"
+        },
+        {
+          "title": "[여론M] 보수 결집이라는데 국민의힘 지지율은 제자리‥왜?",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html"
+        },
+        {
+          "title": "이재명 대통령 지지율 61%, 민주당 45%·국민의힘 23%",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "President Lee Jae-myung Approval Rating Trends",
+      "topic_ko": "이재명 대통령 국정지지율 동향",
+      "summary": "President Lee Jae-myung's approval rating sits at 59–65%, slightly down from a post-inauguration peak; analysts attribute a recent dip partly to public debate over the special prosecutor bill's charge-withdrawal provision, while DPK retains a commanding 45–50% party support lead.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.5,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": -0.1,
+      "salience": 0.5,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "이재명 대통령 지지율 61%, 민주당 45%·국민의힘 23%",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Han Dong-hoon Independent Busan By-election Bid",
+      "topic_ko": "한동훈 무소속 부산 북구갑 출마",
+      "summary": "Former PPP leader Han Dong-hoon is running as an independent in the Busan Buk-gu Gap by-election on June 3, currently trailing DPK candidate Ha Jeong-u 33% to 38%, in a race that tests whether Han can rebuild political relevance outside the party he was expelled from.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.35,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.25,
+      "salience": 0.42,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "[MBC여론조사] 부산 북구갑 하정우 38% 한동훈 33%",
+          "outlet": "MBC iNews",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6823775_37004.html"
+        },
+        {
+          "title": "한동훈, 부산 북갑 후보 등록…하정우·박민식·한동훈, 나란히 마을축제 참석",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605151920479439"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "North Korea Artillery Destroyer Military Escalation",
+      "topic_ko": "북한 장사정포·구축함 군사위협",
+      "summary": "North Korea announced deployment of new long-range artillery systems capable of striking Seoul and commissioned a naval destroyer in May 2026, with Kim Jong-un issuing directives for 'swift and decisive' attack capabilities, raising cross-party calls for vigilance but generating limited domestic political polarization.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.3,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "North Korea says it will deploy new artillery guns targeting Seoul",
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul"
+        },
+        {
+          "title": "Korean Peninsula Update, May 12, 2026",
+          "outlet": "AEI",
+          "url": "https://www.aei.org/articles/korean-peninsula-update-may-12-2026/"
+        },
+        {
+          "title": "[자막뉴스] \"기습공격·속전속결로 끝낸다\"...김정은의 섬뜩한 지시",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
