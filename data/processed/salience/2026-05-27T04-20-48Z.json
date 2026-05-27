@@ -1,0 +1,242 @@
+{
+  "captured_at": "2026-05-27T04:20:48.474Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6824402_37004.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html",
+    "https://www.khan.co.kr/article/202604280600061",
+    "https://www.mt.co.kr/society/2026/05/25/2026052510044765918",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://imnaws.imbc.com/replay/2026/nw1400/article/6801773_36974.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6819614_36911.html",
+    "https://www.asiae.co.kr/article/2026051911131013024",
+    "https://www.munhwa.com/article/11591241",
+    "https://imnaws.imbc.com/news/2026/politics/article/6825011_36911.html",
+    "https://www.newsis.com/view/NISX20260525_0003642831",
+    "https://www.mt.co.kr/politics/2026/05/25/2026052510140296242",
+    "https://www.seoul.co.kr/news/society/accident/2026/05/07/20260507010001",
+    "https://www.seoul.co.kr/news/society/2026/05/06/20260506500041",
+    "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html",
+    "https://www.newdaily.co.kr/site/data/html/2026/05/22/2026052200124.html",
+    "https://issue.daum.net/election/2026/pyeongtaek",
+    "https://issue.daum.net/election/2026",
+    "https://www.mt.co.kr/economy/2026/05/21/2026052108393375556",
+    "https://www.kdi.re.kr/research/economy"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Stretch",
+      "topic_ko": "6·3 지방선거 막판 경쟁",
+      "summary": "The June 3 nationwide local elections and concurrent parliamentary by-elections are in their final days of campaigning. DPK leads polls in most metropolitan races while PPP is rallying conservative base through park Geun-hye stump tours; Seoul, Daegu, Gyeongnam, and Jeonbuk are rated competitive.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 0.92,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "막 오른 지방선거‥여 '일 잘하는 지방 정부', 야 '정권 독주 견제해야'",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6824402_37004.html"
+        },
+        {
+          "title": "[여론M] 보수 결집이라는데 국민의힘 지지율은 제자리‥왜?",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html"
+        },
+        {
+          "title": "\"보수 결집 온다, 여당 우세 9~13곳\"···여론조사 전문가들이 본 6·3 지방선거 판세",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604280600061"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Insurrection Trial First Verdict",
+      "topic_ko": "윤석열 내란 1심 선고",
+      "summary": "The first-instance verdict in former President Yoon Suk-yeol's insurrection trial is scheduled for May 28, with a concurrent perjury sentencing in the Han Duck-soo trial case; special prosecutors have already filed appeals in related proceedings, and PPP leadership has stated it will issue no official reaction.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.8,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 '한덕수 재판 위증' 혐의 이번주 1심 선고",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/25/2026052510044765918"
+        },
+        {
+          "title": "윤석열 내란 재판/전개 – 선고기일 2026년 5월 28일",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        },
+        {
+          "title": "[내란 1심 선고] '반성없는 윤석열 감형사유 없어‥내란죄 사형해야'",
+          "outlet": "MBC",
+          "url": "https://imnaws.imbc.com/replay/2026/nw1400/article/6801773_36974.html"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "DPK Prosecution-Dismissal Special Counsel Bill",
+      "topic_ko": "조작기소 특검 공소취소 논란",
+      "summary": "A bill introduced by DPK lawmakers would grant a new special prosecutor authority to drop all charges against President Lee Jae-myung stemming from the previous administration, drawing sharp criticism from the PPP, legal scholars, and even the prosecutor-general's office over separation-of-powers concerns; the DPK has signaled the push will resume after the June 3 elections.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.1,
+      "salience": 0.78,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "정진석 '이재명 공소취소 특검법이 내란'",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6819614_36911.html"
+        },
+        {
+          "title": "국힘 '공소취소 특검, 선거 이후 반드시 재추진 될 것'",
+          "outlet": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026051911131013024"
+        },
+        {
+          "title": "공소취소와 셀프 사면",
+          "outlet": "문화일보",
+          "url": "https://www.munhwa.com/article/11591241"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Starbucks 5·18 Mockery Boycott Controversy",
+      "topic_ko": "스타벅스 5·18 논란 및 불매운동",
+      "summary": "Starbucks Korea's May 18 tank-tumbler promotional event triggered a nationwide boycott after critics said it mocked the Gwangju Democratization Movement; PPP leader Jang Dong-hyuk defended those opposing the boycott, characterizing it as DPK election-season agitation, deepening the party's association with 5·18 minimization narratives.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.15,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.72,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "장동혁 '스타벅스 논란, 선거용 인민재판이자 죽창가'",
+          "outlet": "MBC",
+          "url": "https://imnaws.imbc.com/news/2026/politics/article/6825011_36911.html"
+        },
+        {
+          "title": "장동혁 국민의힘 대표, '스벅 5·18 모독 따지려면 정원오도 사퇴해야'",
+          "outlet": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260525_0003642831"
+        },
+        {
+          "title": "장동혁 '민주당, 스벅 5·18 정신 훼손 따지려면 송영길·우상호 공천 철회하라'",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/25/2026052510140296242"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Kim Geun-hye Conviction and Judge Death",
+      "topic_ko": "김건희 유죄 판결과 담당 판사 사망",
+      "summary": "The Seoul High Court sentenced Kim Geun-hye (former President Yoon's wife) to four years in prison for stock manipulation and bribery in late April; the presiding judge Shin Jong-oh was subsequently found dead near the court building in early May, prompting national shock and Supreme Court appeals by both the defense and special prosecutors.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.7,
+      "salience": 0.68,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "'김건희 유죄' 항소심 판사 숨진 채 발견",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/accident/2026/05/07/20260507010001"
+        },
+        {
+          "title": "'김건희 항소심 유죄' 신종오 판사 숨진 채 발견… 경찰 '사망 경위 수사'",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/05/06/20260506500041"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "President Lee Jae-myung Approval Trends",
+      "topic_ko": "이재명 대통령 국정 지지율 동향",
+      "summary": "President Lee Jae-myung's approval rating remains elevated at 54–66% across major pollsters but has edged down several points in May, attributed in part to public unease over the prosecution-dismissal special counsel bill; DPK party support stands at roughly double that of the PPP.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.62,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 지지율 61%, 민주당 45%·국민의힘 23%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html"
+        },
+        {
+          "title": "李 대통령 국정 지지도 53.8% … 민주 42.5% vs 국힘 36.2%",
+          "outlet": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/05/22/2026052200124.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Cho Guk Pyeongtaek By-Election Race",
+      "topic_ko": "조국 평택을 재보궐 선거",
+      "summary": "Rebuilding Korea Party leader Cho Guk is contesting the Pyeongtaek-eul parliamentary by-election alongside DPK and PPP candidates in a five-way race; recent polls show Cho narrowly leading in a contest that has become a high-profile test of third-party viability.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.5,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "\"그래도 여당\" \"조국 살려야\" \"토박이 유의동\"‥평택을 민심 들어보니",
+          "outlet": "MBC",
+          "url": "https://issue.daum.net/election/2026/pyeongtaek"
+        },
+        {
+          "title": "6·3 지방선거와 함께 치러지는 경기 '평택을' 재보궐 선거에서 조국 대표 오차범위 내 1위",
+          "outlet": "뉴스1",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Korea Export Surge and Economic Rebound",
+      "topic_ko": "수출 급등과 경기 회복세",
+      "summary": "Korea's exports jumped 64.8% year-on-year in the first 20 days of May with semiconductor exports up over 200%, lifting business confidence to a three-and-a-half-year high and providing a favorable economic backdrop for the governing DPK ahead of the local elections.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.5,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.42,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "[속보] 5월 1~20일 수출 64.8%↑…반도체 202.1% 늘었다",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/05/21/2026052108393375556"
+        },
+        {
+          "title": "KDI 경제전망: 반도체 수출 대폭 증가, 서비스업도 개선되면서 경기 회복세",
+          "outlet": "KDI",
+          "url": "https://www.kdi.re.kr/research/economy"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
