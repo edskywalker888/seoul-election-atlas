@@ -1,0 +1,266 @@
+{
+  "captured_at": "2026-05-28T04:10:23.142Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html",
+    "https://issue.daum.net/election/2026",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://www.mt.co.kr/society/2026/05/25/2026052510044765918",
+    "https://www.newspim.com/news/view/20260527000948",
+    "https://www.khan.co.kr/",
+    "https://www.fnnews.com/news/202605280630454417",
+    "https://www.fnnews.com/news/202604291751514122",
+    "https://www.newspim.com/news/view/20260528000025",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6824935_37004.html",
+    "https://www.ytn.co.kr/_ln/0103_202605221045358838",
+    "https://namu.wiki/w/%ED%95%9C%EA%B5%AD%20%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%ED%83%B1%ED%81%AC%EB%8D%B0%EC%9D%B4%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%85%BC%EB%9E%80",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6823440_37004.html",
+    "https://www.dt.co.kr/article/12061371",
+    "https://www.mediatoday.co.kr/news/articleView.html?idxno=334508",
+    "https://www.newspim.com/news/view/20260528000322",
+    "https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85/%EC%A7%80%EC%A7%80%EC%9C%A8",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003196803",
+    "https://www.sedaily.com/article/20048826",
+    "https://biz.heraldcorp.com/article/10757826",
+    "https://namu.wiki/w/%EC%84%9C%EC%86%8C%EB%AC%B8%EA%B3%A0%EA%B0%80%EB%8F%84%EB%A1%9C%20%EB%B6%95%EA%B4%B4%20%EC%82%AC%EA%B3%A0",
+    "https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC-%EB%AA%85%ED%83%9C%EA%B7%A0-%EA%B1%B4%EC%A7%84%EB%B2%95%EC%82%AC%20%EA%B2%8C%EC%9D%B4%ED%8A%B8/%EC%9E%AC%ED%8C%90/%EA%B9%80%EA%B1%B4%ED%9D%AC",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4/%EC%9E%AC%ED%8C%90",
+    "https://namu.wiki/w/3%EB%8C%80%20%ED%8A%B9%EA%B2%80%20%ED%8A%B9%EB%B3%84%EC%88%98%EC%82%AC%EB%B3%B8%EB%B6%80/%EC%88%98%EC%82%AC/%EA%B9%80%EA%B1%B4%ED%9D%AC%20%EC%82%AC%EA%B1%B4%20%EC%88%98%EC%82%AC%ED%8C%80"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Stretch",
+      "topic_ko": "6·3 지방선거 막판 판세",
+      "summary": "With less than a week until South Korea's June 3 local elections, the DPK holds broad leads in most major races while PPP struggles with incomplete conservative consolidation, unusually high undecided voter rates (~20%), and a double-digit party support deficit. Key battlegrounds include Seoul mayor, Daegu mayor, and Gangwon governor.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.95,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "[여론M] 보수 결집이라는데 국민의힘 지지율은 제자리‥왜?",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html"
+        },
+        {
+          "title": "다양한 지방선거 기사를 만나보세요",
+          "outlet": "Daum 이슈",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Seok-yeol Perjury Trial Verdict",
+      "topic_ko": "윤석열 위증 혐의 1심 무죄 선고",
+      "summary": "On May 28, a Seoul Central District Court acquitted former President Yoon Seok-yeol on perjury charges stemming from his testimony in the Han Duck-soo insurrection trial. The special prosecution team signaled it would review the ruling and consider an appeal.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.45,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.2,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "윤석열 '한덕수 재판 위증' 혐의 이번주 1심 선고",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/25/2026052510044765918"
+        },
+        {
+          "title": "'한덕수 재판 위증' 尹 · '사후 계엄선포문 작성' 강의구 오늘 선고",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260527000948"
+        },
+        {
+          "title": "속보 윤석열, '한덕수 재판 위증' 혐의 무죄",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Kang Eui-gu Post-Martial-Law Document Sentencing",
+      "topic_ko": "강의구 사후 계엄선포문 작성 1심 선고",
+      "summary": "Former presidential aide Kang Eui-gu, accused of fabricating a backdated martial law declaration document after the December 3 insurrection to make the emergency decree appear procedurally legitimate, faces his first-instance sentencing on May 28. The special prosecution sought a five-year prison term.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.35,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.72,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "'사후 계엄 선포문' 강의구, 오늘 1심 결론…특검, 징역 5년 구형",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605280630454417"
+        },
+        {
+          "title": "'사후 계엄선포문' 강의구 징역 5년 구형…'내란 세력 비호'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604291751514122"
+        },
+        {
+          "title": "[오늘의 정치일정] 5월 28일(목)",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260528000025"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Starbucks Tank Day 5.18 Controversy",
+      "topic_ko": "스타벅스 탱크데이 5·18 논란",
+      "summary": "A May 18 Starbucks Korea promotional event titled 'Tank Day' using imagery evoking the 1980 Gwangju massacre sparked a national boycott; Shinsegae chairman Jeong Yong-jin issued a public in-person apology on May 26 but backlash continues, with civil-society groups demanding his resignation and criminal complaints filed.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.5,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.35,
+      "salience": 0.68,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "스타벅스 '탱크데이', 정용진이 대국민 사과한다‥자체 진상조사 결과도 발표",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6824935_37004.html"
+        },
+        {
+          "title": "[사회] '탱크 데이' 논란 확산...정용진 포토라인 서나",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202605221045358838"
+        },
+        {
+          "title": "한국 스타벅스 탱크데이 이벤트 논란",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%ED%95%9C%EA%B5%AD%20%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%ED%83%B1%ED%81%AC%EB%8D%B0%EC%9D%B4%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%85%BC%EB%9E%80"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Constitutional Amendment Bill Collapse",
+      "topic_ko": "개헌안 부결·무산 후폭풍",
+      "summary": "The Lee government's constitutional reform bill — incorporating the May 18 Gwangju spirit and tightening martial law controls — was ultimately shelved on May 8 after PPP lawmakers boycotted both floor votes; the ruling DPK and PPP continue to trade blame heading into the local elections.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.6,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 '5·18 정신 헌법에'‥개헌 재추진 의지",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6823440_37004.html"
+        },
+        {
+          "title": "국회, 오늘 개헌안 재표결…투표 무산 땐 '6·3 동시투표' 불발",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12061371"
+        },
+        {
+          "title": "개헌 무산시킨 장동혁 '5·18 정신 무너뜨린 이재명' 주장",
+          "outlet": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334508"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Government One-Year Anniversary Review",
+      "topic_ko": "이재명 정부 출범 1주년 평가",
+      "summary": "The Lee Jae-myung administration marks its first year in office on May 28, highlighting a 2.5% GDP growth forecast, a US-Korea tariff deal (auto tariffs at 15%), restored China relations, and an approval rating of approximately 62–65%. Government and party media are publishing comprehensive achievement assessments.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.7,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.4,
+      "salience": 0.52,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "[이재명 정부 1년] '대전환 시동'…민주주의 복원·AI 강국·방산 수출 154억달러",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260528000322"
+        },
+        {
+          "title": "이재명/지지율",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85/%EC%A7%80%EC%A7%80%EC%9C%A8"
+        },
+        {
+          "title": "이재명 대통령 취임 6개월 성과와 2026년 과제",
+          "outlet": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003196803"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Seosomun Overpass Collapse Safety Scandal",
+      "topic_ko": "서소문 고가차도 붕괴 사고 정치 공방",
+      "summary": "The May 26 partial collapse of Seoul's Seosomun overpass during demolition work, killing workers, triggered an emergency DPK-government joint meeting on May 28 and intense political scrutiny of Seoul's safety management under PPP Mayor Oh Se-hoon, becoming a late-breaking issue in the Seoul mayoral race.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.43,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "[단독] 서소문 고가차도 붕괴에 당정 긴급회의…사고 수습·재발방지 논의",
+          "outlet": "서울경제",
+          "url": "https://www.sedaily.com/article/20048826"
+        },
+        {
+          "title": "정청래 '서소문 고가 붕괴 분명한 책임을'",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10757826"
+        },
+        {
+          "title": "서소문고가도로 붕괴 사고",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%84%9C%EC%86%8C%EB%AC%B8%EA%B3%A0%EA%B0%80%EB%8F%84%EB%A1%9C%20%EB%B6%95%EA%B4%B4%20%EC%82%AC%EA%B3%A0"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Kim Keon-hee Supreme Court Appeal",
+      "topic_ko": "김건희 대법원 상고심 공방",
+      "summary": "Both the special prosecution and former First Lady Kim Keon-hee's defense filed Supreme Court appeals in early May against the appellate ruling that convicted her on stock-manipulation and gift-acceptance charges, keeping the Kim Keon-hee-Myungtaekyun gate scandal in the headlines ahead of elections.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.35,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "김건희-명태균-건진법사 게이트/재판/김건희",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC-%EB%AA%85%ED%83%9C%EA%B7%A0-%EA%B1%B4%EC%A7%84%EB%B2%95%EC%82%AC%20%EA%B2%8C%EC%9D%B4%ED%8A%B8/%EC%9E%AC%ED%8C%90/%EA%B9%80%EA%B1%B4%ED%9D%AC"
+        },
+        {
+          "title": "윤석열/재판",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4/%EC%9E%AC%ED%8C%90"
+        },
+        {
+          "title": "3대 특검 특별수사본부/수사/김건희 사건 수사팀",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/3%EB%8C%80%20%ED%8A%B9%EA%B2%80%20%ED%8A%B9%EB%B3%84%EC%88%98%EC%82%AC%EB%B3%B8%EB%B6%80/%EC%88%98%EC%82%AC/%EA%B9%80%EA%B1%B4%ED%9D%AC%20%EC%82%AC%EA%B1%B4%20%EC%88%98%EC%82%AC%ED%8C%80"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}

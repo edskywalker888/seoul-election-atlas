@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-26T12:00:00Z",
+  "captured_at": "2026-05-28T07:45:00Z",
   "method": "nesdc_scrape",
-  "method_notes": "20 confirmed vote-intention polls from 8 ISO-week buckets (Dec 2025–May 2026), sourced from news-outlet articles citing NESDC-filed polls (MBC/코리아리서치, SBS/입소스, KBS/한국리서치, 갤럽/세계일보, 갤럽/뉴스1, 채널A/RnR, 중앙일보/케이스탯, 조선일보/메트릭스, CBS/KSOI, 뉴시스/에이스리서치, 스트레이트뉴스/조원씨앤아이, 에브리뉴스/에브리리서치). Coverage gaps: Jan 5–Feb 8, Feb 16–Apr 5, Apr 13–19, May 25–26. Mixed methodology: CATI telephone-interview polls show Chong ahead by 7–11 pp; ARS polls show a 0–5 pp gap; two-candidate (양자) questions inflate both frontrunners' shares. Candidate-suitability (적합도/적임자) polls excluded.",
+  "method_notes": "Six weekly buckets assembled from 12 verified polls (MBC/KRI, SBS/Ipsos, KBS/한국리서치, 에이스리서치, CBS/KSOI, 리서치웰, 리얼미터, 리서치앤리서치) sourced from Korean broadcast news and wire agencies; earlier weeks (Dec 2025, Feb 2026) use binary head-to-head matchup framing while most May 2026 polls use a multi-candidate ballot, and no accessible head-to-head polls were found for the Mar–Apr 20 2026 window.",
   "interval": "1w",
   "candidates": [
     {
@@ -15,7 +15,7 @@
           "p": 0.34,
           "n_polls": 1,
           "sources": [
-            "other-kridc"
+            "other-kri"
           ]
         },
         {
@@ -24,66 +24,44 @@
           "n_polls": 2,
           "sources": [
             "other-ipsos",
-            "other-kridc"
-          ]
-        },
-        {
-          "t": "2026-04-06T00:00:00Z",
-          "p": 0.52,
-          "n_polls": 1,
-          "sources": [
-            "gallup-korea"
-          ]
-        },
-        {
-          "t": "2026-04-20T00:00:00Z",
-          "p": 0.4765,
-          "n_polls": 2,
-          "sources": [
-            "other-jowon",
-            "other-ksoi"
+            "other-kri"
           ]
         },
         {
           "t": "2026-04-27T00:00:00Z",
-          "p": 0.4617,
-          "n_polls": 3,
-          "sources": [
-            "other-everyresearch",
-            "other-ipsos",
-            "other-kridc"
-          ]
-        },
-        {
-          "t": "2026-05-04T00:00:00Z",
-          "p": 0.481,
+          "p": 0.445,
           "n_polls": 2,
           "sources": [
-            "gallup-korea",
-            "other-jowon"
+            "other-kri",
+            "other-ipsos"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.4272,
-          "n_polls": 4,
+          "p": 0.43,
+          "n_polls": 1,
           "sources": [
-            "korea-research",
-            "other-kridc",
-            "other-ksoi",
-            "other-metrics"
+            "other-kri"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.4372,
-          "n_polls": 5,
+          "p": 0.4402,
+          "n_polls": 4,
           "sources": [
             "korea-research",
-            "other-aceresearch",
-            "other-jowon",
-            "other-kstat",
-            "other-rar"
+            "other-ace",
+            "other-ksoi",
+            "other-researchwel"
+          ]
+        },
+        {
+          "t": "2026-05-25T00:00:00Z",
+          "p": 0.492,
+          "n_polls": 2,
+          "sources": [
+            "realmeter",
+            "other-r-and-r"
           ]
         }
       ]
@@ -98,7 +76,7 @@
           "p": 0.36,
           "n_polls": 1,
           "sources": [
-            "other-kridc"
+            "other-kri"
           ]
         },
         {
@@ -107,66 +85,44 @@
           "n_polls": 2,
           "sources": [
             "other-ipsos",
-            "other-kridc"
-          ]
-        },
-        {
-          "t": "2026-04-06T00:00:00Z",
-          "p": 0.37,
-          "n_polls": 1,
-          "sources": [
-            "gallup-korea"
-          ]
-        },
-        {
-          "t": "2026-04-20T00:00:00Z",
-          "p": 0.3565,
-          "n_polls": 2,
-          "sources": [
-            "other-jowon",
-            "other-ksoi"
+            "other-kri"
           ]
         },
         {
           "t": "2026-04-27T00:00:00Z",
-          "p": 0.3413,
-          "n_polls": 3,
-          "sources": [
-            "other-everyresearch",
-            "other-ipsos",
-            "other-kridc"
-          ]
-        },
-        {
-          "t": "2026-05-04T00:00:00Z",
-          "p": 0.38,
+          "p": 0.33,
           "n_polls": 2,
           "sources": [
-            "gallup-korea",
-            "other-jowon"
+            "other-kri",
+            "other-ipsos"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.3595,
-          "n_polls": 4,
+          "p": 0.35,
+          "n_polls": 1,
           "sources": [
-            "korea-research",
-            "other-kridc",
-            "other-ksoi",
-            "other-metrics"
+            "other-kri"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.3758,
-          "n_polls": 5,
+          "p": 0.4058,
+          "n_polls": 4,
           "sources": [
             "korea-research",
-            "other-aceresearch",
-            "other-jowon",
-            "other-kstat",
-            "other-rar"
+            "other-ace",
+            "other-ksoi",
+            "other-researchwel"
+          ]
+        },
+        {
+          "t": "2026-05-25T00:00:00Z",
+          "p": 0.389,
+          "n_polls": 2,
+          "sources": [
+            "realmeter",
+            "other-r-and-r"
           ]
         }
       ]
