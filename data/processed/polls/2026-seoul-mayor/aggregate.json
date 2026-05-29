@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-28T07:45:00Z",
+  "captured_at": "2026-05-29T12:00:00Z",
   "method": "nesdc_scrape",
-  "method_notes": "Six weekly buckets assembled from 12 verified polls (MBC/KRI, SBS/Ipsos, KBS/한국리서치, 에이스리서치, CBS/KSOI, 리서치웰, 리얼미터, 리서치앤리서치) sourced from Korean broadcast news and wire agencies; earlier weeks (Dec 2025, Feb 2026) use binary head-to-head matchup framing while most May 2026 polls use a multi-candidate ballot, and no accessible head-to-head polls were found for the Mar–Apr 20 2026 window.",
+  "method_notes": "24 confirmed polls (20 telephone-interview CATI, 4 wireless ARS) sourced from public Korean news articles citing NESDC-registered filings by Korea Research (MBC/KBS), Gallup Korea (뉴스1/세계일보), Ipsos (SBS), Realmeter (뉴스핌), Embrain (문화일보), KSOI (CBS), R&R (채널A/동아일보), Kstat (중앙일보), Matrix (조선일보), Ace Research (뉴시스), ResearchWell (뉴데일리), and MetaVoice/ResearchLab (JTBC); gaps exist in Jan and Mar 2026 where no confirmable bilateral or multi-candidate poll was found in accessible sources; the Apr-06 Gallup Korea bilateral figure (52% vs 37%) is notably higher than contemporaneous multi-candidate readings and may reflect a two-way question framing.",
   "interval": "1w",
   "candidates": [
     {
@@ -15,16 +15,31 @@
           "p": 0.34,
           "n_polls": 1,
           "sources": [
-            "other-kri"
+            "korea-research"
           ]
         },
         {
           "t": "2026-02-09T00:00:00Z",
-          "p": 0.39,
-          "n_polls": 2,
+          "p": 0.4,
+          "n_polls": 1,
           "sources": [
-            "other-ipsos",
-            "other-kri"
+            "korea-research"
+          ]
+        },
+        {
+          "t": "2026-04-06T00:00:00Z",
+          "p": 0.52,
+          "n_polls": 1,
+          "sources": [
+            "gallup-korea"
+          ]
+        },
+        {
+          "t": "2026-04-20T00:00:00Z",
+          "p": 0.43,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
           ]
         },
         {
@@ -32,36 +47,52 @@
           "p": 0.445,
           "n_polls": 2,
           "sources": [
-            "other-kri",
+            "korea-research",
             "other-ipsos"
           ]
         },
         {
-          "t": "2026-05-11T00:00:00Z",
-          "p": 0.43,
+          "t": "2026-05-04T00:00:00Z",
+          "p": 0.46,
           "n_polls": 1,
           "sources": [
-            "other-kri"
+            "gallup-korea"
+          ]
+        },
+        {
+          "t": "2026-05-11T00:00:00Z",
+          "p": 0.4273,
+          "n_polls": 4,
+          "sources": [
+            "korea-research",
+            "other-ksoi",
+            "other-matrix"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.4402,
-          "n_polls": 4,
+          "p": 0.4448,
+          "n_polls": 8,
           "sources": [
             "korea-research",
             "other-ace",
             "other-ksoi",
-            "other-researchwel"
+            "other-kstat",
+            "other-researchwell",
+            "other-rr",
+            "realmeter"
           ]
         },
         {
           "t": "2026-05-25T00:00:00Z",
-          "p": 0.492,
-          "n_polls": 2,
+          "p": 0.4372,
+          "n_polls": 5,
           "sources": [
-            "realmeter",
-            "other-r-and-r"
+            "embrain",
+            "korea-research",
+            "other-ipsos",
+            "other-metavoice",
+            "other-rr"
           ]
         }
       ]
@@ -76,16 +107,31 @@
           "p": 0.36,
           "n_polls": 1,
           "sources": [
-            "other-kri"
+            "korea-research"
           ]
         },
         {
           "t": "2026-02-09T00:00:00Z",
           "p": 0.36,
-          "n_polls": 2,
+          "n_polls": 1,
           "sources": [
-            "other-ipsos",
-            "other-kri"
+            "korea-research"
+          ]
+        },
+        {
+          "t": "2026-04-06T00:00:00Z",
+          "p": 0.37,
+          "n_polls": 1,
+          "sources": [
+            "gallup-korea"
+          ]
+        },
+        {
+          "t": "2026-04-20T00:00:00Z",
+          "p": 0.32,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
           ]
         },
         {
@@ -93,36 +139,52 @@
           "p": 0.33,
           "n_polls": 2,
           "sources": [
-            "other-kri",
+            "korea-research",
             "other-ipsos"
           ]
         },
         {
-          "t": "2026-05-11T00:00:00Z",
-          "p": 0.35,
+          "t": "2026-05-04T00:00:00Z",
+          "p": 0.38,
           "n_polls": 1,
           "sources": [
-            "other-kri"
+            "gallup-korea"
+          ]
+        },
+        {
+          "t": "2026-05-11T00:00:00Z",
+          "p": 0.3595,
+          "n_polls": 4,
+          "sources": [
+            "korea-research",
+            "other-ksoi",
+            "other-matrix"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.4058,
-          "n_polls": 4,
+          "p": 0.3867,
+          "n_polls": 8,
           "sources": [
             "korea-research",
             "other-ace",
             "other-ksoi",
-            "other-researchwel"
+            "other-kstat",
+            "other-researchwell",
+            "other-rr",
+            "realmeter"
           ]
         },
         {
           "t": "2026-05-25T00:00:00Z",
-          "p": 0.389,
-          "n_polls": 2,
+          "p": 0.3708,
+          "n_polls": 5,
           "sources": [
-            "realmeter",
-            "other-r-and-r"
+            "embrain",
+            "korea-research",
+            "other-ipsos",
+            "other-metavoice",
+            "other-rr"
           ]
         }
       ]

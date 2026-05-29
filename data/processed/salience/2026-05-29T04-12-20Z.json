@@ -1,0 +1,259 @@
+{
+  "captured_at": "2026-05-29T04:12:20.900Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://v.daum.net/v/20260529061506229",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6825934_36911.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825095_37004.html",
+    "https://www.fnnews.com/news/202605260737177312",
+    "https://namu.wiki/w/%ED%95%9C%EA%B5%AD%20%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%ED%83%B1%ED%81%AC%EB%8D%B0%EC%9D%B4%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%85%BC%EB%9E%80/%ED%9B%84%EC%86%8D%20%EB%85%BC%EB%9E%80",
+    "https://www.khan.co.kr/article/202605041748001",
+    "https://www.asiae.co.kr/article/2026051911131013024",
+    "https://imnews.imbc.com/news/2026/politics/article/6819614_36911.html",
+    "https://www.insight.co.kr/news/555915",
+    "https://www.mt.co.kr/society/2026/05/25/2026052510044765918",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://www.fnnews.com/news/202605290821551133",
+    "https://www.news1.kr/politics/assembly/6168475",
+    "https://issue.daum.net/election/2026/pyeongtaek",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6819242_37004.html",
+    "https://www.munhwa.com/vote/election2026/poll",
+    "https://imnews.imbc.com/news/2026/politics/article/6825936_36911.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6823690_36911.html",
+    "https://aboda.kr/entry/%EB%B6%81%ED%95%9C-%EB%AF%B8%EC%83%81-%EB%B0%9C%EC%82%AC%EC%B2%B4-%EB%B0%9C%EC%82%AC",
+    "https://namu.wiki/w/2026%EB%85%84%20%EB%B6%81%ED%95%9C%20%EB%AF%B8%EC%82%AC%EC%9D%BC%20%EB%8F%84%EB%B0%9C"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Stretch",
+      "topic_ko": "6·3 지방선거 막바지 판세",
+      "summary": "Advance voting for the June 3 nationwide local elections opened on May 29, with polling blackouts now in effect. Final pre-blackout surveys show DPK candidates leading in Seoul (정원오 46% vs 오세훈 35%) and Busan (전재수 45% vs 박형준 36%), though PPP claims incomplete opposition consolidation may tighten races.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 1,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "정원오 46% 오세훈 35%…전재수 45% 박형준 36% [여론조사]",
+          "outlet": "SBS/다음뉴스",
+          "url": "https://v.daum.net/v/20260529061506229"
+        },
+        {
+          "title": "[여론M] 보수 결집이라는데 국민의힘 지지율은 제자리‥왜?",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html"
+        },
+        {
+          "title": "[MBC여론조사] 서울시장, 정원오 41% vs 오세훈 37%‥오차범위 내 접전",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6825934_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Starbucks Tank Day Election Controversy",
+      "topic_ko": "스타벅스 탱크데이 선거 논란",
+      "summary": "A Starbucks Korea 'Tank Day' marketing event on May 18 sparked a boycott campaign led by the DPK, which framed it as invoking the 5·18 massacre imagery; PPP leader Jang Dong-hyeok counter-mobilized supporters with Starbucks photo-ops, calling the boycott a pre-election smear and 'people's tribunal.'",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.2,
+      "salience": 0.82,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "국힘, '죽창가'까지 소환해 스벅 감싸기 총력전‥與 '국힘 일베당 선언'",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825095_37004.html"
+        },
+        {
+          "title": "장동혁 '예언하자면 李·민주당, 6월 3일 지나면 스벅 들고 다닐 것'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605260737177312"
+        },
+        {
+          "title": "한국 스타벅스 탱크데이 이벤트 논란/후속 논란",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%ED%95%9C%EA%B5%AD%20%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%ED%83%B1%ED%81%AC%EB%8D%B0%EC%9D%B4%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%85%BC%EB%9E%80/%ED%9B%84%EC%86%8D%20%EB%85%BC%EB%9E%80"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Lee Jae-myung Prosecution Cancellation Bill",
+      "topic_ko": "이재명 공소취소 특검법 논란",
+      "summary": "The DPK-sponsored 'fabricated prosecution special counsel' bill, which would empower a special prosecutor to cancel charges against President Lee Jae-myung, has been paused until after the June 3 elections amid criticism from legal scholars and fierce PPP opposition; PPP formed a dedicated task force to block it post-election.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.45,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.75,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 재판 8개 모두 '무효화'되는 길 열리나···'조작기소 특검법안' 논란 확산",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605041748001"
+        },
+        {
+          "title": "국힘 '공소취소 특검, 선거 이후 반드시 재추진 될 것'",
+          "outlet": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026051911131013024"
+        },
+        {
+          "title": "정진석 '이재명 공소취소 특검법이 내란'",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6819614_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Yoon Suk-yeol Perjury Trial Acquittal",
+      "topic_ko": "윤석열 위증 혐의 1심 무죄 선고",
+      "summary": "On May 28, a Seoul court acquitted former President Yoon Suk-yeol of perjury charges related to false testimony in the Han Duck-soo insurrection trial — marking the first not-guilty verdict among his several ongoing criminal cases; the insurrection special counsel had sought a two-year prison sentence.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0,
+      "sentiment_ppp": "positive",
+      "sentiment_score_ppp": 0.35,
+      "salience": 0.68,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "尹, '계엄 국무회의 위증 혐의' 1심 무죄... 기소 사건 중 첫 무죄 판결",
+          "outlet": "인사이트",
+          "url": "https://www.insight.co.kr/news/555915"
+        },
+        {
+          "title": "윤석열 '한덕수 재판 위증' 혐의 이번주 1심 선고",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/25/2026052510044765918"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Han Dong-hoon Busan By-election Contest",
+      "topic_ko": "한동훈 부산 북구갑 재보궐선거",
+      "summary": "Former PPP leader Han Dong-hoon, running as an independent in the Busan Buk-gu Gap by-election, cast his advance ballot on May 29 and leads polls at around 43% against DPK candidate Ha Jeong-woo at 33%, framing his campaign as 'rebuilding conservatism and checking Lee Jae-myung's administration.'",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.3,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.2,
+      "salience": 0.6,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "한동훈, 사전투표 참여…'북구 발전·보수 재건·이재명 정권 견제 선거'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605290821551133"
+        },
+        {
+          "title": "한동훈, 부산 북갑 후보 등록…하정우·박민식 이어 기호 6번(종합)",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6168475"
+        },
+        {
+          "title": "부산 북구갑에선 무소속 한동훈 후보가 43%…접전",
+          "outlet": "다음뉴스/뉴스1",
+          "url": "https://issue.daum.net/election/2026/pyeongtaek"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Jae-myung Presidential Approval Rating",
+      "topic_ko": "이재명 대통령 국정 지지율",
+      "summary": "President Lee's job-approval rating stands at approximately 59–66% depending on pollster, having hit a post-inauguration high of 65.5% the week of May 13–17; a slight dip followed in the most recent survey, attributed to the Samsung Electronics bonus dispute and other domestic friction as the local elections approach.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.7,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.52,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "[MBC여론조사] 이 대통령 지지율, 서울·부산·대구 60% 넘겨",
+          "outlet": "MBC 뉴스데스크",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6819242_37004.html"
+        },
+        {
+          "title": "6·3 지방선거가 열흘 앞…스타벅스 논란에 민주당 지지도 올라",
+          "outlet": "문화일보",
+          "url": "https://www.munhwa.com/vote/election2026/poll"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Cho Kuk Pyeongtaek By-election Battle",
+      "topic_ko": "조국 평택을 재보궐선거 접전",
+      "summary": "Cho Kuk Party leader Cho Kuk leads narrowly in the Pyeongtaek-eul by-election at 29% against DPK's Kim Yong-nam at 26% and PPP's Yoo Eui-dong at 20%, with sharp personal attacks exchanged between the Cho Kuk and DPK camps exposing intra-progressive tensions ahead of the vote.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.25,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.43,
+      "issue_tag": "opposition_unity",
+      "evidence_headlines": [
+        {
+          "title": "[MBC여론조사] 경기 평택을, 김용남 26% vs 유의동 20% vs 조국 29%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6825936_36911.html"
+        },
+        {
+          "title": "한동훈 39%, 하정우 33%…조국 24%, 김용남 22% 유의동 20%",
+          "outlet": "뉴스1/다음뉴스",
+          "url": "https://issue.daum.net/election/2026/pyeongtaek"
+        },
+        {
+          "title": "[MBC여론조사] 경기 평택을‥김용남 31%, 유의동 17%, 조국 27%",
+          "outlet": "MBC",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6823690_36911.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "North Korea West Sea Missile Provocation",
+      "topic_ko": "북한 서해 미상 발사체 도발",
+      "summary": "North Korea fired an unidentified projectile into the West Sea on May 26 — its eighth provocation of 2026 and first in 37 days — days before South Korea's local elections, with South Korean and U.S. intelligence jointly analyzing the launch amid heightened inter-Korean tension.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.33,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "북한 미상 발사체 발사: 37일 만에 재개된 서해상 발사, 올해 8번째 도발",
+          "outlet": "Aboda",
+          "url": "https://aboda.kr/entry/%EB%B6%81%ED%95%9C-%EB%AF%B8%EC%83%81-%EB%B0%9C%EC%82%AC%EC%B2%B4-%EB%B0%9C%EC%82%AC"
+        },
+        {
+          "title": "2026년 북한 미사일 도발",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/2026%EB%85%84%20%EB%B6%81%ED%95%9C%20%EB%AF%B8%EC%82%AC%EC%9D%BC%20%EB%8F%84%EB%B0%9C"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
