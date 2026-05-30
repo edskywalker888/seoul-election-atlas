@@ -1,0 +1,266 @@
+{
+  "captured_at": "2026-05-30T03:57:33.696Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6826278_37004.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825993_37004.html",
+    "https://www.mt.co.kr/politics/2026/05/28/2026052807490321017",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825388_37004.html",
+    "https://www.nocutnews.co.kr/news/6523105",
+    "https://www.news1.kr/politics/assembly/6178201",
+    "https://imnews.imbc.com/replay/2026/nw1400/article/6801773_36974.html",
+    "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825994_37004.html",
+    "https://www.ajunews.com/view/20260521145608117",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6826076_37012.html",
+    "https://www.fnnews.com/news/202604281701548995",
+    "https://www.youtube.com/watch?v=U6Le7IbTZwE",
+    "https://www.newsis.com/view/NISI20260428_0021264446",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0",
+    "https://sisahan.com/478067",
+    "https://www.news21tongsin.co.kr/news/296848",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://www.mt.co.kr/politics/2026/05/22/2026052210223287798",
+    "https://www.ytn.co.kr/_ln/0101_202605080056499201",
+    "https://www.fnnews.com/news/202605261521468875",
+    "https://www.fki.or.kr/webzine/K05/sub_20.html",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=90302"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Campaigning & Early Voting",
+      "topic_ko": "6·3 지방선거 막판 유세·사전투표",
+      "summary": "Early voting on May 29–30 posted a record-high first-day turnout of 11.6% for local elections, with both parties abandoning policy debate in favor of base mobilization; DPK candidates hold double-digit polling leads in Seoul and Busan while PPP enlists former President Park Geun-hye for conservative consolidation rallies.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 1,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "1일차 사전투표율, 지방선거 역대 최고치‥영호남 온도차 '뚜렷'",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826278_37004.html"
+        },
+        {
+          "title": "사전투표 전날, 민주 '이재명에 힘 싣는 선거'‥국힘, '정권 독주 견제해야'",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825993_37004.html"
+        },
+        {
+          "title": "서울시장 지지율 정원오 49.6%·오세훈 36.4%...부산·대구 박빙",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/28/2026052807490321017"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Seosomun Overpass Collapse Seoul Safety Crisis",
+      "topic_ko": "서소문 고가 붕괴·서울 안전 논란",
+      "summary": "A May 26 collapse of Seoul's Seosomun overpass during demolition work killed three and injured three, halting Seoul mayoral campaigning and injecting infrastructure safety squarely into the election race; PPP accused police of conducting politically timed raids on Seoul city facilities as 'government-sponsored electioneering.'",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "서소문 달려간 오세훈 '깊은 책임감'‥'마포는 사고 없다' 박강수 발언 논란",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825388_37004.html"
+        },
+        {
+          "title": "GTX 이어 서소문 고가 붕괴…서울 선거 흔드는 '안전이슈'",
+          "outlet": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6523105"
+        },
+        {
+          "title": "서소문 고가 붕괴에 서울시장 선거 올스톱…돌발 변수에 여야 파장 주목",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6178201"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Seok-yeol Insurrection Trial Appeal Verdict",
+      "topic_ko": "윤석열 내란죄 항소심 판결",
+      "summary": "The appeals court on April 29 sentenced former President Yoon Seok-yeol to seven years in prison for leading the December 3 insurrection, increasing his sentence from five years at first instance; special prosecutors have since appealed seeking a harsher sentence, keeping the case prominent in election-season coverage.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.82,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "[내란 1심 선고] '반성없는 윤석열 감형사유 없어‥내란죄 사형해야'",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6801773_36974.html"
+        },
+        {
+          "title": "2026년 5월 윤석열 체포방해 항소심 결과·형량·판단 근거 3가지",
+          "outlet": "21세기 이슈",
+          "url": "https://issue.cyberbabarian.com/yoon-arrest-obstruction-appeal-7years-2026/"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Han Dong-hoon Independent Run PPP Fracture",
+      "topic_ko": "한동훈 무소속 출마·국민의힘 내분",
+      "summary": "Former PPP leader Han Dong-hoon is running as an independent in the Busan Buk-gap by-election against the official PPP candidate, with both sides exchanging public insults and candidate unification collapsing; the infighting lays bare deep PPP divisions over the Yoon legacy ahead of election day.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.7,
+      "salience": 0.74,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "'가짜보수' '구질구질'‥박민식·한동훈 단일화 무산 수순",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825994_37004.html"
+        },
+        {
+          "title": "[6·3 지방선거] 단일화 압박 커지는 부산 북갑...분열 보이는 국민의힘",
+          "outlet": "아주경제",
+          "url": "https://www.ajunews.com/view/20260521145608117"
+        },
+        {
+          "title": "'뻔뻔 구질구질' '트로이 목마'‥네거티브 난타전",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6826076_37012.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Kim Keon-hee Convicted Appeal Sentenced to Prison",
+      "topic_ko": "김건희 항소심 유죄·징역 4년 선고",
+      "summary": "A Seoul appeals court on April 28 sentenced Kim Keon-hee, wife of former President Yoon, to four years in prison for stock-price manipulation and bribery-related charges, increasing her first-instance sentence; a separate special prosecutor trial seeking 7.5 years on further corruption counts remains ongoing in May.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.65,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "'샤넬백 수수 등' 김건희, 2심 징역 4년 선고...1심보다 형량 늘었다",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604281701548995"
+        },
+        {
+          "title": "[속보] 특검, '매관매직 혐의' 김건희 징역 7년6개월 구형",
+          "outlet": "MBC 뉴스 유튜브",
+          "url": "https://www.youtube.com/watch?v=U6Le7IbTZwE"
+        },
+        {
+          "title": "김건희 여사, 항소심 징역 4년 선고 생중계",
+          "outlet": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260428_0021264446"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Constitutional Amendment Failure PPP Boycott",
+      "topic_ko": "개헌 국민투표 무산·국민의힘 반대",
+      "summary": "A six-party coalition led by DPK sought to hold a simultaneous constitutional amendment referendum on June 3, proposing stricter martial law requirements and enshrining the May 18 Gwangju Uprising in the preamble, but the measure failed after PPP boycotted the National Assembly vote and the two-thirds threshold was not reached.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.3,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.35,
+      "salience": 0.56,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "제9회 전국동시지방선거 - 위키백과",
+          "outlet": "위키백과",
+          "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0"
+        },
+        {
+          "title": "시사 한겨레 ⓘ한마당 :: 재외국민 개헌안 국민투표 준비 본격화...6.3 지방선거 동시 투표에 대비",
+          "outlet": "시사한겨레",
+          "url": "https://sisahan.com/478067"
+        },
+        {
+          "title": "이번 지방선거 때 개헌 찬반 국민투표를 동시에 진행하기 위한 일정",
+          "outlet": "뉴스21통신",
+          "url": "https://www.news21tongsin.co.kr/news/296848"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Lee Jae-myung Approval Ratings Government Performance",
+      "topic_ko": "이재명 대통령 국정 지지율·정부 평가",
+      "summary": "President Lee Jae-myung's approval ratings have ranged between 59–67% in May 2026 polls, with DPK holding roughly a 25-point party-support lead over PPP; government messaging has centered on economic recovery, the US tariff deal, and self-reliant defense as the local election approaches.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.47,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        },
+        {
+          "title": "이재명 대통령 지지율 3%p 오른 64%...민주 45%·국힘 22%",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/22/2026052210223287798"
+        },
+        {
+          "title": "[정치]이 대통령 지지율 67%...민주 46%·국민의힘 18% [NBS]",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202605080056499201"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Korea US Tariff Deal OPCON Transfer Defense Policy",
+      "topic_ko": "한미 관세 협상·전작권 전환·자주국방",
+      "summary": "The Lee government secured a trade tariff framework with Washington via a large MASGA investment package and has publicly committed to an early transfer of wartime operational control (OPCON), announcing nuclear submarine construction as a symbol of self-reliant defense; these moves generate positive coverage for the governing party ahead of the election.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.36,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "李대통령 '핵추진 잠수함, 굳건한 한미동맹 기반 건조'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605261521468875"
+        },
+        {
+          "title": "한미 관세 협상 합의",
+          "outlet": "전국경제인연합회 웹진",
+          "url": "https://www.fki.or.kr/webzine/K05/sub_20.html"
+        },
+        {
+          "title": "이재명 정부 1년 ① 민생 - '회복의 불씨는 살렸다'…민생경제 성적표는?",
+          "outlet": "뉴시안",
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=90302"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
