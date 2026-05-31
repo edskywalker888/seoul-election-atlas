@@ -1,0 +1,260 @@
+{
+  "captured_at": "2026-05-31T04:23:09.210Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6826443_37004.html",
+    "https://www.seoul.co.kr/news/politics/local-election2026/2026/05/29/20260529003002",
+    "https://amp.seoul.co.kr/seoul/20260529500178",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576628",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825994_37004.html",
+    "https://imnews.imbc.com/replay/2026/nw1200/article/6826171_36967.html",
+    "https://news.knn.co.kr/news/article/186972",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825388_37004.html",
+    "https://newsboy.news/news/381754",
+    "https://www.4th.kr/news/articleView.html?idxno=2112419",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6824712_37012.html",
+    "https://imnews.imbc.com/news/2026/society/article/6812107_36918.html",
+    "https://www.dailian.co.kr/news/view/1623514",
+    "https://www.sedaily.com/article/20022314",
+    "https://www.mt.co.kr/politics/2026/03/18/2026031820223027941",
+    "https://www.koreaherald.com/article/10604433",
+    "https://www.fki.or.kr/webzine/K05/sub_20.html",
+    "https://www.korea.net/NewsFocus/policies/view?articleId=282379",
+    "https://aipen.kr/articles/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%A7%80%EC%A7%80%EB%8F%84-61%EA%B2%BD%EC%A0%9C-%EC%A0%84%EB%A7%9D-%EA%B0%9C%EC%84%A0-%EA%B8%B0%EB%8C%80%EA%B0%90-%ED%99%95%EC%82%B0",
+    "https://www.cliktoday.com/2026/05/20260523-today-news.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Stretch",
+      "topic_ko": "6·3 지방선거 막판 판세",
+      "summary": "South Korea's 9th nationwide local elections are days away (June 3), with record-breaking early voting over May 29–30 (combined two-day rate ~23.5%, the highest ever for a local election). Key battlegrounds include Seoul Mayor (DPK's Jeong Won-o vs PPP's Oh Se-hoon in a near-dead-heat) and Busan Mayor (DPK's Jeon Jae-su narrowly ahead of PPP's Park Hyung-joon), with undecided voters seen as the decisive swing factor.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.45,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.3,
+      "salience": 1,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html"
+        },
+        {
+          "title": "사전투표율 역대 최고에도 최종 53~55% 전망‥'미결정층'이 변수",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826443_37004.html"
+        },
+        {
+          "title": "13.2%P 차부터 동률까지… 승부처 서울 표심은 '롤러코스터'",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/local-election2026/2026/05/29/20260529003002"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Seok-yeol Insurrection Trial Aftermath",
+      "topic_ko": "윤석열 내란 재판 후속 파장",
+      "summary": "Following Yoon Seok-yeol's life imprisonment sentence for leading the December 2023 insurrection, a parallel perjury case delivered a not-guilty verdict on May 28, while special prosecutors formally appealed the insurrection sentencing as too lenient. Yoon faces eight separate ongoing criminal proceedings in total.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.88,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "내란 '무기징역'·위증 '무죄' 받은 윤석열 8개 재판 중간점검",
+          "outlet": "서울신문",
+          "url": "https://amp.seoul.co.kr/seoul/20260529500178"
+        },
+        {
+          "title": "'한덕수 재판 위증' 윤석열, 28일 1심 선고…구형은 징역 2년",
+          "outlet": "SBS뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576628"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Han Dong-hoon Independent Run PPP Fracture",
+      "topic_ko": "한동훈 무소속 출마·국민의힘 내분",
+      "summary": "Former PPP leader Han Dong-hoon is running as an independent in Busan Buk-gu's by-election against the PPP's own candidate Park Min-shik, causing an open civil war within the conservative camp. PPP leadership under Jang Dong-hyuk is accused of prioritizing blocking Han over winning the seat, deepening the party's internal crisis ahead of the June 3 vote.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.7,
+      "salience": 0.78,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "'가짜보수' '구질구질'‥박민식·한동훈 단일화 무산 수순",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825994_37004.html"
+        },
+        {
+          "title": "한동훈·조국 '약진'‥사전투표 직전 판세 요동",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6826171_36967.html"
+        },
+        {
+          "title": "[2026전국동시지방선거] 한동훈에 현역 기초단체장까지…'무소속' 변수",
+          "outlet": "KNN뉴스",
+          "url": "https://news.knn.co.kr/news/article/186972"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Seosmun Overpass Collapse Safety Scandal",
+      "topic_ko": "서소문 고가차도 붕괴 안전 논란",
+      "summary": "On May 26, the Seosmun elevated road in Seoul's Seodaemun-gu collapsed during demolition work, killing three people. Authorities subsequently raided Seoul City Hall and the construction firm over alleged advance warning signs that were ignored. The accident has injected the issue of urban infrastructure safety directly into the Seoul mayoral race, putting incumbent candidate Oh Se-hoon on the defensive.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.68,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "서소문 달려간 오세훈 '깊은 책임감'‥'마포는 사고 없다' 박강수 발언 논란",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825388_37004.html"
+        },
+        {
+          "title": "경찰·노동부, '서소문 고가 붕괴' 서울시·시공사 등 7곳 압수수색",
+          "outlet": "뉴스보이",
+          "url": "https://newsboy.news/news/381754"
+        },
+        {
+          "title": "[고가 붕괴] '12시간 경고' 묵살했나…국토부 '서울시 법 위반 조사'",
+          "outlet": "포쓰저널",
+          "url": "https://www.4th.kr/news/articleView.html?idxno=2112419"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Kim Kun-hee Comprehensive Special Probe Advances",
+      "topic_ko": "김건희 종합특검 수사 진행",
+      "summary": "South Korea's second comprehensive special prosecutor's office arrested former presidential chief of staff Kim Dae-ki and senior aide Yoon Jae-sun over allegations of illegal use of public funds linked to a presidential residence renovation tied to Kim Kun-hee. Investigators signalled that scrutiny is now moving toward Kim Kun-hee herself as the key figure.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.58,
+      "issue_tag": "corruption",
+      "evidence_headlines": [
+        {
+          "title": "'관저 이전' 김대기 등 구속‥윗선 수사 '탄력'",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6824712_37012.html"
+        },
+        {
+          "title": "2차 종합 특검, '김건희 디올백 수사 봐주기 의혹' 검찰 압수수색",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6812107_36918.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "DPK Prosecution Reform Laws Enacted",
+      "topic_ko": "검찰개혁 공소청·중수청법 시행",
+      "summary": "The Democratic Party-led National Assembly passed legislation abolishing the existing prosecution service, replacing it with a new Public Prosecution Office (공소청) for indictments and a Major Crimes Investigation Agency (중수청) for investigations. The PPP staged filibusters in opposition, calling it a dismantling of prosecutorial independence, while DPK leaders declared it a historic achievement.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.6,
+      "salience": 0.48,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "'검찰권력 축소' 공소청법, 與 주도 국회 본회의 통과",
+          "outlet": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1623514"
+        },
+        {
+          "title": "공소청·중수청 법안 국회 통과…기소는 공소청, 수사는 중수청 담당",
+          "outlet": "서울경제",
+          "url": "https://www.sedaily.com/article/20022314"
+        },
+        {
+          "title": "중수청·공소청법 법사위 전체회의 통과...19일 본회의 상정",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/03/18/2026031820223027941"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Korea-US Tariff Trade Deal Implementation",
+      "topic_ko": "한미 관세 협상 합의 이행 논란",
+      "summary": "The Korea–US trade deal struck at the Gyeongju APEC summit (October 2025), under which Seoul pledged $350 billion in US investment in exchange for reduced tariffs on Korean autos and semiconductors, remains a contested issue. Disputes persist over the interpretation of commitments, agricultural market access, and digital non-tariff barriers, with opposition critics arguing the terms were overly concessive to Washington.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.2,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.38,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "S. Korea, US agree on trade deal details at Lee-Trump summit in Gyeongju",
+          "outlet": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10604433"
+        },
+        {
+          "title": "한미 관세 협상 타결, 평가와 남은 과제",
+          "outlet": "FKI 전경련 웹진",
+          "url": "https://www.fki.or.kr/webzine/K05/sub_20.html"
+        },
+        {
+          "title": "President Lee releases fact sheet with US on trade, security",
+          "outlet": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/policies/view?articleId=282379"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Lee Jae-myung Approval Ratings Economy Surge",
+      "topic_ko": "이재명 대통령 지지율·경제 성과",
+      "summary": "President Lee Jae-myung's approval rating has held in the high-50s to mid-60s percent range heading into the June 3 local elections, underpinned partly by a dramatic KOSPI surge past 7,000 and a narrative of economic recovery. Critics, particularly the PPP, point to ongoing housing price pressures and inflation as evidence that macro gains have not translated into lived improvements for ordinary citizens.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.3,
+      "salience": 0.3,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 지지도 61%…경제 전망 개선 기대감 확산",
+          "outlet": "AI PEN",
+          "url": "https://aipen.kr/articles/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%A7%80%EC%A7%80%EB%8F%84-61%EA%B2%BD%EC%A0%9C-%EC%A0%84%EB%A7%9D-%EA%B0%9C%EC%84%A0-%EA%B8%B0%EB%8C%80%EA%B0%90-%ED%99%95%EC%82%B0"
+        },
+        {
+          "title": "2026년 5월 23일 오늘의 주요 뉴스(이재명 대통령 지지율부터 중동발 유가 급등까지)",
+          "outlet": "오늘의 클릭",
+          "url": "https://www.cliktoday.com/2026/05/20260523-today-news.html"
+        },
+        {
+          "title": "[여론M] 보수 결집이라는데 국민의힘 지지율은 제자리‥왜?",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825112_37004.html"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}

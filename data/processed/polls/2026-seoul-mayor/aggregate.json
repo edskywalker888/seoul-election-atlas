@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-30T00:00:00Z",
+  "captured_at": "2026-05-31T12:00:00Z",
   "method": "nesdc_scrape",
-  "method_notes": "Head-to-head (양자 대결) polls sourced from MBC, JTBC, SBS, KBS, Newspim, News1, Hankyung, CBS, Newsis, Newdaily, and Donga news reports of NESDC-registered surveys. Coverage is continuous from late-Dec 2025 to late-May 2026 with gaps in Jan, Mar, and early-Apr; no head-to-head polls were found for Nov 2025 (only multi-candidate open-field polls exist for that period).",
+  "method_notes": "Data sourced from MBC/코리아리서치, JTBC/메타보이스, KBS/한국리서치, SBS/입소스, 채널A/리서치앤리서치, 중앙일보/케이스탯리서치, 뉴스핌/리얼미터, 동아일보/리서치앤리서치, 문화일보/엠브레인 (Dec 2025–May 2026); no polls found Nov 2025 or Mar 2026; weeks of May 18 and May 25 mix CATI telephone-interview polls with wireless ARS polls, which may widen apparent variance (ARS polls show tighter margins for 오세훈 than CATI polls).",
   "interval": "1w",
   "candidates": [
     {
@@ -21,11 +21,10 @@
         },
         {
           "t": "2026-02-09T00:00:00Z",
-          "p": 0.39,
-          "n_polls": 2,
+          "p": 0.4,
+          "n_polls": 1,
           "sources": [
-            "korea-research",
-            "other-ipsos"
+            "korea-research"
           ]
         },
         {
@@ -47,21 +46,31 @@
         },
         {
           "t": "2026-05-04T00:00:00Z",
-          "p": 0.46,
+          "p": 0.502,
           "n_polls": 1,
           "sources": [
-            "gallup-korea"
+            "other-jowon"
+          ]
+        },
+        {
+          "t": "2026-05-11T00:00:00Z",
+          "p": 0.43,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.4448,
-          "n_polls": 6,
+          "p": 0.442,
+          "n_polls": 7,
           "sources": [
-            "other-hankookr",
+            "korea-research",
+            "other-rar",
+            "other-kstat",
+            "other-jowon",
             "other-ace",
-            "other-ksoi",
-            "other-rwell",
+            "other-researchwell",
             "realmeter"
           ]
         },
@@ -70,7 +79,7 @@
           "p": 0.4372,
           "n_polls": 5,
           "sources": [
-            "other-randr",
+            "other-rar",
             "embrain",
             "korea-research",
             "other-metavoice",
@@ -96,10 +105,9 @@
         {
           "t": "2026-02-09T00:00:00Z",
           "p": 0.36,
-          "n_polls": 2,
+          "n_polls": 1,
           "sources": [
-            "korea-research",
-            "other-ipsos"
+            "korea-research"
           ]
         },
         {
@@ -124,18 +132,28 @@
           "p": 0.38,
           "n_polls": 1,
           "sources": [
-            "gallup-korea"
+            "other-jowon"
+          ]
+        },
+        {
+          "t": "2026-05-11T00:00:00Z",
+          "p": 0.35,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.3995,
-          "n_polls": 6,
+          "p": 0.3916,
+          "n_polls": 7,
           "sources": [
-            "other-hankookr",
+            "korea-research",
+            "other-rar",
+            "other-kstat",
+            "other-jowon",
             "other-ace",
-            "other-ksoi",
-            "other-rwell",
+            "other-researchwell",
             "realmeter"
           ]
         },
@@ -144,7 +162,7 @@
           "p": 0.3708,
           "n_polls": 5,
           "sources": [
-            "other-randr",
+            "other-rar",
             "embrain",
             "korea-research",
             "other-metavoice",
