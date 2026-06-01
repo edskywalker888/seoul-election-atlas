@@ -1,0 +1,254 @@
+{
+  "captured_at": "2026-06-01T04:52:22.565Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6826439_37004.html",
+    "https://www.ajunews.com/view/20260531135411361",
+    "https://www.dt.co.kr/article/12064796",
+    "https://www.pressian.com/pages/articles/2026052510500674879",
+    "https://www.insight.co.kr/news/555479",
+    "https://www.ytn.co.kr/_ln/0102_202605260207125508",
+    "https://amp.seoul.co.kr/seoul/20260529500178",
+    "https://imnews.imbc.com/replay/2026/nw1200/article/6825861_36967.html",
+    "https://www.fnnews.com/news/202605131612073227",
+    "https://www.newspim.com/news/view/20260530000173",
+    "https://issue.daum.net/election/2026/bsbukgu",
+    "https://www.fnnews.com/news/202605290821551133",
+    "https://www.pressian.com/pages/articles/2026053014430430463",
+    "https://www.news1.kr/politics/assembly/6183198",
+    "https://www.mt.co.kr/politics/2026/05/30/2026053015311022196",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825388_37004.html",
+    "https://www.news1.kr/politics/assembly/6178201",
+    "https://www.dtoday.co.kr/news/articleView.html?idxno=772407",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0",
+    "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88",
+    "https://www.fnnews.com/news/202605310602430678",
+    "https://biz.heraldcorp.com/article/10760731"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections: Final Day Dynamics",
+      "topic_ko": "6·3 지방선거 투표일 막판 판세",
+      "summary": "The June 3 nationwide local elections, Korea's largest since the 2024 general election, are being held today after record-breaking early voting of 23.51%. DPK leads broadly in polls, with ultra-tight races in Seoul (Jeong Won-o vs. Oh Se-hoon) and Busan (Jeon Jae-su vs. Park Hyeong-jun), while a late conservative consolidation is narrowing gaps.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.55,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 1,
+      "issue_tag": "local_development",
+      "evidence_headlines": [
+        {
+          "title": "6·3 사전투표율 역대 최고치‥마감 2시간 전 역대 지선 기록 갈아치워",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826439_37004.html"
+        },
+        {
+          "title": "[6·3 지방선거] '정쟁유발'·'허수아비'…정원오·오세훈 막판 난타전",
+          "outlet": "아주경제",
+          "url": "https://www.ajunews.com/view/20260531135411361"
+        },
+        {
+          "title": "튀어버린 서울 정원오 vs 오세훈 판세…'39:39'부터 '49.6:36.4'까지",
+          "outlet": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12064796"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Starbucks Tank Day Boycott and Political Fallout",
+      "topic_ko": "스타벅스 탱크데이 논란과 선거 파장",
+      "summary": "Starbucks Korea's May 18 'Tank Day' promotion triggered accusations of mocking the 5.18 Gwangju Uprising; the Lee government publicly endorsed a boycott, prompting PPP to frame it as authoritarian bullying and mobilize a counter-protest movement, turning the controversy into a defining culture-war flashpoint of the election campaign.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.1,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.82,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "스타벅스 '탱크데이' 20대 흔드나…대통령·여당 지지율 20대서 동반 상승",
+          "outlet": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026052510500674879"
+        },
+        {
+          "title": "이재명 대통령, '스타벅스 불매 강요 혐의'로 고발당해",
+          "outlet": "인사이트",
+          "url": "https://www.insight.co.kr/news/555479"
+        },
+        {
+          "title": "[경제] '탱크데이' 사태에서 정용진 사과까지…논란 수습할까?",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202605260207125508"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Yoon Seok-yeol Insurrection Trial Stalled on Appeal",
+      "topic_ko": "윤석열 내란 항소심 재판부 기피 신청 및 위증 무죄",
+      "summary": "Yoon Seok-yeol's appeal of his life sentence for leading the December 3 insurrection has been halted after his defense team filed and then re-appealed a judge-recusal motion; separately, Yoon was acquitted on perjury charges related to testimony in Han Deok-su's trial, with special prosecutors signaling they may appeal.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.75,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "내란 '무기징역'·위증 '무죄' 받은 윤석열 8개 재판 중간점검",
+          "outlet": "서울신문",
+          "url": "https://amp.seoul.co.kr/seoul/20260529500178"
+        },
+        {
+          "title": "'재판 위증' 윤석열 1심 무죄‥'주관적 평가 불과'",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6825861_36967.html"
+        },
+        {
+          "title": "尹 '내란 우두머리' 항소심 재판부 기피 신청…'유죄 예단, 공평 재판 기대 못해'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605131612073227"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Han Dong-hoon Independent Bid in Busan By-election",
+      "topic_ko": "한동훈 부산 북구갑 무소속 출마와 국민의힘 갈등",
+      "summary": "Former PPP leader Han Dong-hoon is running as an independent in the Busan North-A by-election against DPK's Ha Jeong-u, pledging to rebuild conservatism after winning; his candidacy sharpens intra-PPP tensions as the party leadership distances itself while polls show a tight race.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.3,
+      "salience": 0.68,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "[6·3 재보선 인터뷰] 한동훈 '북갑 당선 후 반드시 국민의힘 돌아가 보수 재건'",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260530000173"
+        },
+        {
+          "title": "[뉴스 즉설] 부산 북갑 게임 오버? 여론조사 한동훈 하정우에 9대 0승",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/election/2026/bsbukgu"
+        },
+        {
+          "title": "한동훈, 사전투표 참여…'북구 발전·보수 재건·이재명 정권 견제 선거'",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605290821551133"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Daegu Mayoral Race: Conservative Heartland at Stake",
+      "topic_ko": "대구시장 선거 보수 텃밭 균열 위기",
+      "summary": "For the first time in decades, Daegu's mayoral race is genuinely competitive, with DPK's Kim Bu-gyeom facing PPP's Chu Gyeong-ho; former Daegu Mayor Hong Joon-pyo's public endorsement of Kim across party lines has fractured the conservative coalition and drawn national attention to an unprecedented battleground.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.45,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.58,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "'김부겸 지지' 강조 홍준표 '추경호는 내란 재판, 박근혜 내세우면 대구 미래 더 암담'",
+          "outlet": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026053014430430463"
+        },
+        {
+          "title": "홍준표 '대구 살릴 마지막 기회여서 김부겸 지지…국힘 대구 정치인들 자리만 차지'",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6183198"
+        },
+        {
+          "title": "홍준표 '박근혜 감성 투표로는 암담…김부겸 지지는 대구 미래 위한 것'",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/30/2026053015311022196"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Seoul Seosomun Overpass Collapse Safety Controversy",
+      "topic_ko": "서소문 고가 붕괴사고와 서울시장 안전 책임론",
+      "summary": "A fatal collapse at the Seosomun elevated-road demolition site days before the election killed three people and became a major flashpoint in the Seoul mayoral race, with DPK blaming Oh Se-hoon's decade-long tenure for safety negligence, while PPP argued the accident was being inappropriately politicized.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.3,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.45,
+      "salience": 0.5,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "서소문 달려간 오세훈 '깊은 책임감'‥'마포는 사고 없다' 박강수 발언 논란",
+          "outlet": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825388_37004.html"
+        },
+        {
+          "title": "서소문 고가 붕괴에 서울시장 선거 올스톱…돌발 변수에 여야 파장 주목",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6178201"
+        },
+        {
+          "title": "서울시장 선거 변수 된 서소문 붕괴 사고…여야 모두 공개 유세 자제",
+          "outlet": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=772407"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Constitutional Amendment Blocked by PPP Boycott",
+      "topic_ko": "개헌안 국민투표 국민의힘 불참으로 무산",
+      "summary": "A bipartisan constitutional amendment bill—co-sponsored by six parties and designed to tighten martial-law requirements and enshrine the spirit of the May 18 Uprising in the preamble—failed when PPP boycotted the National Assembly vote, blocking the simultaneous referendum that DPK had planned to hold alongside the local elections.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.25,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.35,
+      "salience": 0.42,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "제9회 전국동시지방선거 – 개헌 동시 국민투표 무산",
+          "outlet": "위키백과",
+          "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C9%ED%9A%8C_%EC%A0%84%EA%B5%AD%EB%8F%99%EC%8B%9C%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0"
+        },
+        {
+          "title": "제10차 개헌/제22대 국회 개헌안 – 표결 불성립 경위",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Post-election Cabinet Reshuffle Speculation",
+      "topic_ko": "지방선거 후 2기 내각 개편 하마평",
+      "summary": "Ahead of the June 3 elections, speculation is mounting that PM Kim Min-seok will resign in mid-June to run in the DPK leadership race, triggering a second-year cabinet reshuffle in which the Lee Jae-myung government intends to shift from crisis management toward active policy implementation.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.32,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "관세·중동 파고 넘은 李정부 1기…2년차 국정 드라이브 진용 꾸린다",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605310602430678"
+        },
+        {
+          "title": "김총리, '6·3지선' 후 사임 가닥…관가 달구는 '2기 개각' 하마평",
+          "outlet": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10760731"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
