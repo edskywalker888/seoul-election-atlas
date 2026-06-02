@@ -1,8 +1,8 @@
 {
   "event_slug": "2026-seoul-mayor",
-  "captured_at": "2026-05-31T12:00:00Z",
+  "captured_at": "2026-06-02T04:55:30Z",
   "method": "nesdc_scrape",
-  "method_notes": "Data sourced from MBC/코리아리서치, JTBC/메타보이스, KBS/한국리서치, SBS/입소스, 채널A/리서치앤리서치, 중앙일보/케이스탯리서치, 뉴스핌/리얼미터, 동아일보/리서치앤리서치, 문화일보/엠브레인 (Dec 2025–May 2026); no polls found Nov 2025 or Mar 2026; weeks of May 18 and May 25 mix CATI telephone-interview polls with wireless ARS polls, which may widen apparent variance (ARS polls show tighter margins for 오세훈 than CATI polls).",
+  "method_notes": "25 polls from 10 pollsters (korea-research/MBC×4+KBS×4, realmeter, ipsos/SBS×2, metavoice/JTBC×2, research-r/동아·채널A, yrolonjo/PennMike×4, ace-research/뉴시스, ksoi/CBS, researchwel/뉴데일리, embrain/문화일보) sourced from NESDC-registered results reported in Korean news, Nov 2025–May 2026; the three Nov 10–Dec 22 2025 buckets are multi-candidate polls (not 양자대결 head-to-head), so 정원오/오세훈 shares are structurally lower and not directly comparable to the 양자대결 figures from Dec 29 onward; data gaps remain for Jan and Mar 2026.",
   "interval": "1w",
   "candidates": [
     {
@@ -11,12 +11,35 @@
       "party_id": "dpk",
       "series": [
         {
-          "t": "2025-12-29T00:00:00Z",
-          "p": 0.365,
-          "n_polls": 2,
+          "t": "2025-11-10T00:00:00Z",
+          "p": 0.112,
+          "n_polls": 1,
           "sources": [
-            "korea-research",
-            "other-metavoice"
+            "other-yrolonjo"
+          ]
+        },
+        {
+          "t": "2025-12-08T00:00:00Z",
+          "p": 0.23,
+          "n_polls": 1,
+          "sources": [
+            "other-yrolonjo"
+          ]
+        },
+        {
+          "t": "2025-12-15T00:00:00Z",
+          "p": 0.258,
+          "n_polls": 1,
+          "sources": [
+            "other-yrolonjo"
+          ]
+        },
+        {
+          "t": "2025-12-29T00:00:00Z",
+          "p": 0.34,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
           ]
         },
         {
@@ -36,6 +59,14 @@
           ]
         },
         {
+          "t": "2026-04-20T00:00:00Z",
+          "p": 0.43,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
+          ]
+        },
+        {
           "t": "2026-04-27T00:00:00Z",
           "p": 0.445,
           "n_polls": 2,
@@ -46,44 +77,44 @@
         },
         {
           "t": "2026-05-04T00:00:00Z",
-          "p": 0.502,
+          "p": 0.447,
           "n_polls": 1,
           "sources": [
-            "other-jowon"
+            "other-yrolonjo"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
           "p": 0.43,
-          "n_polls": 1,
+          "n_polls": 2,
           "sources": [
             "korea-research"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.442,
+          "p": 0.444,
           "n_polls": 7,
           "sources": [
             "korea-research",
-            "other-rar",
-            "other-kstat",
-            "other-jowon",
-            "other-ace",
-            "other-researchwell",
+            "other-ace-research",
+            "other-ksoi",
+            "other-research-r",
+            "other-researchwel",
             "realmeter"
           ]
         },
         {
           "t": "2026-05-25T00:00:00Z",
-          "p": 0.4372,
-          "n_polls": 5,
+          "p": 0.437,
+          "n_polls": 6,
           "sources": [
-            "other-rar",
-            "embrain",
             "korea-research",
+            "other-embrain",
+            "other-ipsos",
             "other-metavoice",
-            "other-ipsos"
+            "other-research-r",
+            "other-yrolonjo"
           ]
         }
       ]
@@ -94,12 +125,35 @@
       "party_id": "ppp",
       "series": [
         {
-          "t": "2025-12-29T00:00:00Z",
-          "p": 0.37,
-          "n_polls": 2,
+          "t": "2025-11-10T00:00:00Z",
+          "p": 0.243,
+          "n_polls": 1,
           "sources": [
-            "korea-research",
-            "other-metavoice"
+            "other-yrolonjo"
+          ]
+        },
+        {
+          "t": "2025-12-08T00:00:00Z",
+          "p": 0.292,
+          "n_polls": 1,
+          "sources": [
+            "other-yrolonjo"
+          ]
+        },
+        {
+          "t": "2025-12-15T00:00:00Z",
+          "p": 0.294,
+          "n_polls": 1,
+          "sources": [
+            "other-yrolonjo"
+          ]
+        },
+        {
+          "t": "2025-12-29T00:00:00Z",
+          "p": 0.36,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
           ]
         },
         {
@@ -119,6 +173,14 @@
           ]
         },
         {
+          "t": "2026-04-20T00:00:00Z",
+          "p": 0.32,
+          "n_polls": 1,
+          "sources": [
+            "korea-research"
+          ]
+        },
+        {
           "t": "2026-04-27T00:00:00Z",
           "p": 0.33,
           "n_polls": 2,
@@ -129,44 +191,44 @@
         },
         {
           "t": "2026-05-04T00:00:00Z",
-          "p": 0.38,
+          "p": 0.426,
           "n_polls": 1,
           "sources": [
-            "other-jowon"
+            "other-yrolonjo"
           ]
         },
         {
           "t": "2026-05-11T00:00:00Z",
-          "p": 0.35,
-          "n_polls": 1,
+          "p": 0.335,
+          "n_polls": 2,
           "sources": [
             "korea-research"
           ]
         },
         {
           "t": "2026-05-18T00:00:00Z",
-          "p": 0.3916,
+          "p": 0.3934,
           "n_polls": 7,
           "sources": [
             "korea-research",
-            "other-rar",
-            "other-kstat",
-            "other-jowon",
-            "other-ace",
-            "other-researchwell",
+            "other-ace-research",
+            "other-ksoi",
+            "other-research-r",
+            "other-researchwel",
             "realmeter"
           ]
         },
         {
           "t": "2026-05-25T00:00:00Z",
-          "p": 0.3708,
-          "n_polls": 5,
+          "p": 0.3823,
+          "n_polls": 6,
           "sources": [
-            "other-rar",
-            "embrain",
             "korea-research",
+            "other-embrain",
+            "other-ipsos",
             "other-metavoice",
-            "other-ipsos"
+            "other-research-r",
+            "other-yrolonjo"
           ]
         }
       ]

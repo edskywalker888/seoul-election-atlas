@@ -1,0 +1,265 @@
+{
+  "captured_at": "2026-06-02T04:41:11.274Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://www.fnnews.com/news/202605310828081352",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html",
+    "https://issue.daum.net/election/2026",
+    "https://www.newspim.com/news/view/20260601000751",
+    "https://amp.seoul.co.kr/seoul/20260529500178",
+    "https://issue.daum.net/focus/241203investigation",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825991_37004.html",
+    "https://news.knn.co.kr/news/article/186972",
+    "https://namu.wiki/w/2026%EB%85%84%20%EC%9E%AC%EB%B3%B4%EA%B6%90%EC%84%A0%EA%B1%B0",
+    "https://www.etnews.com/20260530000030",
+    "https://imnews.imbc.com/newszoomin/newsinsight/6824862_29123.html",
+    "https://issue.daum.net/election/2026/pyeongtaek",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6825711_37004.html",
+    "https://www.fnnews.com/news/202605201819346213",
+    "https://imnews.imbc.com/replay/2026/nwtoday/",
+    "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html",
+    "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747",
+    "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html",
+    "https://www.khan.co.kr/article/202605312126015/",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=303715",
+    "http://www.haesanews.com/news/articleView.html?idxno=148408",
+    "https://www.news1.kr/diplomacy/defense-diplomacy/6153596",
+    "https://www.newspim.com/news/view/20260601000737"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "June 3 Local Elections Final Campaign Push",
+      "topic_ko": "6·3 지방선거 선거운동 막판 총력전",
+      "summary": "South Korea's 9th nationwide local elections are set for June 3, with the Democratic Party of Korea leading polls in key battlegrounds including Seoul (41% vs PPP's 37%) and Busan (47% vs 34%). DPK frames the vote as a continuation of 'purging insurrection remnants,' while PPP deployed former presidents Lee Myung-bak and Park Geun-hye for last-minute conservative rallies in Busan and Daegu.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.65,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.55,
+      "salience": 0.95,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "여야, 6·3 지선 사흘 앞두고 서울.전북 등 집중",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605310828081352"
+        },
+        {
+          "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html"
+        },
+        {
+          "title": "지방선거인데 대통령만 보인다… 선거판 삼킨 '이재명 프레임'",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Yoon Insurrection Trial Appeals and New Verdicts",
+      "topic_ko": "윤석열 내란 항소심 지연 및 추가 재판",
+      "summary": "Yoon Seok-yeol's insurrection appeal (항소심) remains stalled after his legal team's repeated judicial recusal filings and re-appeals, while eight parallel trials continue; the special prosecutor on June 1 sought seven years imprisonment for former Secret Service chief Park Jong-jun for obstructing Yoon's arrest, with a verdict expected July 9.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.72,
+      "salience": 0.85,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "[2보] 내란 특검, '尹 체포 저지' 박종준 전 경호처장 징역 7년 구형",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260601000751"
+        },
+        {
+          "title": "내란 '무기징역'·위증 '무죄' 받은 윤석열 8개 재판 중간점검",
+          "outlet": "서울신문",
+          "url": "https://amp.seoul.co.kr/seoul/20260529500178"
+        },
+        {
+          "title": "윤석열·김용현, 내란 재판부 기피 또 불복…항소심 또 멈추나",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/focus/241203investigation"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Han Dong-hoon Independent Run and PPP Internal Rift",
+      "topic_ko": "한동훈 무소속 출마와 국민의힘 내분",
+      "summary": "Former PPP leader Han Dong-hoon is running as an independent in the Busan Buk-gap by-election after being expelled from the PPP, polling at 43% against the DPK's 37% and the PPP's own candidate at 20%. The contest has exposed deep divisions between the pro-Yoon PPP leadership and the Han faction, with some PPP-aligned figures covertly supporting Han.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": -0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.65,
+      "salience": 0.75,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "[MBC여론조사] 부산 북갑에서 경기 평택을에서 한동훈·조국 '잠룡' 존재감",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825991_37004.html"
+        },
+        {
+          "title": "[2026전국동시지방선거]-한동훈에 현역 기초단체장까지...'무소속' 변수",
+          "outlet": "KNN",
+          "url": "https://news.knn.co.kr/news/article/186972"
+        },
+        {
+          "title": "국민의힘은 수도권 지역구 거물급 차출 무위…한동훈 내분 시달려",
+          "outlet": "나무위키 요약",
+          "url": "https://namu.wiki/w/2026%EB%85%84%20%EC%9E%AC%EB%B3%B4%EA%B6%90%EC%84%A0%EA%B1%B0"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Progressive Camp Split in Pyeongtaek By-election",
+      "topic_ko": "평택을 재선거 야권 분열·민주-조국 갈등",
+      "summary": "The Pyeongtaek-eul by-election has turned acrimonious between the DPK and the Cho Guk Innovation Party after progressive unification talks collapsed; Cho Guk leads at 29% with DPK's Kim Yong-nam at 26%, and the parties have exchanged sharp personal attacks, raising fears of a vote split that could hand the seat to the PPP's Yoo Eui-dong.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.45,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.2,
+      "salience": 0.65,
+      "issue_tag": "opposition_unity",
+      "evidence_headlines": [
+        {
+          "title": "평택을 재선거 막판 야권 공방…조국혁신당, 민주당 지도부 비판",
+          "outlet": "전자신문",
+          "url": "https://www.etnews.com/20260530000030"
+        },
+        {
+          "title": "\"그래도 여당\" \"조국 살려야\" \"토박이 유의동\"‥평택을 민심 들어보니",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/newszoomin/newsinsight/6824862_29123.html"
+        },
+        {
+          "title": "범죄자·시한폭탄 말까지…민주-조국혁신당 극한 공방",
+          "outlet": "다음뉴스",
+          "url": "https://issue.daum.net/election/2026/pyeongtaek"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "KOSPI Record Highs and Semiconductor Boom",
+      "topic_ko": "코스피 사상최고치·반도체 호황과 정치적 활용",
+      "summary": "KOSPI broke successive all-time records, surpassing 8,200 points driven by a global semiconductor super-cycle and investor optimism around Nvidia's Jensen Huang, with the Lee government and DPK using the market rally as a campaign talking point; analysts warn of concentration risk in chip stocks amid a K-shaped economic divergence.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.7,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.55,
+      "issue_tag": "economy",
+      "evidence_headlines": [
+        {
+          "title": "\"메모리 랠리 더 간다\" 코스피 또 최고치인데‥10개 중 9개 종목은 하락했다",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825711_37004.html"
+        },
+        {
+          "title": "'확장 재정·반도체의 힘'… 2% 성장·2% 물가·2300억弗 흑자 [이재명 정부 1년 성과]",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605201819346213"
+        },
+        {
+          "title": "반도체 낙관에 젠슨 황 기대감‥\"9천피 보인다\"",
+          "outlet": "MBC뉴스투데이",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Jae-myung Approval Rating Slight Decline",
+      "topic_ko": "이재명 대통령 지지율 소폭 하락",
+      "summary": "President Lee Jae-myung's approval rating dipped to 61% (Gallup, late May), down 3 percentage points from a recent high of 67%, though it remains historically elevated; the DPK holds 45% party support versus the PPP's 23%, with the gap narrowing slightly as the local elections approach.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.35,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.05,
+      "salience": 0.45,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 지지율 61%, 민주당 45%·국민의힘 23%",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html"
+        },
+        {
+          "title": "이재명 대통령 지지율 67%…민주당 2%p↓·국민의힘 3%p↑",
+          "outlet": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/05/07/2026050711141594747"
+        },
+        {
+          "title": "이 대통령 지지율 65.5% 취임 후 최고‥민주당 50.5%·국힘 31.4%",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6816541_36912.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Ex-Presidents Park and Lee Campaign for PPP",
+      "topic_ko": "박근혜·이명박 전직 대통령 국민의힘 지원유세",
+      "summary": "Former presidents Park Geun-hye and Lee Myung-bak campaigned in Daegu and Busan respectively on June 1 to rally conservative voters for PPP candidates, a rare joint intervention that the DPK characterized as a 'revival attempt by conservative forces.' Some voices within the conservative camp, including Hong Joon-pyo, warned the move could backfire by alienating centrist voters.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.05,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": 0.15,
+      "salience": 0.35,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "'격전지' 영남권 보수 재결집 나선 '이명박근혜'",
+          "outlet": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605312126015/"
+        },
+        {
+          "title": "김부겸 측 \"박근혜 등판, 선거 판세에 영향 없을 것\"",
+          "outlet": "프레시안",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "[AI 지선 판세 분석] 민주당, 우세 6·경합우세 6 vs 국힘, 우세 1·경합우세 1",
+          "outlet": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=303715"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Korea Navy Commands RIMPAC for First Time in Asia",
+      "topic_ko": "한국 해군 RIMPAC 아시아 최초 연합사령관 수행",
+      "summary": "South Korea's Navy departed for Hawaii on June 1 with Rear Admiral Kim In-ho set to serve as the first Asian national to command the Combined Force Maritime Component Commander role at RIMPAC 2026, involving 31 nations; the milestone is being framed domestically as proof of Korea's growing Indo-Pacific defense role under the Lee government.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.5,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0.1,
+      "salience": 0.25,
+      "issue_tag": "foreign_policy",
+      "evidence_headlines": [
+        {
+          "title": "\"참가국에서 지휘국으로\"…한국 해군, 림팩서 아시아 첫 연합해군 지휘",
+          "outlet": "해사신문",
+          "url": "http://www.haesanews.com/news/articleView.html?idxno=148408"
+        },
+        {
+          "title": "韓, 2026 림팩 연합해군 지휘권 잡는다…인태지역 역할 확대 해석",
+          "outlet": "뉴스1",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6153596"
+        },
+        {
+          "title": "정조대왕함, 오늘 제주 출항…해군, 림팩 참가·연합사령관도 첫 수행",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260601000737"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
