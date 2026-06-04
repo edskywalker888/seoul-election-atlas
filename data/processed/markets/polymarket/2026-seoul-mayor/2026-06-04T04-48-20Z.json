@@ -1,0 +1,118 @@
+{
+  "captured_at": "2026-06-04T04:48:20.054Z",
+  "source": "polymarket",
+  "event_id": "79973",
+  "event_slug": "2026-seoul-mayoral-election-winner",
+  "event_url": "https://polymarket.com/event/2026-seoul-mayoral-election-winner",
+  "event_title": "2026 Seoul Mayoral Election Winner",
+  "end_date": "2026-06-03T00:00:00Z",
+  "total_volume_usd": 51645992.770300865,
+  "total_liquidity_usd": 5710351.32696,
+  "candidates": [
+    {
+      "name": "Oh Se-hoon",
+      "name_ko": "오세훈",
+      "party_id": "ppp",
+      "prob": 0.995,
+      "volume_usd": 6866164.364252,
+      "market_id": "678929"
+    },
+    {
+      "name": "Cho Eun-hee",
+      "name_ko": "조은희",
+      "party_id": "ppp",
+      "prob": 0.001,
+      "volume_usd": 4149603.284312957,
+      "market_id": "678931"
+    },
+    {
+      "name": "Ahn Cheol-soo",
+      "name_ko": "안철수",
+      "party_id": "ppp",
+      "prob": 0.001,
+      "volume_usd": 3091887.584231985,
+      "market_id": "678933"
+    },
+    {
+      "name": "Park Yong-jin",
+      "name_ko": "박용진",
+      "party_id": "dpk",
+      "prob": 0.001,
+      "volume_usd": 3324966.482751001,
+      "market_id": "678935"
+    },
+    {
+      "name": "Chong Won-oh",
+      "name_ko": "정원오",
+      "party_id": "dpk",
+      "prob": 0.001,
+      "volume_usd": 4452221.980972008,
+      "market_id": "678937"
+    },
+    {
+      "name": "Hong Ihk-pyo",
+      "name_ko": "홍익표",
+      "party_id": "dpk",
+      "prob": 0.001,
+      "volume_usd": 3542976.2033799756,
+      "market_id": "678939"
+    },
+    {
+      "name": "Cho Kuk",
+      "name_ko": "조국",
+      "party_id": "rebuild",
+      "prob": 0.001,
+      "volume_usd": 3215198.957196001,
+      "market_id": "678941"
+    },
+    {
+      "name": "Kang Hoon-sik ",
+      "prob": 0.001,
+      "volume_usd": 2401073.0291970037,
+      "market_id": "678943"
+    },
+    {
+      "name": "Na Kyung-won",
+      "name_ko": "나경원",
+      "party_id": "ppp",
+      "prob": 0.001,
+      "volume_usd": 3553451.484501993,
+      "market_id": "678930"
+    },
+    {
+      "name": "Han Dong-hoon",
+      "prob": 0.001,
+      "volume_usd": 3565041.022154944,
+      "market_id": "678932"
+    },
+    {
+      "name": "Park Ju-min",
+      "name_ko": "박주민",
+      "party_id": "dpk",
+      "prob": 0.001,
+      "volume_usd": 2730190.4180639875,
+      "market_id": "678934"
+    },
+    {
+      "name": "Park Hong-keun",
+      "prob": 0.001,
+      "volume_usd": 3656172.2461320264,
+      "market_id": "678936"
+    },
+    {
+      "name": "Seo Young-kyo",
+      "name_ko": "서영교",
+      "party_id": "dpk",
+      "prob": 0.001,
+      "volume_usd": 3871908.821817004,
+      "market_id": "678938"
+    },
+    {
+      "name": "Jeon Hyun-heui",
+      "prob": 0.001,
+      "volume_usd": 3262409.891337976,
+      "market_id": "678940"
+    }
+  ],
+  "method_notes": "Captured live from Polymarket gamma API. Prob = last_trade_price (binary YES contract)."
+}

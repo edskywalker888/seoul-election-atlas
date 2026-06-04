@@ -1,0 +1,253 @@
+{
+  "captured_at": "2026-06-04T04:44:12.535Z",
+  "method": "llm_synthesis",
+  "model": "claude-sonnet-4-6",
+  "source_urls": [
+    "https://v.daum.net/v/20260604044704112",
+    "https://issue.daum.net/election/2026",
+    "https://imnews.imbc.com/replay/2026/nw930/article/6827647_36996.html",
+    "https://www.fnnews.com/news/202606040220189277",
+    "https://www.newdaily.co.kr/site/data/html/2026/06/04/2026060400048.html",
+    "https://www.hankookilbo.com/news/article/A2026060321530004317",
+    "https://www.fnnews.com/news/202606032019328118",
+    "https://www.ytn.co.kr/_ln/0101_202606032332578964",
+    "https://imnews.imbc.com/news/2026/politics/article/6827621_36911.html",
+    "https://imnews.imbc.com/news/2026/politics/article/6827616_36911.html",
+    "https://www.seoul.co.kr/news/politics/local-election2026/2026/06/04/20260604500047",
+    "https://amp.seoul.co.kr/seoul/20260529500178",
+    "https://issue.daum.net/focus/241203investigation",
+    "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C",
+    "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html",
+    "https://www.newspim.com/news/view/20260602000633",
+    "https://www.fnnews.com/news/202605310602430678",
+    "https://www.newspim.com/news/view/20260601000470",
+    "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88",
+    "https://www.edaily.co.kr/News/Read?newsId=03447286645478440&mediaCodeNo=257",
+    "https://imnews.imbc.com/news/2026/society/article/6826739_36918.html"
+  ],
+  "topics": [
+    {
+      "rank": 1,
+      "topic_en": "DPK Wins June 3 Local Elections Landslide",
+      "topic_ko": "6·3 지방선거 민주당 압승",
+      "summary": "The Democratic Party of Korea swept the June 3 local elections, winning approximately 13 of 16 metropolitan governorships; the PPP retained only Gyeongbuk, Daegu, and South Gyeongnam, with Oseh-hun narrowly holding Seoul in a last-minute reversal. The result, coming one year after Lee Jae-myung's inauguration, was widely interpreted as an endorsement of the governing party and a third consecutive national election defeat for the PPP.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.85,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.85,
+      "salience": 1,
+      "issue_tag": "incumbency",
+      "evidence_headlines": [
+        {
+          "title": "6.3 지방선거서 與 지방권력 교체 성공…서울 초박빙·부산 승리(종합2보)",
+          "outlet": "연합뉴스",
+          "url": "https://v.daum.net/v/20260604044704112"
+        },
+        {
+          "title": "[경기도지사에 민주 추미애 '당선'…첫 여성 광역단체장(종합)",
+          "outlet": "연합뉴스",
+          "url": "https://issue.daum.net/election/2026"
+        },
+        {
+          "title": "민주당은 '한강 벨트' 일부를 탈환하며 17곳을 내줬던 4년 전 패배를 설욕",
+          "outlet": "뉴시스",
+          "url": "https://issue.daum.net/election/2026"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic_en": "Han Dong-hoon Wins Seat PPP Leadership Crisis",
+      "topic_ko": "한동훈 당선·국민의힘 지도부 쇄신론",
+      "summary": "Former PPP chairman Han Dong-hoon, running as an independent after being expelled from the party, narrowly won the Busan Buk-gu Gap by-election by 1.7 percentage points, signalling a possible return to PPP leadership; simultaneously, PPP chair Jang Dong-hyeok faced intense calls to resign following the party's third consecutive national election loss. Cho Kuk of the Rebuilding Korea Party was defeated in the Pyeongtaek-eul by-election.",
+      "sentiment_dpk": "negative",
+      "sentiment_score_dpk": -0.35,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.3,
+      "salience": 0.82,
+      "issue_tag": "party_fragmentation",
+      "evidence_headlines": [
+        {
+          "title": "부산 북구갑 한동훈 당선‥1.7%p 차 '신승'",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw930/article/6827647_36996.html"
+        },
+        {
+          "title": "한동훈 금의환향..국민의힘 장악 나서나",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202606040220189277"
+        },
+        {
+          "title": "'총선-대선-지방선거' 3연패 … 국힘 내 커지는 '장동혁 책임론'",
+          "outlet": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/06/04/2026060400048.html"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic_en": "Ballot Paper Shortage Scandal Election Integrity",
+      "topic_ko": "투표용지 부족 사태·선거관리 논란",
+      "summary": "Polling stations in Seoul's Songpa and Gangnam districts ran out of ballot papers on election day, causing voting stoppages and angry queues; the National Election Commission issued a public apology and was criminally complained against by civic groups. The PPP demanded suspension of the Seoul mayoral vote count and a re-election, while the NEC said all waiting voters were ultimately able to cast ballots.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "mixed",
+      "sentiment_score_ppp": -0.2,
+      "salience": 0.72,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "투표용지 부족 사태' 선관위 고발당해… '참정권 침해·직무유기'",
+          "outlet": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026060321530004317"
+        },
+        {
+          "title": "선관위 '투표용지 부족 사태'에 오후 9시 브리핑...대국민 사과",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202606032019328118"
+        },
+        {
+          "title": "6.3 지방선거 개표 속속...여야 성적표는?",
+          "outlet": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202606032332578964"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic_en": "Seoul Mayor Race Ultra-Tight PPP Reversal",
+      "topic_ko": "서울시장 초박빙 오세훈 역전 당선",
+      "summary": "The Seoul mayoral contest between DPK's Jeong Won-o and incumbent PPP mayor Oh Se-hoon remained within a fraction of a percent throughout the night, with Oh Se-hoon ultimately reversing a deficit in the final tally to retain the Seoul mayoralty. The razor-thin result — a margin of tens of thousands of votes out of millions cast — became the evening's most-watched contest and tempered the DPK's otherwise dominant national performance.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.2,
+      "sentiment_ppp": "positive",
+      "sentiment_score_ppp": 0.45,
+      "salience": 0.65,
+      "issue_tag": "candidate_strength",
+      "evidence_headlines": [
+        {
+          "title": "서울시장 선거 오세훈, 정원오 역전",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6827621_36911.html"
+        },
+        {
+          "title": "[속보] 정원오 48.62%·오세훈 48.66% 역전‥개표율 93.84%",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6827616_36911.html"
+        },
+        {
+          "title": "정원오 48.9%·오세훈 48.3%…서울시장 초박빙",
+          "outlet": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/local-election2026/2026/06/04/20260604500047"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic_en": "Yoon Insurrection Trial Appeal Proceedings",
+      "topic_ko": "윤석열 내란 재판 항소심 진행",
+      "summary": "Former President Yoon Suk-yeol, sentenced to life imprisonment for insurrection at first instance, has seen his appeal stalled after his defense filed a court recusal motion; special prosecutors separately sought seven-year prison terms for two Presidential Security Service officials who obstructed Yoon's arrest, with a verdict due July 9. A further first-instance verdict on the drone-Pyongyang scheme charge is expected June 12.",
+      "sentiment_dpk": "neutral",
+      "sentiment_score_dpk": 0.1,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.75,
+      "salience": 0.58,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "내란 '무기징역'·위증 '무죄' 받은 윤석열 8개 재판 중간점검",
+          "outlet": "서울신문",
+          "url": "https://amp.seoul.co.kr/seoul/20260529500178"
+        },
+        {
+          "title": "특검, '윤석열 체포 방해' 경호처 박종준·김성훈 징역 7년 구형",
+          "outlet": "한국일보",
+          "url": "https://issue.daum.net/focus/241203investigation"
+        },
+        {
+          "title": "윤석열 내란 재판/전개",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EB%9E%80%20%EC%9E%AC%ED%8C%90/%EC%A0%84%EA%B0%9C"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic_en": "Lee Government One Year Anniversary Approval Rating",
+      "topic_ko": "이재명 정부 출범 1주년·국정 지지율",
+      "summary": "June 4 marks exactly one year since President Lee Jae-myung's inauguration; his approval rating stands at approximately 61% (Gallup), down three points in recent weeks, while the DPK polls at 45% party support versus 23% for the PPP. Coverage cites KOSPI above 8,000, a US-Korea shipbuilding MOU, and Middle East energy deals as government achievements, but notes the failed constitutional amendment and stalled North Korea diplomacy as shortfalls.",
+      "sentiment_dpk": "positive",
+      "sentiment_score_dpk": 0.6,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.5,
+      "salience": 0.5,
+      "issue_tag": "government_approval",
+      "evidence_headlines": [
+        {
+          "title": "이재명 대통령 지지율 61%, 민주당 45%·국민의힘 23%",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6822735_36912.html"
+        },
+        {
+          "title": "[이재명 정부 1년] 실용으로 쌓은 1년…계엄 그늘서 글로벌 중추 국가로",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260602000633"
+        },
+        {
+          "title": "관세·중동 파고 넘은 李정부 1기…2년차 국정 드라이브 진용 꾸린다",
+          "outlet": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202605310602430678"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic_en": "Constitutional Amendment Failure Legislative Gridlock",
+      "topic_ko": "개헌 무산·여야 입법 극한 대치",
+      "summary": "The DPK-led attempt to hold a constitutional amendment referendum simultaneously with the June 3 elections collapsed after the PPP boycotted the National Assembly vote and deployed 24 rounds of filibuster against major legislation over the past year. The failed referendum, which would have been the first constitutional revision in 39 years, is expected to revive as a post-election policy debate.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": -0.25,
+      "sentiment_ppp": "negative",
+      "sentiment_score_ppp": -0.4,
+      "salience": 0.38,
+      "issue_tag": "ideology",
+      "evidence_headlines": [
+        {
+          "title": "[이재명 정부 1년] 與 강행 처리와 24번의 필리버스터...여야 극한 대치 지속",
+          "outlet": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260601000470"
+        },
+        {
+          "title": "제10차 개헌/제22대 국회 개헌안",
+          "outlet": "나무위키",
+          "url": "https://namu.wiki/w/%EC%A0%9C10%EC%B0%A8%20%EA%B0%9C%ED%97%8C/%EC%A0%9C22%EB%8C%80%20%EA%B5%AD%ED%9A%8C%20%EA%B0%9C%ED%97%8C%EC%95%88"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic_en": "Mos Tan Defamation Exit Ban Lee Disinformation",
+      "topic_ko": "모스 탄 출국정지·이재명 허위사실 유포 수사",
+      "summary": "Korean-American professor Mos Tan was barred from leaving South Korea after police requested an exit ban over allegations he spread fabricated claims about President Lee Jae-myung's youth; a Seoul court rejected Tan's bid to suspend the exit ban. Tan, who returned to Korea in late May after months abroad, has refused police summons and filed a recusal challenge against investigators.",
+      "sentiment_dpk": "mixed",
+      "sentiment_score_dpk": 0.2,
+      "sentiment_ppp": "neutral",
+      "sentiment_score_ppp": 0,
+      "salience": 0.28,
+      "issue_tag": "scandal",
+      "evidence_headlines": [
+        {
+          "title": "[속보]法, '이 대통령 소년범설' 모스탄, 출국정지 집행정지 기각",
+          "outlet": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03447286645478440&mediaCodeNo=257"
+        },
+        {
+          "title": "[단독] 경찰, 허위사실 유포 '부정선거론자' 모스 탄 출국정지 신청",
+          "outlet": "MBC뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6826739_36918.html"
+        }
+      ]
+    }
+  ],
+  "method_notes": "Captured via Anthropic API (Sonnet 4.6) with web_search for live Korean political coverage. Topic labels (topic_en) are stable handles for cross-snapshot rank comparison."
+}
